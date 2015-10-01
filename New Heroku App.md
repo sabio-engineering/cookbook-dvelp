@@ -1,8 +1,10 @@
+    -- This document is a draft. There are parts that are missing.
+
 # Creating a new Heroku app
 
-## Create admin email
+## Setup admin email
 
-For testing purposes, create new @dvelp.co.uk email and forward to collaborators as needed.
+For testing purposes, setup an admin email and forward the instructions to collaborators as needed.
 
 ## Create app pipeline
 
