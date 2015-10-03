@@ -35,6 +35,7 @@ If you don't have staging app, create it by forking the production app using the
         Note that `${colour}` represents the colour of your newly created postgresql database, while `${old_db_colour}` represents the colour of your old database.
 
     * Update config vars as needed
+      * Remember to update carrierwave AWS S3
 
 * If you don't need SSL addon, remove it `heroku addons:destroy ssl`
 * Staging app is now in **your ownership**. Any charges will happen on your account. Change staging app permissions if needed (add users, transfer ownership, etc.).
