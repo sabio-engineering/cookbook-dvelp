@@ -53,7 +53,7 @@ If you don't have staging app, create it by forking the production app using the
 
     `heroku pipelines:create ${pipeline_name}`
 
-    It's good to call the `${pipeline-name}` similar or the same as production app name.
+    It's good to call the `${pipeline_name}` similar or the same as production app name.
 
 2. Add staging app to the pipeline:
 
