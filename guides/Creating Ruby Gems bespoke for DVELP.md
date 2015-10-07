@@ -5,6 +5,7 @@
 1. Configure bundler:
 
    `bundle config gem.test rspec`
+
     * Other popular config options include:
 
     `bundle config build.nokogiri --use-system-libraries`
@@ -34,7 +35,7 @@ mkdir exe
 module_name=`echo ${gem_name:0:1} | tr '[a-z]' '[A-Z]'`${gem_name:1}
 
 cat <<EOT > lib/${gem_name}/cli/install.rb
-require "thor/group"
+require 'thor/group'
 
 module ${module_name}
   class CLI < Thor
@@ -42,7 +43,7 @@ module ${module_name}
       include Thor::Actions
 
       def self.start
-        source_root = File.expand_path("../install_files", __FILE__)
+        source_root = File.expand_path('../install_files', __FILE__)
         FileUtils.cp_r "#{source_root}/.", Dir.pwd
       end
     end
@@ -51,16 +52,16 @@ end
 EOT
 
 cat <<EOT > lib/${gem_name}/cli.rb
-require "thor"
+require 'thor'
 
 module ${module_name}
   class CLI < Thor
     # ${gem_name} install
 
-    desc "install", "Install ${module_name}"
+    desc 'install', 'Install ${module_name}'
     def install
       # make require here to hide it from Thor CLI actions
-      require "${gem_name}/cli/install"
+      require '${gem_name}/cli/install'
       Install.start
     end
   end
@@ -70,7 +71,7 @@ EOT
 cat <<EOT > exe/${gem_name}
 #!/usr/bin/env ruby
 
-require "${gem_name}/cli"
+require '${gem_name}/cli'
 
 ${module_name}::CLI.start
 EOT
