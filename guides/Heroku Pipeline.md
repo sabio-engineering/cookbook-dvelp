@@ -28,9 +28,9 @@ If you don't have staging app, create it by forking the production app using the
         ```
         heroku addons:create heroku-postgresql:hobby-dev # [3]
         heroku config
-        heroku pg:copy DATABASE_URL HEROKU_POSTGRESQL_${colour}_URL # [4]
+        heroku pg:copy DATABASE_URL HEROKU_POSTGRESQL_${colour}_URL --confirm ${app_name}-staging # [4]
         heroku pg:promote HEROKU_POSTGRESQL_{colour}
-        heroku addons:destroy HEROKU_POSTGRESQL_${old_db_colour}
+        heroku addons:destroy HEROKU_POSTGRESQL_${old_db_colour} --confirm ${app_name}-staging
         ```
         Note that `${colour}` represents the colour of your newly created postgresql database, while `${old_db_colour}` represents the colour of your old database.
 
@@ -55,13 +55,13 @@ If you don't have staging app, create it by forking the production app using the
 
     It's good to call the `${pipeline_name}` similar or the same as production app name.
 
-2. Add staging app to the pipeline:
+2. Add production app to the pipeline:
 
-    `heroku pipelines:add -a ${app_name}-staging ${pipeline_name}`
+    `heroku pipelines:add -a ${app_name} ${pipeline_name}`
 
 ## Promote!
 
-This will promote the `${app_name}-staging` (staging app) to `${app_name}` (production)
+Below command will promote the `${app_name}-staging` (staging app) to `${app_name}` (production):
 `heroku pipelines:promote -a ${app_name}-staging`
 
 ### FAQ
