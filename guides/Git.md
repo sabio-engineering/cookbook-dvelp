@@ -52,7 +52,7 @@ Share your branch.
 
 Submit a pull request, assign it to code reviewer, add ‘needs_review’ label. (**)
 
-[good commit message]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+[good commit message]: https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message
 
 ## Review Code
 
