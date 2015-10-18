@@ -119,8 +119,7 @@ git branch -d ${branch_name}
 
 ## Extra, Extra
 
-Git is awesome and we use it alot, so get yourself some [good aliases] to help speed
-things up!
+Git is awesome and we use it alot, so get yourself some [good aliases] to help speed things up!
 
 [good aliases]: https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/git/git.plugin.zsh
 
