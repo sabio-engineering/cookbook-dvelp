@@ -116,10 +116,16 @@ Delete your local feature branch.
 git branch -d ${branch_name}
 ```
 
+<<<<<<< HEAD
 
 ## Extra, Extra
 
 Git is awesome and we use it alot, so get yourself some [good aliases] to help speed
+=======
+## Extra, Extra
+
+Git is awesome, we use it alot, so get yourself some [good aliases] to help speed
+>>>>>>> 6369b85... Add reference to aliases
 things up!
 
 [good aliases]: https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/git/git.plugin.zsh
