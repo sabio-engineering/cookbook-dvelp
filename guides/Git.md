@@ -10,10 +10,10 @@
 
 ## Write a Feature
 
-Create a new, local branch off `dev`.
+Create a new, local branch off `master`.
 
 ```
-git checkout dev
+git checkout master
 git pull
 git checkout -b ${branch_name} # (* - check fusnote)
 ```
@@ -22,7 +22,7 @@ Rebase frequently to incorporate upstream changes.
 
 ```
 git fetch origin
-git rebase origin/dev
+git rebase origin/master
 ```
 
 When feature is complete and tests pass, commit the changes.
@@ -44,7 +44,7 @@ Use the following template to write a [good commit message]:
 
 If you've created more than one commit, use a rebase to squash them into cohesive commits with good messages:
 
-    git rebase -i origin/dev
+    git rebase -i origin/master
 
 Share your branch.
 
@@ -74,17 +74,17 @@ Rebase interactively:
 ```
 git checkout ${branch_name}
 git fetch origin
-git rebase -i origin/dev
+git rebase -i origin/master
 ```
 Squash commits like "Fix whitespace”, “Address comments”, etc. into one or a small number of valuable commit(s). Edit commit messages to reveal intent.
 
-Force push your branch. This allows GitHub to automatically close your pull request and mark it as merged when your commit(s) are pushed to `origin/dev`. It also makes it possible to [find the pull request] that brought in your changes.
+Force push your branch. This allows GitHub to automatically close your pull request and mark it as merged when your commit(s) are pushed to `origin/master`. It also makes it possible to [find the pull request] that brought in your changes.
 
 [find the pull request]: http://stackoverflow.com/a/17819027
 
 ```
-git push -f
-git checkout dev
+git diff --stat
+git checkout master
 git merge ${branch_name} --ff-only
 git push
 ```
