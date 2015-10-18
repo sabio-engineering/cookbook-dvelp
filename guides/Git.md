@@ -1,17 +1,19 @@
 # Git
 
-Our quick guide to working collaboratively with Git and Github.com.
+Our quick guide to working collaboratively with Git and GitHub.
 
-## Contributing to a repo
+
+## Contributing to a Repo
 
 * Create a feature branch
-* Ignore files that are specific to your local environment or workflow
 * Write good commits
 * Rebase frequently to incorporate upstream changes
 * Create a GitHub pull request to have your branch reviewed
+* Merge into master
 * Delete local and remote feature branches after merging
 
-## Write a Feature
+
+## Create a Feature
 
 Create a new, local branch off `master`.
 
@@ -21,14 +23,9 @@ git pull
 git checkout -b ${branch_name} # (* - check fusnote)
 ```
 
-Rebase frequently to incorporate upstream changes.
+## Commit
 
-```
-git fetch origin
-git rebase origin/master
-```
-
-When feature is complete and tests pass, commit the changes.
+Make frequent, coherent commits that you will thank yourself for later.
 
 ```
 git status
@@ -36,7 +33,7 @@ git add --all
 git commit --verbose
 ```
 
-Use the following template to write a [good commit message]:
+Use the following template for writing a [good commit message]:
 
     Present-tense summary under 50 characters
 
@@ -45,52 +42,67 @@ Use the following template to write a [good commit message]:
 
     http://project.management-system.com/ticket/123
 
-If you've created more than one commit, use a rebase to squash them into cohesive commits with good messages:
+[good commit message]: https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message
+
+
+N.B. Be sure to ignore files that contain sensitive data or that are specific to your local environment or workflow.
+
+
+## Rebase upstream
+
+Rebase frequently to incorporate upstream changes.
+
+```
+git fetch origin
+git rebase origin/master
+```
+
+
+## Request a Review
+
+If you've created more than one commit, use interactive rebase to squash them into cohesive commits with good messages:
 
     git rebase -i origin/master
+
 
 Share your branch.
 
     git push origin ${branch_name}
 
-Submit a pull request, assign it to code reviewer, add ‘needs_review’ label. (**)
+Create a [pull request] on Github and have a team mate review it for you. They
+will make comments and ask questions via the web interface, or discuss it with you directly.
 
-[good commit message]: https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message
+[pull request]: https://help.github.com/articles/using-pull-requests
 
-## Review Code
-
-When someone else makes a pull request, you can review their changes.
-Make comments and ask questions directly on lines of code in the GitHub web interface.
-
-When finished, remove ‘needs_review’ label.
-
-If you’re satisfied with the changes, or there are only minor styling issues, add ‘ship_it’ label.
-If pull request contains bugs or several issues, add ‘pending_changes’ label.
-If you think pull request changes are not needed at all, add ‘do_we_need_this?’ label.
-
-Assign the pull request back to it's owner.
 
 ## Merge
 
-Rebase interactively:
+Rebase your branch interactively to squash un-necessary commits like "Remove whitespace".
 
 ```
-git checkout ${branch_name}
 git fetch origin
 git rebase -i origin/master
 ```
-Squash commits like "Fix whitespace”, “Address comments”, etc. into one or a small number of valuable commit(s). Edit commit messages to reveal intent.
 
 Force push your branch. This allows GitHub to automatically close your pull request and mark it as merged when your commit(s) are pushed to `origin/master`. It also makes it possible to [find the pull request] that brought in your changes.
 
+```
+git push -f
+```
+
 [find the pull request]: http://stackoverflow.com/a/17819027
 
+Double check your commits, scan the files you changed and merge in to master!
+
 ```
+git log origin/master..${branch-name}
 git diff --stat
 git checkout master
 git merge ${branch_name} --ff-only
 git push
 ```
+
+## Cleanup
 
 Delete your remote feature branch.
 
@@ -104,6 +116,15 @@ Delete your local feature branch.
 git branch -d ${branch_name}
 ```
 
+
+## Extra, Extra
+
+Git is awesome and we use it alot, so get yourself some [good aliases] to help speed
+things up!
+
+[good aliases]: https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/git/git.plugin.zsh
+
+
 *****
 *
 ###### Note that you can set shell variables like this `branch_name=“newsletter-signup”`, and run most of the commands without having to change anything. Here's the list of variables needed:
@@ -113,7 +134,3 @@ branch_name=“”
 repo_name=“”
 ```
 
-**
-###### If labels in project are not set up properly, set them up by going to Pull Requests - Labels.
-`https://github.com/DVELP/${repo_name}/labels`
-*****
