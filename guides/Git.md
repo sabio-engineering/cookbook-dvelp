@@ -2,15 +2,15 @@
 
 ## Maintain a Repo
 
-* Avoid including files in source control that are specific to your development machine or process.
-* Delete local and remote feature branches after merging.
-* Perform work in a feature branch.
-* Rebase frequently to incorporate upstream changes.
-* Use a GitHub pull request for code reviews.
+* Avoid including files in source control that are specific to your development machine or process
+* Perform work in a feature branch
+* Rebase frequently to incorporate upstream changes
+* Use a GitHub pull request for code reviews
+* Delete local and remote feature branches after merging
 
 ## Write a Feature
 
-Create a local feature branch based off `dev` branch.
+Create a new, local branch off `dev`.
 
 ```
 git checkout dev
@@ -33,7 +33,7 @@ git add --all
 git commit --verbose
 ```
 
-Write a [good commit message]. Example format:
+Use the following template to write a [good commit message]:
 
     Present-tense summary under 50 characters
 
@@ -61,11 +61,11 @@ Make comments and ask questions directly on lines of code in the GitHub web inte
 
 When finished, remove ‘needs_review’ label.
 
-If you’re satisfied with the changes, or there are only minor styling issues, add ‘ship_it’ label. 
+If you’re satisfied with the changes, or there are only minor styling issues, add ‘ship_it’ label.
 If pull request contains bugs or several issues, add ‘pending_changes’ label.
 If you think pull request changes are not needed at all, add ‘do_we_need_this?’ label.
 
-Assing the pull request back to the pull request owner.
+Assign the pull request back to it's owner.
 
 ## Merge
 
