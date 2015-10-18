@@ -1,11 +1,14 @@
 # Git
 
-## Maintain a Repo
+Our quick guide to working collaboratively with Git and Github.com.
 
-* Avoid including files in source control that are specific to your development machine or process
-* Perform work in a feature branch
+## Contributing to a repo
+
+* Create a feature branch
+* Ignore files that are specific to your local environment or workflow
+* Write good commits
 * Rebase frequently to incorporate upstream changes
-* Use a GitHub pull request for code reviews
+* Create a GitHub pull request to have your branch reviewed
 * Delete local and remote feature branches after merging
 
 ## Write a Feature
