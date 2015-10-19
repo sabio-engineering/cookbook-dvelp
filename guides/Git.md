@@ -107,7 +107,7 @@ git push
 Delete your remote feature branch.
 
 ```
-git push origin -d ${branch_name}
+git push origin --delete ${branch_name}
 ```
 
 Delete your local feature branch.
