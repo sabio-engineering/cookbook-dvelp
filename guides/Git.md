@@ -23,6 +23,8 @@ git pull
 git checkout -b ${branch_name} # (* - check fusnote)
 ```
 
+N.B. Branch names should be indicative of their function and be hyphenated e.g. `blog-comments`
+
 ## Commit
 
 Make frequent, coherent commits that you will thank yourself for later.
