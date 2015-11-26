@@ -26,10 +26,10 @@ git merge $branch_name
 echo "git push"
 git push
 
-echo "git push origin --delete ${branch_name}"
-git push origin --delete ${branch_name}
+echo "git push origin --delete $branch_name"
+git push origin --delete $branch_name
 
-echo "git branch -d ${branch_name}"
-git branch -d ${branch_name}
+echo "git branch -d $branch_name"
+git branch -d $branch_name
 
-echo "All is well!"
+echo "$branch_name has been merged into master. All is well!"
