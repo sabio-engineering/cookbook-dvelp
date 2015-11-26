@@ -1,15 +1,15 @@
 # DVELP Scripts
 
-This is a collection of small and big shell scripts that we use in DVELP for our everyday work.
+A collection of shell scripts that we use at DVELP for our making the everyday more efficient.
 
-For best experience with git scripts, create alias for each. Edit your `~/.gitconfig` file and add the following:
+For ease of use, we recommend first downloading the shell scripts, then adding an alias to them in your `~/.gitconfig`. For example:
 
 ```
 [alias]
 	add-heroku-remote = !${path_to_git_script}
 ```
 
-The exclamation mark before path is required.
+N.B. An exclamation mark is required before the path.
 
 Scripts:
 
