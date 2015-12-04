@@ -50,7 +50,7 @@ Use the following template for writing a [good commit message]:
 N.B. Be sure to ignore files that contain sensitive data or that are specific to your local environment or workflow.
 
 
-## Rebase upstream
+## Rebase Upstream
 
 Rebase frequently to incorporate upstream changes.
 
@@ -126,8 +126,7 @@ Git is awesome and we use it alot, so get yourself some [good aliases] to help s
 [good aliases]: https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/git/git.plugin.zsh
 
 
-*****
-*
+******
 ###### Note that you can set shell variables like this `branch_name=“newsletter-signup”`, and run most of the commands without having to change anything. Here's the list of variables needed:
 
 ```
