@@ -12,6 +12,14 @@ better.
   * [Git Pull Requests]()
   * [Heroku Remotes](https://github.com/DVELP/cookbook/blob/master/scripts/git_heroku_add.sh)
 
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/DVELP/seoable. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
+
+## License
+
+These resources are copyright of DVELP Ltd. It is free software and available to distribute under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
 <br></br>
 [![alt text](https://raw.githubusercontent.com/DVELP/cookbook/master/assets/dvelp-logo.png "DVELP logo")](http://dvelp.co.uk)
 
