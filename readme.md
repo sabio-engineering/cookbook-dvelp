@@ -10,6 +10,7 @@ better.
 
 * [Scripts](https://github.com/DVELP/cookbook/tree/master/scripts)
   * [Git Pull Requests]()
+  * [Heroku Sync DB to Local](https://github/DVELP/cookbook/blob/master/scripts/heroku_sync_db_to_local.sh)
   * [Heroku Remotes](https://github.com/DVELP/cookbook/blob/master/scripts/git_heroku_add.sh)
 
 ## Contributing
