@@ -4,7 +4,7 @@ A collection of shell scripts that we use at DVELP for our making the everyday m
 
 # Heroku Sync DB to Local
 
-Get it: [heroku\_sync_db_to_local.sh](https://github.com/DVELP/cookbook/blob/master/scripts/git_heroku_sync_db_to_local.sh)
+Get it: [heroku\_sync_db_to_local.sh](https://github.com/DVELP/cookbook/blob/master/scripts/heroku_sync_db_to_local.sh)
 
 Back-up and sync your remote DB to your local machine.
 
