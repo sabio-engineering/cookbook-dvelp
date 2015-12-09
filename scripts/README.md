@@ -20,6 +20,10 @@ Alias:
 hdbsync = heroku_sync_db_to_local.sh
 ```
 
+Todo:
+  * Pass parameter to skip back-up
+  * Default app name to current path
+
 # Heroku Remotes
 
 Get it: [git\_heroku\_add.sh](https://github.com/DVELP/cookbook/blob/master/scripts/git_heroku_add.sh)
