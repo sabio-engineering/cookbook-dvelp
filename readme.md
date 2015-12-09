@@ -9,8 +9,8 @@ better.
   * [Ruby gems](https://github.com/DVELP/cookbook/blob/master/guides/Creating%20Ruby%20Gems%20bespoke%20for%20DVELP.md)
 
 * [Scripts](https://github.com/DVELP/cookbook/tree/master/scripts)
-  * [Git Pull Requests]()
-  * [Heroku Sync DB to Local](https://github/DVELP/cookbook/blob/master/scripts/heroku_sync_db_to_local.sh)
+  * [Git Pull Requests](https://github.com/DVELP/cookbook/blob/master/scripts/git_merge_pull_request.sh)
+  * [Heroku Sync DB to Local](https://github.com/DVELP/cookbook/blob/master/scripts/heroku_sync_db_to_local.sh)
   * [Heroku Remotes](https://github.com/DVELP/cookbook/blob/master/scripts/git_heroku_add.sh)
 
 ## Contributing
