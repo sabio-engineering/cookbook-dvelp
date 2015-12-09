@@ -4,8 +4,8 @@ Our collection of guides, recipes and scripts for helping you get things done,
 better.
 
 * [Guides](https://github.com/DVELP/cookbook/tree/master/guides)
-  * [Git](https://github.com/DVELP/cookbook/blob/alias-git-closepr/guides/Git.md)
-  * [Heroku](https://github.com/DVELP/cookbook/blob/alias-git-closepr/guides/Heroku%20Pipeline.md)
+  * [Git](https://github.com/DVELP/cookbook/blob/master/guides/Git.md)
+  * [Heroku](https://github.com/DVELP/cookbook/blob/master/guides/Heroku%20Pipeline.md)
   * [Ruby gems](https://github.com/DVELP/cookbook/blob/master/guides/Creating%20Ruby%20Gems%20bespoke%20for%20DVELP.md)
 
 * [Scripts](https://github.com/DVELP/cookbook/tree/master/scripts)
