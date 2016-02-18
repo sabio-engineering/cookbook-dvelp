@@ -1,0 +1,70 @@
+Metrics/LineLength:
+  Max: 80
+  Exclude:
+    - 'db/schema.rb'
+
+Metrics/MethodLength:
+  Enabled: false
+
+Rails:
+  Enabled: true
+
+Style/AlignParameters:
+  EnforcedStyle: with_fixed_indentation
+
+Style/BlockComments:
+  Exclude:
+    - 'spec/spec_helper.rb'
+
+Style/Documentation:
+  Enabled: false
+
+Style/EmptyLinesAroundBlockBody:
+  Exclude:
+    - 'db/schema.rb'
+
+Style/ExtraSpacing:
+  Exclude:
+    - 'bin/*'
+    - 'db/schema.rb'
+
+Style/FirstParameterIndentation:
+  EnforcedStyle: consistent
+
+Style/GuardClause:
+  Enabled: false
+
+Style/HashSyntax:
+  Exclude:
+    - 'Rakefile'
+    - 'lib/tasks/*.rake'
+
+Style/IfUnlessModifier:
+  Enabled: false
+
+Style/IndentArray:
+  EnforcedStyle: consistent
+
+Style/MultilineMethodCallIndentation:
+  EnforcedStyle: indented
+
+Style/NumericLiterals:
+  Exclude:
+    - 'db/schema.rb'
+
+Style/PercentLiteralDelimiters:
+  PreferredDelimiters:
+    '%':  ()
+    '%i': '[]'
+    '%q': ()
+    '%Q': ()
+    '%r': '{}'
+    '%s': ()
+    '%w': '[]'
+    '%W': '[]'
+    '%x': ()
+
+Style/StringLiterals:
+  Exclude:
+    - 'bin/*'
+    - 'db/schema.rb'

@@ -7,6 +7,7 @@ better.
   * [Git](https://github.com/DVELP/cookbook/blob/master/guides/Git.md)
   * [Heroku](https://github.com/DVELP/cookbook/blob/master/guides/Heroku%20Pipeline.md)
   * [Ruby gems](https://github.com/DVELP/cookbook/blob/master/guides/Creating%20Ruby%20Gems%20bespoke%20for%20DVELP.md)
+  * [Code Style](https://github.com/DVELP/cookbook/blob/master/guides/code-style/Readme.md)
 
 * [Scripts](https://github.com/DVELP/cookbook/tree/master/scripts)
   * [Git Pull Requests](https://github.com/DVELP/cookbook/blob/master/scripts/git_merge_pull_request.sh)

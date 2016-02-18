@@ -1,0 +1,21 @@
+scss_files: 'app/assets/stylesheets/**/*.scss'
+
+linters:
+  Comment:
+    enabled: false
+  ImportPath:
+    enabled: false
+  LeadingZero:
+    style: include_zero
+  MergeableSelector:
+    enabled: false
+  NameFormat:
+    enabled: true
+    convention: hyphenated_lowercase
+    variable_convention: '^[a-z][a-zA-Z0-9]*(?:\-[a-z0-9][a-zA-Z0-9]*)?(?:\-\-[a-z0-9][a-zA-Z0-9]*)?$'
+  NestingDepth:
+    max_depth: 1
+  SelectorFormat:
+    enabled: true
+    convention: hyphenated_lowercase
+    class_convention: '^(?:is)\-[a-z][a-zA-Z0-9]*$|^(?!is)[a-z][a-zA-Z0-9]*(?:\-[a-z][a-zA-Z0-9]*)?(?:\-\-[a-z0-9][a-zA-Z0-9]*)?$'
