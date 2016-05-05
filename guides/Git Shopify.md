@@ -1,4 +1,4 @@
-# Git strategy
+# Git && Shopify
 
 Our quick guide to working collaboratively with Git, GitHub and Shopify projects.
 
