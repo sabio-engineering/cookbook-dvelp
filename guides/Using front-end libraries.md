@@ -44,7 +44,7 @@ Files can be ignored and not copied. For example, some libraries can have depend
       "jquery-placeholder"
     ],
 ```
-### Overriding main files
+####Overriding main files
 A lot of registered components for bower do not include bower.json configuration. Therefore, bower does not know about any "main files" and therefore, by default bower-installer doesn't know about them either. Bower-installer can override an existing main file path or provide a non-existant one:
 
 ```
@@ -59,7 +59,7 @@ A lot of registered components for bower do not include bower.json configuration
     }
   }
 ```
-###Rename files
+####Rename files
 Files can be renamed when bower-installer is copying them to their new destination.
 
 ```
