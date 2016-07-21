@@ -1,8 +1,17 @@
 require 'rubocop/rake_task'
 
-RuboCop::RakeTask.new
+task :jshint_custom do
+  puts 'Running JS lints...'
+  if system("bundle exec rake jshint:lint['.jshint.yml']")
+    puts "\e[32mAll good!\e[0m"
+  else
+    exit 1
+  end
+end
+task default: :jshint_custom
 
-task :default => :rubocop
+RuboCop::RakeTask.new
+task default: :rubocop
 
 task :scss_lint do
   puts 'Running SCSS lints...'
@@ -12,5 +21,4 @@ task :scss_lint do
     exit 1
   end
 end
-
-task :default => :scss_lint
+task default: :scss_lint
