@@ -13,13 +13,17 @@ on the team is comfortable with any adjustments you make.
 
 ## Configs
 
-We use a number of tools to enforce style compliance; Rubocop for Ruby lints and
-SCSS Lint for, well, SCSS lints.
+We use a number of tools to enforce style compliance:
+
+  * JSHint for Javascript lints
+  * Rubocop for Ruby lints
+  * SCSS Lint for, well, SCSS lints
 
 First, you need to add the gems to your project's Gemfile:
 
 ```ruby
 group :development, :test do
+  gem 'jshint', require: false
   gem 'rubocop', require: false
   gem 'scss_lint', require: false
 end
@@ -30,6 +34,7 @@ Then you need to add some configs that implement our styles.
 The following is a list of configuration files you're encouraged to use in a new
 project:
 
+* [JSHint](.jshint.yml)
 * [Rubocop](.rubocop.yml)
 * [SCSS Lint](.scss-lint.yml)
 
