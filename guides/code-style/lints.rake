@@ -18,3 +18,4 @@ task :scss_lint do
   end
 end
 task default: :scss_lint
+
