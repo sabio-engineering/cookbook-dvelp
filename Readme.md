@@ -3,21 +3,20 @@
 Our collection of guides, recipes and scripts for helping you get things done,
 better.
 
-* [Guides](https://github.com/DVELP/cookbook/tree/master/guides)
-  * [Git](https://github.com/DVELP/cookbook/blob/master/guides/Git.md)
-  * [Git && Shopify](https://github.com/DVELP/cookbook/blob/master/guides/Git%20Shopify.md)
-  * [Heroku](https://github.com/DVELP/cookbook/blob/master/guides/Heroku%20Pipeline.md)
-  * [Ruby gems](https://github.com/DVELP/cookbook/blob/master/guides/Creating%20Ruby%20Gems%20bespoke%20for%20DVELP.md)
-  * [Code Style](https://github.com/DVELP/cookbook/blob/master/guides/code-style/Readme.md)
+* [Guides](/guides)
+  * [Code Style](/guides/code-style/Readme.md)
+  * [Git](/guides/Git.md)
+  * [Heroku](/guides/Heroku%20Pipeline.md)
+  * [Ruby gems](/guides/Creating%20Ruby%20Gems%20bespoke%20for%20DVELP.md)
 
-* [Scripts](https://github.com/DVELP/cookbook/tree/master/scripts)
-  * [Git Pull Requests](https://github.com/DVELP/cookbook/blob/master/scripts/git_merge_pull_request.sh)
-  * [Heroku Sync DB to Local](https://github.com/DVELP/cookbook/blob/master/scripts/heroku_sync_db_to_local.sh)
-  * [Heroku Remotes](https://github.com/DVELP/cookbook/blob/master/scripts/git_heroku_add.sh)
+* [Scripts](/scripts)
+  * [Git Pull Requests](/scripts/git_merge_pull_request.sh)
+  * [Heroku Sync DB to Local](/scripts/heroku_sync_db_to_local.sh)
+  * [Heroku Remotes](/scripts/git_heroku_add.sh)
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/DVELP/cookbook. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/DVELP/cookbook. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org/) code of conduct.
 
 ## License
 
