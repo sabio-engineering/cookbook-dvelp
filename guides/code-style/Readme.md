@@ -17,7 +17,8 @@ We use a number of tools to enforce style compliance:
 
   * JSHint for Javascript lints
   * Rubocop for Ruby lints
-  * SCSS Lint for, well, SCSS lints
+  * SCSS Lint, for SCSS lints
+  * Slim Lint, well, for Slim lints
 
 First, you need to add the gems to your project's Gemfile:
 
@@ -26,6 +27,7 @@ group :development, :test do
   gem 'jshint', require: false
   gem 'rubocop', require: false
   gem 'scss_lint', require: false
+  gem 'slim_lint', require: false
 end
 ```
 
@@ -37,6 +39,7 @@ project:
 * [JSHint](.jshint.yml)
 * [Rubocop](.rubocop.yml)
 * [SCSS Lint](.scss-lint.yml)
+* [Slim Lint](.slim-lint.yml)
 
 These files should go into your project's root directory.
 

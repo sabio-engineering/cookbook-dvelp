@@ -1,4 +1,5 @@
 require 'rubocop/rake_task'
+require 'slim_lint/rake_task'
 
 task :jshint_custom do
   puts 'Running JS lints...'
@@ -18,3 +19,8 @@ task :scss_lint do
   end
 end
 task default: :scss_lint
+
+SlimLint::RakeTask.new do |t|
+  t.config = '.slim-lint.yml'
+end
+task default: :slim_lint
