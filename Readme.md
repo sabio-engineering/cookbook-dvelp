@@ -8,6 +8,7 @@ better.
   * [Git](/guides/Git.md)
   * [Heroku](/guides/Heroku%20Pipeline.md)
   * [Ruby gems](/guides/Creating%20Ruby%20Gems%20bespoke%20for%20DVELP.md)
+  * [Shopify](/guides/Shopify.md)
 
 * [Scripts](/scripts)
   * [Git Pull Requests](/scripts/git_merge_pull_request.sh)
