@@ -5,7 +5,7 @@ better.
 
 * [The Why?](#the-why)
   * [Big, Hairy, Audacious Goal](#big-hairy-audacious-goal)
-  * [The Consitution](#the-constitution)
+  * [The Constitution](#the-constitution)
 
 * [Guides](/guides)
   * [Code Style](/guides/code-style/Readme.md)
