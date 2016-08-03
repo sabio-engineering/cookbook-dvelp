@@ -1,0 +1,11 @@
+---
+:api_key: 'API Key'
+:password: 'Password'
+:store: 'Shopify store ID'
+:theme_id: 'Theme ID'
+:ignore_files:
+  - assets/javascripts/
+  - assets/images/
+  - assets/sass/
+  - config/settings_data.json
+  - node_modules

@@ -1,0 +1,12 @@
+# Assets
+assets/*.jpg
+assets/*.ico
+assets/*.png
+assets/application.css
+assets/application.js
+assets/postcss/*
+snippets/svgs.liquid
+
+# Settings
+config/settings_data.json
+config.yml

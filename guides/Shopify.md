@@ -1,12 +1,26 @@
-# Deploying To Shopify With CircleCI
+# Developing and Deploying to Shopify
 
 ## The Challenge
 
 The primary challenge we faced when developing for Shopify was that the codebase checked in to Git was getting out of sync with the codebase deployed to Shopify. This issue was compounded when using the same theme on multiple stores e.g. for simple staging + production environments or in more complex, multi-geo scenarios.
 
+The root of the issue revolves around Shopify's lack of support for nested
+folders. Amongst other things, this presents challenges with:
+
+  * Imagery and user defined settings
+  * Javascript and stylesheet compilation
+
 ## The Solution
 
-To combat the issue, we configured the CI server, in this case CircleCI, to manage all of the deployments for us. We hooked the `master` branch to deploy direct to the production store and the `staging` branch to the staging store.
+1) [Ignore compiled assets](../scripts/shopify/.gitignore) from SCM
+
+2) Set-up [Grunt](../scripts/shopify/gruntfile.js) to sync, process and compile assets
+
+3) [Deploy](#deployment) to Shopify
+
+## Deployment
+
+To facilate deployment and improve syncing between store and code base, we configured the CI server, in this case CircleCI, to manage all of the deployments for us. We hooked up the `master` branch to deploy direct to the production store and the `staging` branch to the staging store.
 
 ### Tools
 
@@ -24,11 +38,11 @@ deployment:
   production:
     branch: master
     commands:
-      - grunt shopify:upload
+      - grunt deploy
   staging:
     branch: staging
     commands:
-      - grunt shopify:upload
+      - grunt deploy
 ```
 
 * Update `gruntfile.js` file to read the Shopify credentials from the environment variables:
@@ -63,3 +77,6 @@ The `IS_CI` variable determines that we are deploying via CI, in which case we r
 * `PRODUCTION_SHOPIFY_PASSWORD`
 
 * `PRODUCTION_SHOPIFY_STORE`
+
+## Get 'em
+We've added the complete set of files [here](../scripts/shopify) for your reference.

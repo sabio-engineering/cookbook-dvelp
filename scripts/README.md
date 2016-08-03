@@ -60,3 +60,16 @@ Alias:
 ```
 gm pr = git_merge_pull_request.sh
 ```
+
+# Shopify
+
+Get them:
+  * Grunt config: [config.yml](shopify/config.yml)
+  * Gruntfile: [config.yml](shopify/confile.js)
+
+Developing and deploying to Shopify with ease! Read more [here](../guides/Shopify.md).
+
+Example:
+```
+grunt deploy
+```

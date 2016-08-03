@@ -19,6 +19,10 @@ better.
   * [Git Pull Requests](/scripts/git_merge_pull_request.sh)
   * [Heroku Sync DB to Local](/scripts/heroku_sync_db_to_local.sh)
   * [Heroku Remotes](/scripts/git_heroku_add.sh)
+  * [Shopify](/scripts/shopify)
+    * [Circle Config](/scripts/shopify/circle.yml)
+    * [Grunt Config](/scripts/shopify/config.yml)
+    * [Gruntfile.js](/scripts/shopify/gruntfile.js)
 
 # The Why?
 At DVELP, we are about loving what we do. We love to learn, we love to

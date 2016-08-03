@@ -1,0 +1,9 @@
+deployment:
+  production:
+    branch: master
+    commands:
+      - grunt deploy
+  staging:
+    branch: staging
+    commands:
+      - grunt deploy
