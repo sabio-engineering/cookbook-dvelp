@@ -2,8 +2,10 @@ deployment:
   production:
     branch: master
     commands:
+      - gem install sass
       - grunt deploy
   staging:
     branch: staging
     commands:
+      - gem install sass
       - grunt deploy
