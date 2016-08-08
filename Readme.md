@@ -10,6 +10,7 @@ better.
 * [Guides](/guides)
   * [Code Style](/guides/code-style/Readme.md)
   * [Git](/guides/Git.md)
+  * [Harvest Forecast] (/guides/harvest-forecast.md)
   * [Heroku](/guides/Heroku%20Pipeline.md)
   * [Ruby gems](/guides/Creating%20Ruby%20Gems%20bespoke%20for%20DVELP.md)
   * [Shopify](/guides/Shopify.md)
