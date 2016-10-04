@@ -8,7 +8,7 @@ Use only required components and libraries. We don't need to use normalize with 
 
 #### Grunt
 
-Use grant tasks for creating svg sprites. You can use `grunt` command to run grunt tasks.
+Use grunt tasks for creating svg sprites. You can use `grunt` command to run grunt tasks.
 
 #### Autoprefixer
 
