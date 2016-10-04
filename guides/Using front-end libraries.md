@@ -1,6 +1,6 @@
 # Using front-end libraries
 
-Using Bower for manage javascript components.
+Using Bower to manage javascript components.
 
 Install Bower: 
 
@@ -8,7 +8,7 @@ Install Bower:
 npm install -g bower
 ```
 
-Create new `bower.json` file you can using `bower init`
+You can use `bower init` to create new `bower.json` file.
 
 Now we can install packages with `bower install <package> --save`
 
@@ -16,7 +16,7 @@ Now we can install packages with `bower install <package> --save`
 bower install jquery --save
 ```
 
-Use files only that you need while using Bower
+Use files only that you need while using Bower-installer
 
 Install `bower installer` globally
 
@@ -35,7 +35,9 @@ Specify the path in `bower.json` you would like to use
     }
   }
 ```
-####Ignore files
+
+#### Ignore files
+
 Files can be ignored and not copied. For example, some libraries can have dependencies that we don't want to use so we can ignore them.
 
 ```
@@ -44,7 +46,9 @@ Files can be ignored and not copied. For example, some libraries can have depend
       "jquery-placeholder"
     ],
 ```
-####Overriding main files
+
+#### Overriding main files
+
 A lot of registered components for bower do not include bower.json configuration. Therefore, bower does not know about any "main files" and therefore, by default bower-installer doesn't know about them either. Bower-installer can override an existing main file path or provide a non-existant one:
 
 ```
@@ -59,8 +63,10 @@ A lot of registered components for bower do not include bower.json configuration
     }
   }
 ```
-####Rename files
-Files can be renamed when bower-installer is copying them to their new destination.
+
+#### Rename files
+
+Files can be renamed when bower-installer copies them to their new destination.
 
 ```
   "install": {
