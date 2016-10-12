@@ -20,16 +20,15 @@ Use bower with bower installer to manage libraries and control their versions. [
 
 #### Front-man
 
-[Front-man](https://github.com/DVELP/front_man) It includes utilities classes, z-index variables and helpers for sprite and image tags.
-
+[Front-man](https://github.com/DVELP/front_man) is a gem that includes utilities classes, z-index variables and helpers for sprite and image tags.
 #### Frequently used plugins
 
-* [Lazysizes](https://github.com/aFarkas/lazysizes) Lazyloader for images, background images. Use only the necessary components. Usually the additional components are:
+* [Lazysizes](https://github.com/aFarkas/lazysizes) is a lazyloader for images, background images. Use only the necessary components. Usually the additional components are:
   ls.bgset.js - for responsive background images, 
   ls.respimg.js - for cross browser responsive image support,
   lazysizes.js - main file
-* [Slick](https://github.com/kenwheeler/slick) Plugin for sliders, carousel
-* [Magnific Popup](https://github.com/dimsemenov/Magnific-Popup) jQuery Lightbox plugin.
+* [Slick](https://github.com/kenwheeler/slick) is a plugin for sliders, carousels.
+* [Magnific Popup](https://github.com/dimsemenov/Magnific-Popup) is a responsive jQuery Lightbox plugin.
 
 #### Development and page optimization
 
