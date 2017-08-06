@@ -9,7 +9,7 @@ better.
 
 * [Guides](/guides)
   * [Code Style](/guides/code-style/Readme.md)
-  * [Design Guidelines] (/guides/design-guidelines.md)
+  * [Design Guidelines](/guides/design-guidelines.md)
   * [Git](/guides/Git.md)
   * [Harvest Forecast] (/guides/harvest-forecast.md)
   * [Heroku](/guides/Heroku%20Pipeline.md)
