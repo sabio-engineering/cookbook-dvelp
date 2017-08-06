@@ -48,7 +48,7 @@ task in hand and optimize both efficiency and motivation at every level.
 We want to be challenged, be encouraged to dare, to think openly and not be
 restrained by corporate policy.
 
-###We want to be better.
+### We want to be better.
 
 ## Big, Hairy, Audacious Goal
 To become the go-to resource for best-in-class software, whether it be client or
@@ -57,15 +57,15 @@ considered as THE company to work both for and with.
 
 ## The Constitution
 
-* ####Be Better
+* Be Better
 
  * Challenge yourself and your teammates to be the best they can be
 
-* ####Be Brave, Dare to Experiment
+* Be Brave, Dare to Experiment
 
-* ####Product is King
+* Product is King
 
-* ####Process is Queen
+* Process is Queen
 
   * Consistency == Efficiency
 
@@ -73,13 +73,13 @@ considered as THE company to work both for and with.
 
   * Work on your weaknesses
 
-* ####Your Job is Not Done Until The Job is Done
+* Your Job is Not Done Until The Job is Done
 
   * Take responsibility
 
   * Work hard, sleep easy
 
-* ####Shoulder to Shoulder
+* Shoulder to Shoulder
 
   * Face challenges with your team and our clients shoulder to shoulder
 
@@ -87,7 +87,7 @@ considered as THE company to work both for and with.
 
   * Fight for each other
 
-* ####Over Communicate
+* Over Communicate
 
   * Share your perspective to solve challenges and improve process
 
