@@ -18,6 +18,9 @@ better.
   * [Shopify](/guides/Shopify.md)
   * [Trello](/guides/trello.md)
 
+* [Handbook](/handbook)
+  * [Developer Proficiency](/handbook/developer-proficiency.md)
+
 * [Scripts](/scripts)
   * [Git Pull Requests](/scripts/git_merge_pull_request.sh)
   * [Heroku Sync DB to Local](/scripts/heroku_sync_db_to_local.sh)
