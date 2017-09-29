@@ -11,7 +11,22 @@ the next. With that in mind, we recommend using these guides as starting point.
 They can be tweaked and moulded on a per project basis, but make sure everyone
 on the team is comfortable with any adjustments you make.
 
-## Configs
+## Templates
+
+The following are a collection of templates that will act as a reference point
+for some of the commonly used patterns and approaches throughout our codebases.
+
+The aim of the templates is to help improve consistency of approach not just
+within individual codebases, but across the entire portfolio.
+
+These templates are not designed to be hard and fast rules, or fully functional
+models, rather to act as a common starting point.
+
+  * [Models](templates/models.md)
+  * [Services](templates/services.md)
+  * [Specs](templates/specs)
+
+## Linting
 
 We use a number of tools to enforce style compliance:
 
@@ -31,6 +46,8 @@ group :development, :test do
 end
 ```
 
+### Configs
+
 Then you need to add some configs that implement our styles.
 
 The following is a list of configuration files you're encouraged to use in a new
@@ -48,3 +65,4 @@ task you can use the following rake file. Just put it into `lib/tasks`
 directory.
 
 * [lints.rake](lints.rake)
+
