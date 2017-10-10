@@ -19,6 +19,12 @@ class Customer < ActiveRecord::Base
   # Inclusions and extensions
   include Module
 
+  # Public custom attributes
+  attr_accessor :trigger_activation_mailer
+
+  # Constants
+  DEFAULT_COUNTRY = 'Poland'.freeze
+
   # Associations
   belongs_to :company
   has_many :orders
@@ -40,6 +46,10 @@ class Customer < ActiveRecord::Base
 
   # Delegate methods
   delegate :post_code, to: :address
+
+  # Gems methods calls
+  enumerize :title, in: %i[mr ms]
+  mount_uploader :avatar, AvatarUploader
 
   # Class methods
   def self.activate
