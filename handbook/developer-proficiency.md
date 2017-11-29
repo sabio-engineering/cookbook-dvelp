@@ -19,7 +19,7 @@ a solid point of reference.
 
 ## V-band
 
-* Pull Requests require occassional discussion around approach or implementation
+* Pull Requests require occasional discussion around approach or implementation
 * Clearly able to identify and follow predefined patterns or approaches in an
   existing code base
 * Most comfortable working on clearly defined, well scoped features or
@@ -31,7 +31,7 @@ a solid point of reference.
 
 * Pull Requests are a tool for communication of new features and a
   spring-board for higher-level discussions around approach
-* Experienced and comfotable through the entire life-cycle of a feature, from
+* Experienced and comfortable through the entire lifecycle of a feature, from
   ideation to delivery
 * Can understand business drivers and make solid proposals to the relevant
   stakeholders for building new features or refining existing ones
@@ -41,7 +41,7 @@ a solid point of reference.
 
 ## L-band
 
-* Pull Requests are a mentoring tool to engage less experienced team mates and
+* Pull Requests are a mentoring tool to engage less experienced teammates and
   showcase best practices
 * Highly adept at running and executing on multiple projects across multiple
   domains
@@ -54,7 +54,7 @@ a solid point of reference.
 
 ## P-band
 
-* Focus on defining and progressing processes and inovation at a company-wide
+* Focus on defining and progressing processes and innovation at a company-wide
   level
 * Fully capable of designing, owning and running entirely new, non-trivial
   systems
