@@ -5,7 +5,7 @@ The following is the baseline setup for logging and error tracking in Rails appl
 
 ## Naming
 
-Make sure you have the same names for Heroku application, sentry project and papertrail system. It's very important to keep all things with correct naming, e.g. `dvelp-production`
+Make sure you have the same names for Heroku application, sentry project and papertrail system e.g. `dvelp-production`. Consistency in naming conventions is very important.
 
 ## Logging
 
@@ -15,7 +15,7 @@ For consistency and consolidation, we use a corporate [Papertrail](https://paper
 
 ### Setup
 
-Creating a new papertrail system for Heroku applications - [https://papertrailapp.com/systems/setup?type=app&platform=heroku]()
+This [guide](https://papertrailapp.com/systems/setup?type=app&platform=heroku) will help you get Papertail set up on Heroku environments.
 
 ### Lograge
 
@@ -42,6 +42,7 @@ config.lograge.base_controller_class = 'ActionController::API'
 ```
 
 Use `info` log level to remove unnecessary debugging logs.
+
 ```ruby
 # config/environments/production.rb
 
@@ -50,14 +51,14 @@ config.log_level = :info
 
 ## Error Handling
 
-As with the [papertrail](https://papertrailapp.com) corporate account we have [Sentry](https://sentry.io) account. It's a service that helps you monitor an application crashes in realtime.
+We equally have a corporate [Sentry](https://sentry.io) account for error handling. Sentry is a service designed to help you monitor application issues in realtime.
 
 ### Setup
-To install Sentry for your application you have to do following steps:
+Complete the following steps to setup Sentry in your application:
 
-- Create [new project](https://sentry.io/organizations/dvelp/projects/new) on corporate account
-- Add `gem 'sentry-raven'` to your Gemfile and install the gem
-- Set `SENTRY_DSN` ENV variable. This value you can find on new account creation step
+- Create [new project](https://sentry.io/organizations/dvelp/projects/new) on the DVELP corporate account
+- Add `gem 'sentry-raven'` to your Gemfile and run `bundle install`
+- Set `SENTRY_DSN` ENV variable. Sentry will give you this when creating a new project (step 1).
 
 To make sure your application doesn't send any confidential information like passwords, set sanitize fields:
 
@@ -72,4 +73,4 @@ end
 
 ### Slack integration
 
-Don't forget to add slack notifications to specific Slack channel. To enable this feature go to Sentry project settings and choose 'Alerts' section.
+Don't forget to add notifications to your project Slack channel. To enable this feature go to Sentry project settings and choose 'Alerts' section.
