@@ -1,0 +1,62 @@
+recipes:
+  # - analytics
+  - dvelp_admin
+  - dvelp_deployment
+  - dvelp_devise
+  - dvelp_extras
+  - dvelp_init
+  # - dvelp_ci
+  - email
+  - frontend
+  - gems
+  - git
+  - readme
+  - setup
+  - tests
+
+prefs:
+  :admin: activeadmin
+  # :analytics: none
+  :authentication: devise
+  :authorization: none
+  :ban_spiders: false
+  :better_errors: true
+  :continuous_testing: guard
+  :database: postgresql
+  :deployment: heroku
+  :dev_webserver: webrick
+  :devise_modules: default
+  :disable_turbolinks: true
+  :drop_database: true
+  :email: mandrill
+  :fixtures: factory_girl
+  :form_builder: none
+  :frontend: none
+  :github: false
+  :heroku_addons: []
+  :local_env_file: figaro
+  :pg_username: ''
+  :pg_host: ''
+  :prod_webserver: unicorn
+  :pry: true
+  :quiet_assets: true
+  :rubocop: true
+  :rvmrc: false
+  :skip_seeds: true
+  :templates: erb
+  :tests: rspec
+
+gems:
+  # - nelly
+  # - seoable
+  # - front_man
+  # - capybara webkit
+  # - shoulda matchers
+  # - rspec html matchers
+  # - rollbar
+  # - letter_opener
+  # -gem 'rspec_junit_formatter', '0.2.2' as per circle ci documentation
+
+args:
+  :skip_test_unit: yes
+  :skip_active_record: false
