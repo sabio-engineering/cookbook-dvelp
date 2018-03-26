@@ -4,8 +4,6 @@
 
 As the Front-end team grows, we would need to agree on both standards to apply to our code, as well as conventions, methods, patterns and tools to use.
 
-As one said: “_A team should be producing code as if only one person has written all of it_”
-
 ### Table of Contents
 
 We are going to touch on the following subjects:
@@ -22,7 +20,7 @@ We are going to touch on the following subjects:
 
 ### Code Styling
 
-> "A team should write code as if only one person has written it".
+> "A team should produce code as if only one person has written all of it".
 
 In this regard, the team has chosen to work with **Prettier**, as code parser, so we can better read code output and be familiar with how it’s written.
 
@@ -39,10 +37,9 @@ While Prettier is going to do the heavy lifting of parsing our code and re-writi
 We are going to use AirBnB configuration initially, and customize different rules later on to our heart’s content.
 
 References:
-[ESLint](https://eslint.org/)
-[TSLint](https://palantir.github.io/tslint/)
+[ESLint](https://eslint.org/),
+[TSLint](https://palantir.github.io/tslint/),
 [Prettier-ESLint](https://github.com/prettier/prettier-eslint)
-
 
 ### Styleguides
 
@@ -69,10 +66,9 @@ We have selected to use **Jest** as a testing assertion framework, with **Enzyme
 For E2E testing, we will be relying on **Cypress**.
 
 References:
-[Jest](https://facebook.github.io/jest/)
-[Enzyme](http://airbnb.io/enzyme/)
+[Jest](https://facebook.github.io/jest/),
+[Enzyme](http://airbnb.io/enzyme/),
 [Cypress.io](https://www.cypress.io/)
-
 
 ### Using types
 
@@ -103,33 +99,33 @@ Although each project would need different approaches and choices in technology,
 ```
 build/
 src/
-  app/
-	  client/
-    server/ (in case of SSR)
-  styles/ (if needed)
-  core/
-	  App.js
-	  Routes.js (if needed)
-	  ...
+	app/
+		client/
+		server/ (in case of SSR)
+	styles/ (if needed)
+	core/
+		App.js
+		Routes.js (if needed)
+		...
   common/
-	  layouts/
-	  components/
-  	containers/
-	controls/
-	dataViews/
-	utils/ (maybe utility components?)
+		layouts/
+		components/
+		containers/
+		controls/
+		dataViews/
+		utils/ (utility components)
+		functions/ (utility functions)
+		...
+	utils/ (utility functions to be shared)
 	...
-  utils/ (utility functions to be shared)
-  ...
 (modules || pages) /
 	Module-1/
 	Module-2/
 ```
 
-
 ### APIs
 
-We recommend the use of **GraphQL** if possible, as it makes it easier for front-end developers to access just the data they need and in the particular structure is more useful for the piece being developed.
+We recommend the use of **GraphQL** if possible, as it makes it easier for front-end developers to access just the data they need and in the particular structure is more useful for the piece being developed. It should also be easier to create an open API for future queries we might need to implement.
 
 ### Error collection
 
@@ -137,4 +133,8 @@ Collecting errors on production environments and acting accordingly to solve the
 
 [Sentry.io](https://docs.sentry.io/clients/javascript/)
 
-### TL;DR;
+### Disclaimer
+
+This is aimed to be a living guide, with pieces changing and adapting to industry standards and best practices.
+
+Expect several changes and tweaks along the way.
