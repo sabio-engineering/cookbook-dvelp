@@ -27,7 +27,7 @@ In this regard, the team has chosen to work with **Prettier**, as code parser, s
 We ideally want a strategy of pre-commit hooks to format output code.
 
 References:
-[Prettier](https://prettier.io/)
+[Prettier](https://prettier.io/),
 [Editorconfig](http://editorconfig.org/)
 
 ### Linting
@@ -49,9 +49,8 @@ For larger projects, which probably need to define a design style guide for comp
 
 We have already started several projects with React **Styleguidist**, a solution that also allows us to publish those style guides online for easier sharing.
 
-[Styleguide for WIT example:](https://styleguide-ctwntzsstw.now.sh/)
-
-[Styleguide for Opsmatix example:](https://styleguide-rpjxdqiehe.now.sh/)
+[Styleguide for WIT example](https://styleguide-ctwntzsstw.now.sh/),
+[Styleguide for Opsmatix example](https://styleguide-rpjxdqiehe.now.sh/)
 
 We agreed to improve our newer style guides from now on with code view, so it's easier for the whole team to use the defined components.
 
@@ -107,7 +106,7 @@ src/
 		App.js
 		Routes.js (if needed)
 		...
-  common/
+	common/
 		layouts/
 		components/
 		containers/
@@ -131,7 +130,7 @@ We recommend the use of **GraphQL** if possible, as it makes it easier for front
 
 Collecting errors on production environments and acting accordingly to solve the major issues should be one of our priorities. We are using **Sentry.io** for error collecting and notifications, both in the back and front ends, which integrates easily with most common JavaScript code.
 
-[Sentry.io](https://docs.sentry.io/clients/javascript/)
+References: [Sentry.io](https://docs.sentry.io/clients/javascript/)
 
 ### Disclaimer
 
