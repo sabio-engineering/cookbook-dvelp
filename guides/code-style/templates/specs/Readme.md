@@ -24,7 +24,7 @@ Unit tests cover lower-level functionality of individual classes or methods.
 
 Integration tests are behavioural driven and in most cases will replicate the
 expected experience from a 'first user' perspective. They help to decouple
-behviour from implementation, allowing for easier refactoring, and will ensure
+behaviour from implementation, allowing for easier refactoring, and will ensure
 that the individual components (units) of an application work well together.
 
   * [Features](features.md)

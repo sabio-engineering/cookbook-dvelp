@@ -2,7 +2,7 @@
 
 Request specs provide a thin wrapper around integration specs and are aimed at
 improving behavioural driven testing. By focusing on the inputs (inbound
-request) and outputs (end result), we can decouple the behviour of the
+request) and outputs (end result), we can decouple the behaviour of the
 application from our implementation.
 
 It is advised to stub as little as possible when writing your specs in order to
