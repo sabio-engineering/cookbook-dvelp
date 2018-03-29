@@ -28,9 +28,9 @@ describe 'Updating a customer', type: :request do
   end
 
   context 'customer is authenticated' do
-    it "denies access to customers#update" do
+    it "allows access to customers#update" do
       customer = FactoryGirl.create(:customer)
-      customer_attributes = { name: 'Tom' }
+      customer_attributes = { name: 'Bob' }
 
       authenticate(customer)
 
