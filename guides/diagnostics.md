@@ -71,6 +71,16 @@ Raven.configure do |config|
 end
 ```
 
+### Testing
+
+To send a test event after setting up Sentry in your application, run the following command:
+
+`rails raven:test`
+
+And for Heroku:
+
+`heroku run rails raven:test --remote <git_remote>`
+
 ### Slack integration
 
 Don't forget to add notifications to your project Slack channel. To enable this feature go to Sentry project settings and choose 'Alerts' section.
