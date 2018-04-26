@@ -31,6 +31,7 @@ better.
     * [Circle Config](/scripts/shopify/circle.yml)
     * [Grunt Config](/scripts/shopify/config.yml)
     * [Gruntfile.js](/scripts/shopify/gruntfile.js)
+  * [Tmux Session Switcher](/scripts/tmux-session-switch.sh)
 
 # The Why?
 At DVELP, we are about loving what we do. We love to learn, we love to
