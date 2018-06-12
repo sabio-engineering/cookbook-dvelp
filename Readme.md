@@ -15,6 +15,7 @@ better.
   * [Harvest Forecast](/guides/harvest-forecast.md)
   * [Heroku](/guides/Heroku%20Pipeline.md)
   * [Project Process](/guides/project-process.md)
+  * [Front-end Standards](/guides/frontend-standards.md)
   * [Ruby gems](/guides/Creating%20Ruby%20Gems%20bespoke%20for%20DVELP.md)
   * [Shopify](/guides/Shopify.md)
   * [Trello](/guides/trello.md)
