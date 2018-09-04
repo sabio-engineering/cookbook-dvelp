@@ -1,4 +1,4 @@
-# Festure Specs
+# Feature Specs
 
 We leverage feature specs to mimic the 'first user' of our application in an
 environment with as little stubbing as is possible.
