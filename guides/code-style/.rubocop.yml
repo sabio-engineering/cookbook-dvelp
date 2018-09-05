@@ -1,10 +1,25 @@
-Metrics/LineLength:
-  Max: 80
+AllCops:
+  DisplayCopNames: true
   Exclude:
     - 'db/schema.rb'
+    - 'bin/*'
+    - 'vendor/*'
+    - './Rakefile'
+
+Lint/Debugger:
+  Enabled: true
+
+Metrics/LineLength:
+  Max: 80
 
 Metrics/MethodLength:
-  Enabled: false
+  Max: 12
+
+Naming/MethodName:
+  EnforcedStyle: snake_case
+
+Naming/VariableName:
+  EnforcedStyle: snake_case
 
 Rails:
   Enabled: true
@@ -19,38 +34,24 @@ Style/BlockComments:
 Style/Documentation:
   Enabled: false
 
-Style/EmptyLinesAroundBlockBody:
-  Exclude:
-    - 'db/schema.rb'
-
-Style/ExtraSpacing:
-  Exclude:
-    - 'bin/*'
-    - 'db/schema.rb'
-
 Style/FirstParameterIndentation:
   EnforcedStyle: consistent
 
 Style/GuardClause:
-  Enabled: false
+  Enabled: true
 
 Style/HashSyntax:
   Exclude:
-    - 'Rakefile'
     - 'lib/tasks/*.rake'
-
-Style/IfUnlessModifier:
-  Enabled: false
 
 Style/IndentArray:
   EnforcedStyle: consistent
 
+Style/IfUnlessModifier:
+  Enabled: false
+
 Style/MultilineMethodCallIndentation:
   EnforcedStyle: indented
-
-Style/NumericLiterals:
-  Exclude:
-    - 'db/schema.rb'
 
 Style/PercentLiteralDelimiters:
   PreferredDelimiters:
@@ -65,6 +66,8 @@ Style/PercentLiteralDelimiters:
     '%x': ()
 
 Style/StringLiterals:
-  Exclude:
-    - 'bin/*'
-    - 'db/schema.rb'
+  EnforcedStyle: single_quotes
+
+
+
+
