@@ -16,7 +16,7 @@ better.
   * [Heroku](/guides/Heroku%20Pipeline.md)
   * [Project Process](/guides/project-process.md)
   * [Front-end Standards](/guides/frontend-standards.md)
-  * [Ruby gems](/guides/Creating%20Ruby%20Gems%20bespoke%20for%20DVELP.md)
+  * [Ruby gems](/guides/ruby-gems)
   * [Shopify](/guides/Shopify.md)
   * [Trello](/guides/trello.md)
 
