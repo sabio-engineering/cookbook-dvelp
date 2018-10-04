@@ -68,9 +68,22 @@ your assigned mentor and the wider team:
 
 - An **introduction to the project and team** that you will be working with
 
+### Make Questions Multiple Choice
+
+Asking questions is a fundamental part to learning. We have a nifty trick to get to your answer more quickly: make the question multiple choice.
+
+By sending proposals along with your question, you will help the recipient to:
+
+- Get up-to-speed with the context
+- Show you have done research and are really stuck
+- Allow them to choose, augment or add to the proposed solutions
+
+A 'warm-up' question of 'hey, I'm working on this problem, have we solved it before?' is  always good place to start.
+
+So remember, make sure the next time you ask a question, send some proposals too.
+
 ## How long should the mentorship last?
 
 The mentorship is aimed to help people become confident members of the team.
 The time required will change on a case-by-case basis, but we recommend that
 mentors give close support for at least the **first 4 weeks**.
-
