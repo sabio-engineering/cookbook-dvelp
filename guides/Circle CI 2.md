@@ -1,11 +1,15 @@
-# Circle CI 2.0 configurations for Rails project
+# Circle CI 2.0 Configuration for Rails
+
+The following is a recommended setup for Circle CI 2.0 with any rails project. This guide will walk you through the different parts of the setup to get you familiar with the process.
+
+If you just want the script, it's [here](#the-end-result)
 
 ## Basic Concepts
 
-CircleCI 2.0 operates on a differently structurized YAML file located under `.circleci/config.yml`.
+CircleCI 2.0 requires a new dot folder and YAML config as follow: `.circleci/config.yml`.
 
-It's safe to say that every config should contain at least three keywords: `version, jobs`.
-Initially, it should start looking something like this:
+Each config must contain the following 2 keys: `version` and `jobs`.
+Initially, your setup will look like this:
 ```
 ---
 version: 2
@@ -15,13 +19,14 @@ jobs:
     steps:
         - checkout
 ```
-This intital setup is not going to work. But it’s the basic shell of the config file we’ll need.
+This setup won't work, but it provides the framework of the configuration file. The remainder of the guide will explain how to flesh is out.
 
-## Basic Configurations.
+## Basic Configuration
 
-### Select image for Docker executor
-Which will compose the environment from a set of Docker images [CircleCI provide set of pre-built images that we’ll use. ](https://hub.docker.com/r/circleci/ruby/tags/)
-These cover lots of different Ruby versions, with variations for common requirements like a browser and/or JavaScript.
+### Select Image for Docker
+The docker image will help to compose a consistent environment for each build. There are a set of [prebuilt images](https://hub.docker.com/r/circleci/ruby/tags/) to choose from, which cover different ruby versions and other common requirements like browser and/or JavaScript.
+
+The following config will set Docker to run ruby 2.5.1 with browser in the box:
 ```
 jobs:
     build:
@@ -31,10 +36,9 @@ jobs:
             environment:
                 RAILS_ENV: test
 ```
-This will set Docker executor to run 2.5.1 ruby version with browser in the box.
 
-### Set up database configurations
-Same as with Docker, we need to select image to preload correct versions of postgres. Here it is `postgres:9.6.2-alpine`. And set environment variables as from `config/database.yml`
+### Configure your Database
+As with Docker, we need to select an image to preload the correct version of Postgres.  The below config uses `postgres:9.6.2-alpine` and the environment variables are loaded from  `config/database.yml`.
 ```
     build:
         working_directory: ~/your-app-name
@@ -49,26 +53,23 @@ Same as with Docker, we need to select image to preload correct versions of post
                 POSTGRES_DB: test_database_name
 ```
 
-## Process running steps
-Starting from this. All commands go in the `steps` key. Which begin with:
-```
-    steps:
-      - checkout
-```
+## Configure your Steps
+Circle CI 2.0 uses the `steps` key to determine the order in which the build is processed. These steps include `checkout`, `run`, `restore_cache` etc.
 
-### Prepare environment
-As we are almost all using `figaro` gem to manage environment variables. Here is a recipe to create/copy example `application.yml` file.
+### Prepare your Environment
+We almost always use `figaro` gem for storing and loading environment variables, so firstly we must create a copy of the `application.yml` file:
+
 ```
       - run:
           name: Create environment variables file
           command: |
             cp config/examples/application.yml config/application.yml
 ```
-Where `name` will set name of the task. And `command` will be exact bash line to be executed.
-You can create any type of commands to run, give them names and place in correct order if you need.
+Where `name` will set name of the task. And `command` will be exact bash cmd to be executed.
+The `run` key gives lots of flexibility to run any command and in any order. Just  give them a name, a command to run and off you go.
 
-### Install gems
-Running `bundle` for each test run can be slow and is easy to cache. To give us a little speed improvement, we can do something like this:
+### Install Gems
+Rather than running `bundle` for each build, which can be slow, we can cache the bundle to reduce the time the build takes to run:
 ```
       - restore_cache:
           keys:
@@ -87,16 +88,19 @@ Running `bundle` for each test run can be slow and is easy to cache. To give us 
 ```
 This will try and restore any cached dependencies using a checksum based on your lock file.
 
-### Avoiding race conditions
-One problem we should take care of though is race conditions to do with how the additional services come up. It’s possible that Postgres might take slightly longer to be available and so our tests might start running …and then all fail.
+### Avoiding Race Conditions
+We need to make sure that we avoid certain commands from running before their dependencies are ready. For example, we need to make sure Postgres is up before we run our test suite.
 
-To solve this, we can use dockerize to wait for the appropriate port to be available. Add this as a run step:
+To solve this, we can tell `dockerize` to wait for a given port before it runs the next command:
 ```
       - run:
           name: Wait for DB
           command: dockerize -wait tcp://localhost:5432 -timeout 1m
 ```
-### Create database from schema
+### Create your Database
+
+If you try to run your test suite against an empty DB, it's going to fail. Make sure it's got the correct data structure by loading the schema:
+
 ```
       - run:
           name: Database setup
@@ -107,9 +111,9 @@ To solve this, we can use dockerize to wait for the appropriate port to be avail
             bundle exec rake db:migrate
 ```
 
-### Run tasks
-We can execute any tasks we want. But let's assume we need `rubocop` and `rspec` tests only.
-Keeping tasks in different `run` commands allows us give them name and will keep them as different processes during CI running.
+### Run Tasks
+We can execute as many tasks as we want. Typically we would run our lints, `rubocop` and our tests `rspec`, so here is the configuration for that:
+By creating one `run` command per task we can give them a descriptive name and keep them as separate  processes during the build.
 ```
       - run:
           name: Rubocop
@@ -123,7 +127,7 @@ Keeping tasks in different `run` commands allows us give them name and will keep
             bundle exec rspec spec --format progress
 ```
 
-## At the end file should look like:
+## The End Result
 ```
 ---
 version: 2
