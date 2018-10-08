@@ -7,9 +7,9 @@ Our quick guide to working collaboratively with Git and GitHub.
 
 * Create a feature branch
 * Write good commits
-* Rebase frequently to incorporate upstream changes
+* **Rebase** frequently to incorporate upstream changes
 * Create a GitHub pull request to have your branch reviewed
-* Merge into master
+* **Fast-Forward** Merge into master
 * Delete local and remote feature branches after merging
 
 
