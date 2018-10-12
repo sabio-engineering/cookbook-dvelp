@@ -1,11 +1,63 @@
-deployment:
-  production:
-    branch: master
-    commands:
-      - gem install sass
-      - grunt deploy
-  staging:
-    branch: staging
-    commands:
-      - gem install sass
-      - grunt deploy
+---
+version: 2
+jobs:
+  build:
+    working_directory: ~/your-app-name
+    docker:
+       - image: circleci/ruby:2.5.1-node-browsers
+         environment:
+           RAILS_ENV: test
+           RACK_ENV: test
+
+       - image: circleci/postgres:9.6.2-alpine
+         environment:
+           POSTGRES_USER: postgres
+           POSTGRES_DB: dopay-payengine_test
+
+    steps:
+      - checkout
+
+      - run:
+          name: Create environment variables file
+          command: |
+            cp config/examples/application.yml config/application.yml
+
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "Gemfile.lock" }}
+          - v1-dependencies-
+
+      - run:
+          name: Install dependencies
+          command: |
+            bundle install --jobs=4 --retry=3 --path vendor/bundle
+
+      - save_cache:
+          paths:
+            - ./vendor/bundle
+          key: v1-dependencies-{{ checksum "Gemfile.lock" }}
+
+      - run:
+          name: Wait for DB
+          command: dockerize -wait tcp://localhost:5432 -timeout 1m
+
+      - run:
+          name: Database setup
+          environment:
+            DATABASE_URL: 'postgres://postgres@localhost:5432/dopay-payengine_test'
+          command: |
+            bundle exec rake db:create db:schema:load --trace
+            bundle exec rake db:migrate
+
+      - run:
+          name: Rubocop
+          command: bundle exec rubocop
+
+      - run:
+          name: run tests
+          environment:
+            DATABASE_URL: 'postgres://postgres@localhost:5432/test_database_name'
+          command: |
+            mkdir /tmp/test-results
+            bundle exec rspec spec --format progress
+

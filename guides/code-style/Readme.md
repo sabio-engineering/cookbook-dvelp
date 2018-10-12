@@ -38,10 +38,10 @@ Then you need to add some configs that implement our styles.
 The following is a list of configuration files you're encouraged to use in a new
 project:
 
-* [JSHint](.jshint.yml)
-* [Rubocop](.rubocop.yml)
-* [SCSS Lint](.scss-lint.yml)
-* [Slim Lint](.slim-lint.yml)
+* [JSHint](config/.jshint.yml)
+* [Rubocop](config/.rubocop.yml)
+* [SCSS Lint](config/.scss-lint.yml)
+* [Slim Lint](config/.slim-lint.yml)
 
 These files should go into your project's root directory.
 
@@ -49,7 +49,7 @@ You should run the lints as a part of your build. To add lints to the default
 task you can use the following rake file. Just put it into `lib/tasks`
 directory.
 
-* [lints.rake](lints.rake)
+* [lints.rake](config/lints.rake)
 
 ## Templates
 
