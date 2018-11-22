@@ -24,6 +24,9 @@ better.
     * [Design Guidelines](/guides/project-process/design-guidelines.md)
     * [Harvest Forecast](/guides/project-process/harvest-forecast.md)
     * [Trello](/guides/project-process/trello.md)
+  * [Tools](/guides/tools)
+    * [ngrok](/guides/tools/ngrok.md)
+    * [Soft-Phone](/guides/tools/soft-phone.md)
   * [Ruby gems](/guides/ruby-gems)
 
 
