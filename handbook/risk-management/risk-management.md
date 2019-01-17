@@ -1,0 +1,9 @@
+## Risk Management
+
+#### Risk Register
+
+The company Risk Register tracks all of the risks that members of the DVELP team have identified.
+
+Where the anticipated impact of an unmitigated risk exceeds a rating of 4, the management team will work together to find a mitigating action that reduces the impact to below this threshold.
+
+All members of the DVELP team are asked to contribute to the identification of risks that we, as an organisation, face. Any newly identified risks can either be emailed in to [security@dvelp.co.uk](mailto:security@dvelp.co.uk) or directly added to our Risk Register.

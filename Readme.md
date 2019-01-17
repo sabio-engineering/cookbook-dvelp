@@ -34,8 +34,7 @@ better.
 
 
 * [Handbook](/handbook)
-  * [Developer Proficiency](/handbook/developer-proficiency.md)
-  * [Mentoring](/handbook/mentoring.md)
+  * [Quick Reference Guide](/handbook/quick-reference.md)
 
 * [Scripts](/scripts)
   * [Git Pull Requests](/scripts/git_merge_pull_request.sh)
@@ -48,6 +47,7 @@ better.
   * [Tmux Session Switcher](/scripts/tmux-session-switch.sh)
 
 # The Why?
+
 At DVELP, we are about loving what we do. We love to learn, we love to
 experiment and we love to make the best products we can with the best tools we
 can find. We’re brave, we work hard and at our core we are about quality.
@@ -71,6 +71,7 @@ restrained by corporate policy.
 ### We want to be better.
 
 ## Big, Hairy, Audacious Goal
+
 To become the go-to resource for best-in-class software, whether it be client or
 proprietary. By enabling our colleagues to be the best they can be, we aim to be
 considered as THE company to work both for and with.
