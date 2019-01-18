@@ -1,10 +1,12 @@
-# Handbook
+# Quick-Reference Guide to Handbook
 
 The following is a quick reference guide to the day-to-day operations at DVELP.
 
 * [General](#place-of-work)
-* [Developer Proficiency](developer-proficiency.md)
-* [Mentoring](mentoring.md)
+* [Developer Proficiency](Professional%20Development/developer-proficiency.md)
+* [Mentoring](Professional%20Development/mentoring.md)
+* [The full Handbook](README.md)
+
 
 ## Place of Work
 
@@ -66,7 +68,7 @@ We ask our team to use common sense when requesting holidays and be mindful of
 any pressing project deadlines or pre-existing holiday arrangements.
 
 **It is the responsibility of the individual to give sufficient notice to the
-team they are working with (internal and external) of any time off**
+team they are working with (internal and external) of any time off.**
 
 Holiday days are not carried from one calendar year to the next.
 

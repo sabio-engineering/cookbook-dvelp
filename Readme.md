@@ -28,8 +28,8 @@ better.
 
 
 * [Handbook](/handbook)
-  * [Developer Proficiency](/handbook/developer-proficiency.md)
-  * [Mentoring](/handbook/mentoring.md)
+  * [Developer Proficiency](/handbook/Professional%20Development/developer-proficiency.md)
+  * [Mentoring](/handbook/Professional%20Development/mentoring.md)
 
 * [Scripts](/scripts)
   * [Git Pull Requests](/scripts/git_merge_pull_request.sh)
