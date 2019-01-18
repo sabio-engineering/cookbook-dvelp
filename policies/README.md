@@ -5,7 +5,6 @@ The following is a quick reference guide to the day-to-day operations at DVELP.
 * [General](#place-of-work)
 * [Developer Proficiency](developer-proficiency.md)
 * [Mentoring](mentoring.md)
-* [Handbook](DVELP_Handbook.pdf)
 
 ## Place of Work
 
