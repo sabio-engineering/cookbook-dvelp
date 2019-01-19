@@ -1,6 +1,3 @@
-#DVELP Ltd. Staff Handbook
-
-##Non-contractual staff handbook
 
 | Contents        |
 | --- |
@@ -28,6 +25,10 @@
 | [Redundancy Policy](HR/redundancy-policy.md)|
 | [Retirement Policy (no fixed retirement age)](HR/retirement-policy.md)|
 
+
+#DVELP Ltd. Staff Handbook
+
+##Non-contractual staff handbook
 
 ## Quick-Reference Guide 
 The quick-reference guide to this handbook can be found [here](README.md).
