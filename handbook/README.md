@@ -1,14 +1,13 @@
 #DVELP Ltd. Staff Handbook
+
 ##Non-contractual staff handbook
-
-
 
 | Contents        |
 | --- |
 | [Quick-Reference Guide](README.md)        |
 | [Introduction](#Introduction)        |
-| [Using the Staff Handbook](#Using%20the%20Staff%20Handbook)        |
-| [Responsibility for the Staff Handbook](#Responsibility%20for%20the%20Staff%20Handbook)        |
+| [Using the Staff Handbook](#using-the-staff-handbook)        |
+| [Responsibility for the Staff Handbook](#Responsibility-for-the-Staff-Handbook)        |
 | [Personal details, home address and next of kin](HR/personal-details.md)|
 | [Dress Code](HR/dress-code.md)|
 | [Expenses Policy](HR/expenses-policy.md)        |
@@ -43,13 +42,13 @@ We want to be challenged, be encouraged to &#39;dare&#39;, to think openly and n
 
 We are an equal opportunities employer and do not discriminate on the grounds of gender, sexual orientation, marital or civil partner status, gender reassignment, race, colour, nationality, ethnic or national origin, religion or belief, disability or age.
 
-## Using%20the%20Staff%20Handbook
+## Using the Staff Handbook
 
 This Staff Handbook sets out the main policies and procedures that you will need to be aware of while working for us. You should familiarise yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to the Board of Directors.
 
 The policies and procedures set out in this handbook apply to all employees.  They therefore apply to managers, officers, directors, employees, consultants, contractors, trainees, homeworkers, part-time and fixed-term employees, casual and agency staff and volunteers (collectively referred to as **&quot;staff&quot;** in this policy). They do **not** form part of the terms of your contract with us, which are provided to you separately.  Your contract sets out your job title, hours and place of work, probationary period, salary, holidays and holiday pay, sickness absence reporting procedure and sick pay, your entitlement to and obligation to give notice to terminate your contract and the duties of confidentiality and restrictions that continue to apply after the termination of your contract.
 
-## Responsibility%20for%20the%20Staff%20Handbook
+## Responsibility for the Staff Handbook
 
 Our board of directors (the board) has overall responsibility for the operation of this Staff Handbook and for ensuring that its policies and procedures comply with our legal obligations.
 
