@@ -5,7 +5,7 @@
 
 | Contents        |
 | --- |
-| [Quick-Reference Guide](README.md)        |
+| [Quick-Reference Guide](quick-reference.md)        |
 | [Introduction](#Introduction)        |
 | [Using the Staff Handbook](#using-the-staff-handbook)        |
 | [Responsibility for the Staff Handbook](#Responsibility-for-the-Staff-Handbook)        |
