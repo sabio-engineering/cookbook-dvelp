@@ -28,8 +28,7 @@ better.
 
 
 * [Handbook](/handbook)
-  * [Developer Proficiency](/handbook/Professional%20Development/developer-proficiency.md)
-  * [Mentoring](/handbook/Professional%20Development/mentoring.md)
+  * [Quick Reference Guide](/handbook/quick-reference.md)
 
 * [Scripts](/scripts)
   * [Git Pull Requests](/scripts/git_merge_pull_request.sh)
