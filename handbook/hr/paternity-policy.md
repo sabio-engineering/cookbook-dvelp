@@ -4,7 +4,7 @@ This policy outlines employees&#39; entitlement to paternity leave and sets out 
 
 No-one will be discriminated against or subjected to a detriment for taking leave in accordance with this policy.
 
-Definitions
+### 1. Definitions
 
 The definitions in this paragraph apply in this policy.
 
@@ -14,7 +14,7 @@ The definitions in this paragraph apply in this policy.
 
 **&quot;Expected Placement Date&quot;** means the date on which an adoption agency expects that it will place a child into your care with a view to adoption.
 
-Entitlement to paternity leave
+### 2. Entitlement to paternity leave
 
 Certain employees can take paternity leave in relation to the birth or adoption of a child. However, in adoption cases paternity leave is not available to an employee who decides to take adoption leave.
 
@@ -32,14 +32,16 @@ You are entitled to ordinary paternity leave ( **&quot;OPL&quot;** ) if you meet
 10. expect to have main responsibility (with the child&#39;s mother, co-adopter or adopter) for the child&#39;s upbringing; or
 11. are the child&#39;s biological father and you expect to have some responsibility for the child&#39;s upbringing,
 12. your intended leave is for the purpose of caring for the child, or supporting the child&#39;s mother, adopter or co-adopter in caring for the child.
-13. You are entitled to additional paternity leave ( **&quot;APL&quot;** ) if, in addition to the conditions in Paragraph above:
-14. you remain employed by us until the week before the first week of your APL;
-15. the child&#39;s mother or your co-adopter, as the case may be, has been entitled to statutory leave:
-16. in birth cases, the child&#39;s mother has been entitled to maternity leave, statutory maternity pay or maternity allowance in respect of her pregnancy, or
-17. in adoption cases, the child&#39;s adopter has been entitled to one or both of adoption leave or statutory adoption pay in respect of the child&#39;s adoption; and
-18. the child&#39;s mother or your co-adopter, as the case may be, has returned to work.
 
-Timing and length of paternity leave
+You are entitled to additional paternity leave ( **&quot;APL&quot;** ) if, in addition to the conditions above:
+
+1. you remain employed by us until the week before the first week of your APL;
+2. the child&#39;s mother or your co-adopter, as the case may be, has been entitled to statutory leave:
+3. in birth cases, the child&#39;s mother has been entitled to maternity leave, statutory maternity pay or maternity allowance in respect of her pregnancy, or
+4. in adoption cases, the child&#39;s adopter has been entitled to one or both of adoption leave or statutory adoption pay in respect of the child&#39;s adoption; and
+5. the child&#39;s mother or your co-adopter, as the case may be, has returned to work.
+
+### 3. Timing and length of paternity leave
 
 OPL must be taken as a period of either one week or two consecutive weeks.  It cannot be taken in instalments.
 
@@ -52,7 +54,7 @@ APL must be taken as multiples of complete weeks and as one period.  The minimum
 
 APL must be taken in the period beginning 20 weeks after the child&#39;s date of birth, or adoption placement, and ending 12 months after that date of birth or adoption.
 
-Notification (birth)
+### 4. Notification (birth)
 
 If you wish to take OPL in relation to a child&#39;s birth, you must give us notice in writing of your intention to do so and confirm:
 
@@ -63,7 +65,7 @@ If you wish to take OPL in relation to a child&#39;s birth, you must give us not
 5. a day which is a specified number of days after the child&#39;s birth; or
 6. a specific date later than the first date of the Expected Week of Childbirth.
 
-You must give notice under Paragraph before the end of the 15th week before the Expected Week of Childbirth (or, if this is not possible, as soon as you can).
+You must give notice before the end of the 15th week before the Expected Week of Childbirth (or, if this is not possible, as soon as you can).
 
 We may require a signed declaration from you that you are taking OPL for a purpose for which it is intended; namely, to care for the child or to support the child&#39;s mother in caring for the child.
 
@@ -88,7 +90,7 @@ We will write to you to confirm the start and finish dates of your APL within 28
 
 We may require you to provide a copy of the child&#39;s birth certificate and the name and address of the mother&#39;s employer or, if she is self-employed, her business address.
 
-**Notification (adoption)       **
+### 5. Notification (adoption)
 
 If you wish to take OPL in relation to the adoption of a child, you must give us notice in writing of your intention to do so and confirm:
 
@@ -99,7 +101,7 @@ If you wish to take OPL in relation to the adoption of a child, you must give us
 5. a day which is a specified number of days after the child&#39;s placement; or
 6. a specific date later than the Expected Placement Date.
 
-You must give notice under Paragraph no more than seven days after you and/or your spouse, civil partner or Partner were notified of having been matched with the child (or, if this is not possible, as soon as you can).
+You must give notice no more than seven days after you and/or your spouse, civil partner or Partner were notified of having been matched with the child (or, if this is not possible, as soon as you can).
 
 We may require a signed declaration from you that you are taking OPL for a purpose for which it is intended; namely, to care for the child or to support your spouse, civil partner or Partner in caring for the child.
 
@@ -129,15 +131,15 @@ We may require you to provide the following:
 4. the date on which you were notified that you had been matched with the child; and
 5. the date on which the agency expected to place the child with you.
 
-Changing the dates of OPL or APL
+### 6. Changing the dates of OPL or APL
 
-Where you are to take OPL in respect of a child&#39;s birth, you can give us written notice to vary the start date of your leave from that which you originally specified in the notice given under Paragraph .  This notice should be given:
+Where you are to take OPL in respect of a child&#39;s birth, you can give us written notice to vary the start date of your leave from that which you originally specified in the notice given under [Paragraph 4](#4-notification-birth).  This notice should be given:
 
 1. where you wish to vary your leave to start on the day of the child&#39;s birth, at least 28 days before the first day of the Expected Week of Childbirth;
 2. where you wish to vary your leave to start a specified number of days after the child&#39;s birth, at least 28 days (minus the specified number of days) before the first day of the Expected Week of Childbirth;
 3. where you wish to vary your leave to start on a specific date (or a different date from that you originally specified), at least 28 days before that date.
 
-Where you are to take OPL in respect of a child&#39;s adoption, you can give us written notice to vary the start date of your leave from that which you originally specified in the notice given under Paragraph .  This notice should be given:
+Where you are to take OPL in respect of a child&#39;s adoption, you can give us written notice to vary the start date of your leave from that which you originally specified in the notice given under [Paragraph 5](#5-notification-adoption).  This notice should be given:
 
 1. where you wish to vary your leave to start on the day that the child is placed with you or the adopter, at least 28 days before the Expected Placement Date;
 2. where you wish to vary your leave to start a specified number of days after the child&#39;s placement, at least 28 days (minus the specified number of days) before the Expected Placement Date;
@@ -145,14 +147,14 @@ Where you are to take OPL in respect of a child&#39;s adoption, you can give us 
 
 If you are unable to give us 28 days&#39; written notice of the wish to vary the start of your leave as set out above, you should give us written notice of the change as soon as you can.
 
-Where you are to take APL, following either the birth or adoption of a child, you are entitled to give us written notice to cancel or vary the start and/or finish dates that you previously notified to us in accordance with Paragraph or Paragraph . You need to do this:
+Where you are to take APL, following either the birth or adoption of a child, you are entitled to give us written notice to cancel or vary the start and/or finish dates that you previously notified to us in accordance with [Paragraph 4](#4-notification-birth) or [Paragraph 5](#5-notification-adoption). You need to do this:
 
 1. at least 6 weeks before the date you originally told us was the date on which you wanted to start your APL; or
 2. if you want to start your APL earlier than that original start date, at least 6 weeks before the date on which you now wish your APL to start.
 
 If you are unable to give six weeks&#39; notice you should give us written notice of your wishes as soon as possible.  However, in these circumstances, if we are unable to accommodate your request we may require you to take a period of APL of up to 6 weeks starting on either your original or revised start date.  If you wish to discuss varying or cancelling your APL in these circumstances you should speak to your manager.
 
-Statutory paternity pay
+### 7. Statutory paternity pay
 
 In this paragraph, **&quot;Relevant Period&quot;** means:
 
@@ -168,7 +170,7 @@ If you take APL in accordance with this policy, you may be entitled to additiona
 
 OSPP and ASPP are paid at a prescribed rate which is set by the government for the relevant tax year, or at 90% of your average weekly earnings calculated over the Relevant Period if this is lower.  For details of the current prescribed rate, please contact the Managing Director.
 
-Terms and conditions during OPL and APL
+### 8. Terms and conditions during OPL and APL
 
 All the terms and conditions of your employment remain in force during OPL and APL, except for the terms relating to pay. In particular:
 
@@ -176,7 +178,7 @@ All the terms and conditions of your employment remain in force during OPL and A
 2. Annual leave entitlement under your contract shall continue to accrue; and
 3. Pension benefits shall continue.
 
-Annual leave
+### 9. Annual leave
 
 During OPL and APL, annual leave will accrue at the rate provided under your contract.
 
@@ -184,13 +186,13 @@ If the holiday year is due to end during your absence on paternity leave, you sh
 
 Our holiday year runs from 1 January to 31 December.
 
-Redundancies during APL
+### 10. Redundancies during APL
 
 In the event that your post is affected by a redundancy situation occurring during paternity leave, we shall write to inform you of any proposals and shall invite you to a meeting before any final decision is reached as to your continued employment.  Employees on APL will be among those given priority with regard to
 
 suitable alternative vacancies that are appropriate to their skills.
 
-Keeping in touch during APL
+### 11. Keeping in touch during APL
 
 We may make reasonable contact with you from time to time during your APL.
 
@@ -202,7 +204,7 @@ Shortly before you are due to return to work, we may invite you to have a discus
 2. any training needs you might have; and
 3. any changes to working arrangements (for example, that you may have requested come into effect on your return).
 
-Returning to work
+### 12. Returning to work
 
 You are normally entitled to return to work following either OPL or APL to the same position you held before commencing leave.  Your terms of employment will be the same as they would have been had you not been absent.
 
@@ -213,14 +215,14 @@ However, if you have combined your OPL or APL with a period of:
 3. parental leave of more than 4 weeks,
 4. and it is not reasonably practicable for you to return to the same job, we will offer you a suitable and appropriate alternative position.
 
-If you wish to return early from APL, you must give us at least 6 weeks&#39; prior notice.  Your ability to do so is subject to the matters set out in Paragraph to Paragraph .
+If you wish to return early from APL, you must give us at least 6 weeks&#39; prior notice.  Your ability to do so is subject to the matters set out in [Paragraph 6](#6-changing-the-dates-of-opl-or-apl).
 
 If you wish to postpone your return from APL, you should either:
 
 1. request unpaid parental leave in accordance with our Parental Leave Policy, giving us as much notice as possible but not less than 21 days; or
 2. request paid annual leave in accordance with your contract, which will be at our discretion.
 
-If you are unable to return to work from APL as expected due to sickness or injury, this will be treated as sickness absence and our Sickness Absence Policy will apply.
+If you are unable to return to work from APL as expected due to sickness or injury, this will be treated as sickness absence and our [Sickness Absence Policy](absence.md) will apply.
 
 In any other case, a late return will be treated as unauthorised absence.
 

@@ -30,7 +30,7 @@ The usual penalties for misconduct or poor performance are:
 
 1. **Stage 1: First written warning or improvement note.**  Where there are no other active written warnings or improvement notes on your disciplinary record, you will usually receive a first written warning or improvement note. It will usually remain active for 6 months.
 2. **Stage 2: Final written warning.**  In case of further misconduct or failure to improve where there is an active first written warning or improvement note on your record, you will usually receive a final written warning. This may also be used without a first written warning or improvement note for serious cases of misconduct or poor performance.  The warning will usually remain active for 12 months.
-3. **Stage 3: Dismissal or other action.**  You may be dismissed for further misconduct or failure to improve where there is an active final written warning on your record, or for any act of gross misconduct.  Examples of gross misconduct are given below (Paragraph ).  You may also be dismissed without a warning for any act of misconduct or unsatisfactory performance during your probationary period.
+3. **Stage 3: Dismissal or other action.**  You may be dismissed for further misconduct or failure to improve where there is an active final written warning on your record, or for any act of gross misconduct.  Examples of gross misconduct are given [below](#gross-misconduct).  You may also be dismissed without a warning for any act of misconduct or unsatisfactory performance during your probationary period.
 
 We may consider other sanctions short of dismissal, including demotion or redeployment to another role (where permitted by your contract), and/or extension of a final written warning with a further review period.
 

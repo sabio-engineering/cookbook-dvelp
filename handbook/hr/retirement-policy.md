@@ -4,7 +4,7 @@ We currently have no fixed retirement age although this will be reviewed from ti
 
 Staff are free to retire whenever they choose or to seek alternative working patterns. For further information, see our Flexible Working Policy.
 
-We are proud to employ people of all ages and consider that age diversity is beneficial to the organisation. We are committed to not discriminating against staff because of age and adhere to the principles set out in our Equal Opportunities Policy.
+We are proud to employ people of all ages and consider that age diversity is beneficial to the organisation. We are committed to not discriminating against staff because of age and adhere to the principles set out in our [Equal Opportunities Policy](equal-opportunities.md).
 
 #### The purpose of the policy
 
@@ -14,9 +14,9 @@ This policy aims to create a framework for workplace discussions, enabling you t
 
 You or your manager may want to discuss your short, medium and long-term plans, as the need arises.  For example, a promotion opportunity may arise, or, if your circumstances change, you may want a different working pattern or to stop work altogether.  We need to plan for the business, and so may indicate to staff from time to time that it would be helpful to know what their plans are.  There is no obligation for us or you to hold workplace discussions about your future plans, but it may be mutually beneficial to do so.
 
-We will not make generalised assumptions that performance will decline with age, whether due to competence or health issues.  If we think there are problems with your performance or ill-health, these will be dealt with in the usual way, through the Capability Procedure or Sickness Absence Policy.
+We will not make generalised assumptions that performance will decline with age, whether due to competence or health issues.  If we think there are problems with your performance or ill-health, these will be dealt with in the usual way, through the Capability Procedure or [Sickness Absence Policy](absence.md).
 
-If a workplace discussion takes place for the purposes described in Paragraph above, we will aim to make it as informal as possible.
+If a workplace discussion takes place for the purposes described above, we will aim to make it as informal as possible.
 
 #### During any workplace discussion:
 

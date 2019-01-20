@@ -8,6 +8,7 @@ better.
   * [The Constitution](#the-constitution)
 
 * [Guides](/guides)
+  * [Acronyms](https://docs.google.com/spreadsheets/d/1U46BkoZWjd_d83bKxUpEuGuWj3n8lBQU-J73eKOmUV8/edit?usp=sharing)
   * [Code Management](/guides/code-management)
     * [Git](/guides/code-management/git.md)
     * [Git For Shopify](/guides/code-management/git-shopify.md)

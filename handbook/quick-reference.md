@@ -3,8 +3,8 @@
 The following is a quick reference guide to the day-to-day operations at DVELP.
 
 * [General](#place-of-work)
-* [Developer Proficiency](Professional%20Development/developer-proficiency.md)
-* [Mentoring](Professional%20Development/mentoring.md)
+* [Developer Proficiency](professional-development/developer-proficiency.md)
+* [Mentoring](professional-development/mentoring.md)
 * [The full Handbook](README.md)
 
 

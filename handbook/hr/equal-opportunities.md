@@ -10,5 +10,5 @@ All staff have a duty to act in accordance with this policy and treat colleagues
 
 #### Breaches of the policy
 
-If you believe that you may have been discriminated against you are encouraged to raise the matter through our Grievance Procedure.  If you believe that you may have been subject to harassment you are encouraged to raise the matter through our Anti-harassment and Bullying Policy.  If you are uncertain which applies or need advice on how to proceed you should speak to the CEO.
+If you believe that you may have been discriminated against you are encouraged to raise the matter through our [Grievance Procedure](grievance-procedure.md).  If you believe that you may have been subject to harassment you are encouraged to raise the matter through our [Anti-harassment and Bullying Policy](../best-practice/anti-harassment.md).  If you are uncertain which applies or need advice on how to proceed you should speak to the CEO.
 

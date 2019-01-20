@@ -49,7 +49,7 @@ No member of staff should attempt to repair equipment unless trained and designa
 
 Any accident at work involving personal injury should be reported to the Principal Health and Safety Officer so that details can be recorded in the Accident Book.  All staff must cooperate with any resulting investigation.
 
-Details of first aid facilities and trained first aiders are available from the Principal Health and Safety.
+Details of first aid facilities and trained first aiders are available from the Principal Health and Safety Officer.
 
 If you suffer an accident at work you (or someone on your behalf) must report that fact to the Principal Health and Safety Officer or your manager as soon as possible.  All accidents should be reported, however trivial.  The accident will be recorded in our Accident Book.
 

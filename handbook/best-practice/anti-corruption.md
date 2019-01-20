@@ -6,7 +6,7 @@ We will uphold all laws relevant to countering bribery and corruption in all the
 
 #### The purpose of this policy is to:
 
-1. set out our responsibilities, and of those working for us, in observing and upholding our position on bribery and corruption; and
+1. set out our responsibilities, and of those working for us, in observing and upholding our position on bribery and corruption; and to
 2. provide information and guidance to those working for us on how to recognise and deal with bribery and corruption issues.
 
 It is a criminal offence to offer, promise, give, request, or accept a bribe.  Individuals found guilty can be punished by up to ten years&#39; imprisonment and/or a fine.  As an employer if we fail to prevent bribery we can face an unlimited fine, exclusion from tendering for public contracts, and damage to our reputation. We therefore take our legal responsibilities very seriously.
@@ -27,27 +27,19 @@ A person acts **&quot;improperly&quot;** where they act illegally, unethically, 
 
 **&quot;Corruption&quot;** is the abuse of entrusted power or position for private gain.
 
-#### What you must not do
-
-It is not acceptable for you (or someone on your behalf) to:
-
-1. give, promise to give, or offer, a payment, gift or hospitality with the expectation or hope that a business advantage will be received, or to reward a business advantage already given;
-2. give or accept a gift or hospitality during any commercial negotiations or tender process, if this could be perceived as intended or likely to influence the outcome;
-3. accept hospitality from a third party that is unduly lavish or extravagant under the circumstances.
-4. accept a payment, gift or hospitality from a third party that you know or suspect is offered with the expectation that it we will provide a business advantage for them or anyone else in return;
-5. offer or accept a gift to or from government officials or representatives, or politicians or political parties, without the prior approval of the Board of Directors.
-6. threaten or retaliate against another worker who has refused to commit a bribery offence or who has raised concerns under this policy; or
-7. engage in any activity that might lead to a breach of this policy.
-
-#### What is not acceptable?
+#### What you must not do:
 
 It is not acceptable for you (or someone on your behalf) to:
 
 1. give, promise to give, or offer, a payment, gift or hospitality with the expectation or hope that a business advantage will be received, or to reward a business advantage already given;
 2. give, promise to give, or offer, a payment, gift or hospitality to a government official, agent or representative to &quot;facilitate&quot; or expedite a routine procedure;
-3. accept payment from a third party that you know or suspect is offered with the expectation that it will obtain a business advantage for them;
-4. accept a gift or hospitality from a third party if you know or suspect that it is offered or provided with an expectation that a business advantage will be provided by us in return;
-5. threaten or retaliate against another worker who has refused to commit a bribery offence or who has raised concerns under this policy; or
-6. engage in any activity that might lead to a breach of this policy.
+3. give or accept a gift or hospitality during any commercial negotiations or tender process, if this could be perceived as intended or likely to influence the outcome;
+4. accept hospitality from a third party that is unduly lavish or extravagant under the circumstances;
+5. accept a payment, gift or hospitality from a third party that you know or suspect is offered with the expectation that it we will provide a business advantage for them or anyone else in return;
+6. offer or accept a gift to or from government officials or representatives, or politicians or political parties, without the prior approval of the Board of Directors;
+7. threaten or retaliate against another worker who has refused to commit a bribery offence or who has raised concerns under this policy; or
+8. accept payment from a third party that you know or suspect is offered with the expectation that it will obtain a business advantage for them;
+9. accept a gift or hospitality from a third party if you know or suspect that it is offered or provided with an expectation that a business advantage will be provided by us in return;
+10. engage in any activity that might lead to a breach of this policy.
 
-You must notify the Board of Directors as soon as possible if you believe or suspect that a conflict with this policy has occurred, or may occur in the future.  For example, if a client or potential client offers you something to gain a business advantage with us, or indicates to you that a gift or payment is required to secure their business.
+You must notify the Board of Directors as soon as possible if you believe or suspect that a conflict with this policy has occurred, or may occur in the future.
