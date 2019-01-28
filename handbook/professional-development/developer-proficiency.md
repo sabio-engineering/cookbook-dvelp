@@ -7,7 +7,7 @@ discussions around progress.
 The criteria set out in each band is by no means exhaustive, but aims to provide
 a solid point of reference.
 
-## D-band
+## Associate Developer
 
 * Pull Requests require multiple rounds of feedback to reach a mergeable state
 * The basics of a language or framework are mastered, but more advanced concepts
@@ -17,7 +17,7 @@ a solid point of reference.
 * Typically less than 2 years focused on a specific domain in a
   professional environment
 
-## V-band
+## Developer
 
 * Pull Requests require occasional discussion around approach or implementation
 * Clearly able to identify and follow predefined patterns or approaches in an
@@ -27,7 +27,7 @@ a solid point of reference.
 * Typically 2-5 years focused on a specific domain in a professional
   environment
 
-## E-band
+## Senior Developer
 
 * Pull Requests are a tool for communication of new features and a
   spring-board for higher-level discussions around approach
@@ -39,7 +39,7 @@ a solid point of reference.
 * Typically 5-8 years focused on a specific domain in a professional
   environment
 
-## L-band
+## Tech Lead
 
 * Pull Requests are a mentoring tool to engage less experienced teammates and
   showcase best practices
@@ -52,7 +52,7 @@ a solid point of reference.
 * Typically 8-12 years focused on a specific domain in a professional
   environment
 
-## P-band
+## VP of Engineering
 
 * Focus on defining and progressing processes and innovation at a company-wide
   level
