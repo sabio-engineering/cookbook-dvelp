@@ -18,17 +18,18 @@ This policy does not form part of any employee&#39;s contract of employment and 
 | [Dress Code](hr/dress-code.md)|
 | [Equal Opportunities Policy](hr/equal-opportunities.md)        |
 | [Expenses Policy](hr/expenses-policy.md)        |
-| [Time Management Policy](quick-reference.md#time-management)|
 | [Grievance Procedure](hr/grievance-procedure.md)|
 | [Health and Safety Policy](best-practice/health-and-safety-policy.md)|
 | [Information and Communications Systems Policy](data-security/info-communication-policy.md)|
 | [Maternity Policy](hr/maternity-policy.md)|
+| [Organisation Chart](hr/org-chart.md)|
 | [Paternity Policy](hr/paternity-policy.md)|
 | [Personal details, home address and next of kin](hr/personal-details.md)|
 | [Redundancy Policy](hr/redundancy-policy.md)|
 | [Retirement Policy (no fixed retirement age)](hr/retirement-policy.md)|
 | [Risk Management Policy](risk-management/risk-management.md)|
 | [Sickness Absence Policy](hr/absence.md)|
+| [Time Management Policy](quick-reference.md#time-management)|
 | [Whistle-blowing Policy](best-practice/whistle-blowing-policy.md)|
 
 ## Quick-Reference Guide 
