@@ -8,7 +8,7 @@ better.
   * [The Constitution](#the-constitution)
 
 * [Guides](/guides)
-  * [On-boarding](/guides/on-boarding.md)
+  * [Acronyms](/guides/acronyms.md)
   * [Code Management](/guides/code-management)
     * [Git](/guides/code-management/git.md)
     * [Git For Shopify](/guides/code-management/git-shopify.md)
@@ -21,6 +21,7 @@ better.
     * [Deploying Shopify](/guides/environments/deploying-shopify.md)
     * [Diagnostics](/guides/environments/diagnostics.md)
     * [Heroku](/guides/environments/heroku-pipeline.md)
+  * [On-boarding](/guides/on-boarding.md)
   * [Project Process](/guides/project-process)
     * [The DVELP Process](/guides/project-process/dvelp-process.md)
     * [Design Guidelines](/guides/project-process/design-guidelines.md)
