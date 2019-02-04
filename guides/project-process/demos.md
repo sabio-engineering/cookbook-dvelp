@@ -1,4 +1,4 @@
-# Demos
+# Running a Demo
 
 Demos are a fundamental part of our core belief to 'show value early'.
 
