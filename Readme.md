@@ -30,6 +30,8 @@ better.
   * [Tools](/guides/tools)
     * [ngrok](/guides/tools/ngrok.md)
     * [Soft-Phone](/guides/tools/soft-phone.md)
+  * [Twilio](/guides/twilio)
+    * [Number Porting](/guides/twilio/number-porting.md)
   * [Ruby gems](/guides/ruby-gems)
 
 
