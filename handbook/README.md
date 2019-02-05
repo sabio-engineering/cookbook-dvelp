@@ -4,33 +4,40 @@
 ## Non-contractual staff handbook
 This policy does not form part of any employee&#39;s contract of employment and we may amend it at any time.
 
-| Contents        |
-| --- |
-| [Quick-Reference Guide](quick-reference.md)        |
-| [Introduction](#Introduction)        |
-| [Using the Staff Handbook](#using-the-staff-handbook)        |
-| [Responsibility for the Staff Handbook](#Responsibility-for-the-Staff-Handbook)        |
-| [Anti-corruption and Bribery Policy](best-practice/anti-corruption.md)|
-| [Anti-harassment and Bullying Policy](best-practice/anti-harassment.md)|
-| [Compassionate Leave](hr/compassionate-leave.md)|
-| [Data Protection Policy](data-security/data-protection-policy.md)|
-| [Disciplinary and Capability Procedure](hr/disciplinary-procedure.md)        |
-| [Dress Code](hr/dress-code.md)|
-| [Equal Opportunities Policy](hr/equal-opportunities.md)        |
-| [Expenses Policy](hr/expenses-policy.md)        |
-| [Grievance Procedure](hr/grievance-procedure.md)|
-| [Health and Safety Policy](best-practice/health-and-safety-policy.md)|
-| [Information and Communications Systems Policy](data-security/info-communication-policy.md)|
-| [Maternity Policy](hr/maternity-policy.md)|
-| [Organisation Chart](hr/org-chart.md)|
-| [Paternity Policy](hr/paternity-policy.md)|
-| [Personal details, home address and next of kin](hr/personal-details.md)|
-| [Redundancy Policy](hr/redundancy-policy.md)|
-| [Retirement Policy (no fixed retirement age)](hr/retirement-policy.md)|
-| [Risk Management Policy](risk-management/risk-management.md)|
-| [Sickness Absence Policy](hr/absence.md)|
-| [Time Management Policy](quick-reference.md#time-management)|
-| [Whistle-blowing Policy](best-practice/whistle-blowing-policy.md)|
+## Contents
+* Introduction
+  * [Introduction](#introduction)
+  * [Using the Staff Handbook](#using-the-staff-handbook)
+  * [Responsibility for the Staff Handbook](#responsibility-for-the-staff-handbook)
+* Best Practice
+  * [Anti-corruption and Bribery Policy](best-practice/anti-corruption.md)
+  * [Anti-harassment and Bullying Policy](best-practice/anti-harassment.md)
+  * [Health and Safety Policy](best-practice/health-and-safety-policy.md)
+  * [Whistle-blowing Policy](best-practice/whistle-blowing-policy.md)
+* HR
+  * [Compassionate Leave](hr/compassionate-leave.md)
+  * [Disciplinary and Capability Procedure](hr/disciplinary-procedure.md)
+  * [Dress Code](hr/dress-code.md)
+  * [Equal Opportunities Policy](hr/equal-opportunities.md)
+  * [Expenses Policy](hr/expenses-policy.md)
+  * [Grievance Procedure](hr/grievance-procedure.md)
+  * [Maternity Policy](hr/maternity-policy.md)
+  * [Organisation Chart](hr/org-chart.md)
+  * [Paternity Policy](hr/paternity-policy.md)
+  * [Personal details, home address and next of kin](hr/personal-details.md)
+  * [Redundancy Policy](hr/redundancy-policy.md)
+  * [Retirement Policy (no fixed retirement age)](hr/retirement-policy.md)
+  * [Risk Management Policy](risk-management/risk-management.md)
+  * [Sickness Absence Policy](hr/absence.md)
+  * [Time Management Policy](quick-reference.md#time-management)
+* Information Security
+  * [Data Protection Policy](data-security/data-protection-policy.md)
+  * [Information and Communications Systems Policy](data-security/info-communication-policy.md)
+* Professional Development
+  * [Developer Proficiency](professional-development/developer-proficiency.md)
+  * [Mentoring](professional-development/mentoring.md)
+* [Quick-Reference Guide](quick-reference.md)
+* [Risk Management](risk-management/risk-management.md)
 
 ## Quick-Reference Guide 
 The quick-reference guide to this handbook can be found [here](quick-reference.md).
