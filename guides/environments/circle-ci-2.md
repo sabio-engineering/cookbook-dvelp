@@ -143,7 +143,7 @@ jobs:
        - image: circleci/postgres:9.6.2-alpine
          environment:
            POSTGRES_USER: postgres
-           POSTGRES_DB: dopay-payengine_test
+           POSTGRES_DB: test_database_name
 
     steps:
       - checkout
@@ -175,7 +175,7 @@ jobs:
       - run:
           name: Database setup
           environment:
-            DATABASE_URL: 'postgres://postgres@localhost:5432/dopay-payengine_test'
+            DATABASE_URL: 'postgres://postgres@localhost:5432/test_database_name'
           command: |
             bundle exec rake db:create db:schema:load --trace
             bundle exec rake db:migrate
