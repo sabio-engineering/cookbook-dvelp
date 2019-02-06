@@ -11,7 +11,7 @@ To download Zoiper visit https://www.zoiper.com.
 Before you configure the Zoiper client you have to create SIP domain on [Twilio ](https://www.twilio.com/console/voice/sip/endpoints/add). Fill in following fields:
 - FRIENDLY NAME - preferably your name
 - SIP URI - URI which you will need to use for Zoiper configuration later
-- REQUEST URL - URL to your application which will handle API request (see [how to configure ngrok](https://github.com/DVELP/cookbook/blob/master/guides/ngrok.md) to get public url from your localhost)
+- REQUEST URL - URL to your application which will handle API requests (see [how to configure ngrok](https://github.com/DVELP/cookbook/blob/master/guides/tools/ngrok.md) to get public url from your localhost)
 
 ### Authentication
 
