@@ -27,6 +27,7 @@ This policy does not form part of any employee&#39;s contract of employment and 
   * [Paternity Policy](hr/paternity-policy.md)
   * [Personal details, home address and next of kin](hr/personal-details.md)
   * [Redundancy Policy](hr/redundancy-policy.md)
+  * [Referral Programme](hr/referral-programme.md)
   * [Retirement Policy (no fixed retirement age)](hr/retirement-policy.md)
   * [Risk Management Policy](risk-management/risk-management.md)
   * [Sickness Absence Policy](hr/absence.md)
