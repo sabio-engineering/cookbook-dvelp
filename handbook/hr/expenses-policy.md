@@ -6,11 +6,10 @@ We will reimburse expenses properly incurred in accordance with this policy.  An
 
 Expenses will only be reimbursed if they are:
 
-1. approved by your line manager before they are incurred;
+1. approved by Ruby __before__ they are incurred;
 2. claimed using the [Expenses Google Form](https://goo.gl/forms/OxGsnYRT7UnaoP922);
 3. submitted within 2 months of being incurred;
 4. supported by relevant documents (for example, VAT receipts, tickets, and credit or debit card slips); and
-5. where required, authorised in accordance with instructions in force at the time the expense was incurred.
 
 Claims for authorised expenses submitted in accordance with this policy will be paid directly into your bank/building society account.
 
