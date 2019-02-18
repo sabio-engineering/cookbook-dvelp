@@ -38,6 +38,7 @@ This policy does not form part of any employee&#39;s contract of employment and 
 * Professional Development
   * [Developer Proficiency](professional-development/developer-proficiency.md)
   * [Mentoring](professional-development/mentoring.md)
+  * [Goal Reviews](professional-development/goal-reviews.md)
 * [Quick-Reference Guide](quick-reference.md)
 * [Risk Management](risk-management/risk-management.md)
 
