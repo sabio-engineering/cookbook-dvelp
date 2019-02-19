@@ -20,6 +20,7 @@ monthly review.
 | System | System Admin | Deputy System Admin |
 | --- | --- | --- |
 | CharlieHR | Andreas Kater | Ruby Williams |
+| CircleCI | Tom Mullen | (single admin) |
 | Forecast  | Ross Wilson | Annise Makki |
 | Github | Ilya Lozer | Vitalii Prodan |
 | GSuite | Ruby Williams | Andreas Kater |
@@ -30,4 +31,4 @@ monthly review.
 | Slack | Ruby Williams | Andreas Kater |
 | Stitch | Tom Mullen | Ilya Lozer |
 | Trello | Annise Makki | Ross Wilson |
-| Twilio | Vitalii Prodan | Ilya Lozer |
+| Twilio | Varies on a project by project basis. Please contact the Project Manager |
