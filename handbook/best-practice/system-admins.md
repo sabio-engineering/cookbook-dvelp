@@ -24,7 +24,7 @@ monthly review.
 | Github | Ilya Lozer | Vitalii Prodan |
 | GSuite | Ruby Williams | Andreas Kater |
 | Harvest | Ross Wilson | Annise Makki |
-| Heroku | Ross Wilson | Annise Makki |
+| Heroku | Ilya Lozer | Vitalii Prodan |
 | Looker | Vitalii Prodan | Ilya Lozer |
 | Redshift | Tom Mullen | Vitalii Prodan |
 | Slack | Ruby Williams | Andreas Kater |
