@@ -8,6 +8,7 @@ It should be reviewed at least once a sprint.
 
 ## Checklist
 
+- [ ] Hosting, maintenance and support [plans](maintenance-support-and-hosting.md) agreed
 - [ ] Rollout Plan agreed with stakeholders
 - [ ] Scoped requirements have been fully tested in staging (happy and unhappy paths)
 - [ ] Error tracking setup [Sentry](/guides/environments/diagnostics.md#error-handling) and being sent to the right places
@@ -19,7 +20,7 @@ It should be reviewed at least once a sprint.
 - [ ] Escalation process defined and shared with the client
 - [ ] Plan for how future production releases are handled
 
-## Plan
+## Go Live Plan
 
 For each major feature release to a production environment, we recommend you
 summarise the roll out plan in a document like
