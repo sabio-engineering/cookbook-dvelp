@@ -28,6 +28,7 @@ better.
     * [Trello](/guides/project-process/trello.md)
     * [Go Live Checklist](/guides/project-process/go-live-checklist.md)
     * [Bug Classifications](/guides/project-process/bug-classifications.md)
+    * [Maintenance, Support & Hosting](/guides/project-process/maintenance-support-and-hosting.md)
   * [Tools](/guides/tools)
     * [ngrok](/guides/tools/ngrok.md)
     * [Soft-Phone](/guides/tools/soft-phone.md)

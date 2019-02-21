@@ -1,4 +1,5 @@
 # Projects
+
 We borrow heavily from the Agile methodology in our own unique approach to projects.
 
 ## Resources
@@ -9,22 +10,28 @@ We borrow heavily from the Agile methodology in our own unique approach to proje
 - [Harvest Forecast](harvest-forecast.md)
 - [Running a Demo](running-a-demo.md)
 - [Trello](trello.md)
+- [Maintenance, Support & Hosting](maintenance-support-and-hosting.md)
 
 ## Project Principles
 
 ### One Team Philosophy
+
 We have learnt that the best products are built when we work side-by-side with our clients, as a partner, in a collaborative and iterative manner. This proximity promotes trust and drives enthusiasm to build something awesome!
 
 ### No More Big Reveal
+
 The `Big Reveal` at the end of a traditional waterfall project has proven time and again to be a set-up for trouble. If what the developer understood is different than what the client expected, it is expensive to change course after months of development. An iterative approach allows for feedback on a daily and weekly level; if we miss the mark on a sprint we only loose one week, not months.
 
 ### Ship Early and Often
+
 We trust our team to manage their own time within their sprints. This means they should be escalating to the team as soon as they see delays or unexpected challenges. Proactive communication ensures we can deliver support where needed and make the right decisions to keep the project on track.
 
 ### Work Hard, Sleep Easy
+
 To play their best, pro-athletes need to recover between games. We believe that our professionals need to recover between sprints. We work hard during the day, but strive to keep a sustainable pace and weekends work-free. That said, when the chips are down we pride ourselves on putting in the effort to get critical milestones across the line.
 
 ### Build Trust Through Transparency
+
 We request our clients join us on Slack and GitHub, so they can follow progress
 as it happens and be responsive to any questions. This is essential in shortening feedback loops and promoting iterative development. We don't maintain any parallel 'black-ops' back channels to exclude the client. A shared conversation between the client and our team is key to ensuring that the technical team understand the functional drivers for client scope requirements.
 
