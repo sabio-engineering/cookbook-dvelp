@@ -13,13 +13,18 @@ Before you configure the Zoiper client you have to create SIP domain on [Twilio 
 - SIP URI - URI which you will need to use for Zoiper configuration later
 - REQUEST URL - URL to your application which will handle API requests (see [how to configure ngrok](https://github.com/DVELP/cookbook/blob/master/guides/tools/ngrok.md) to get public url from your localhost)
 
+You need to register the SIP domain.
+- Enable SIP REGISTRATION
+- When you configure the SIP endpoint, you need to specify the localized domain.
+ For instance for North America Virginia (US1) will be `{domain-name}.sip.us1.twilio.com`.
+
 ### Authentication
 
 Soft-phones require basic authentication, so we have to create a user and password. On Twilio:
 - Click on `+` near with CREDENTIAL LISTS field
 - Fill in the form:
   - FRIENDLY NAME - preferably your name
-  - USERNAME - enter your phone number in E164 format e.g. +441231231231
+  - USERNAME - Username to authenticate (name, username, phone_number),
   - PASSWORD - your password (don't forget to use 1Password)
 - Once it's done click create. You should see a new record in CREDENTIAL LISTS field
 - Save your SIP domain
