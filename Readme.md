@@ -73,54 +73,56 @@ restrained by corporate policy.
 
 ### We want to be better.
 
-## Big, Hairy, Audacious Goal
+## Our Vision
 
 To become the go-to resource for best-in-class software, whether it be client or
 proprietary. By enabling our colleagues to be the best they can be, we aim to be
 considered as THE company to work both for and with.
 
-## The Constitution
 
-* Be Better
+## Our Values
 
- * Challenge yourself and your teammates to be the best they can be
+#### 1. Expect Excellence
+We expect excellence from ourselves, our teammates and our clients. We
+continually challenge ourselves to be better.
 
-* Be Brave, Dare to Experiment
 
-* Product is King
+#### 2. One Team Philosophy
+We work together, as a team, to get things done. We face challenges shoulder to
+shoulder. No task is beneath us, or outside of our remit.
 
-* Process is Queen
 
-  * Consistency == Efficiency
+#### 3. Take Responsibility
+We take responsibility for the work we do on behalf of our team and the company.
+We take a long-term view.
 
-  * Build the best products you can with the best tools you can find
 
-  * Work on your weaknesses
+#### 4. Automate Everything
+Through automation, we simplify processes and spend more time above the value
+line.
 
-* Your Job is Not Done Until The Job is Done
 
-  * Take responsibility
+#### 5. We Own an Opinion
+We share our perspective on how to solve challenges, improve processes and
+deliver on best practices. We candidly share our opinion with those we work with.
 
-  * Work hard, sleep easy
 
-* Shoulder to Shoulder
+#### 6. Invent & Innovate
+We are brave, we dare to experiment. We search for inventive and innovative ways
+to solve problems and deliver solutions. We never stop learning.
 
-  * Face challenges with your team and our clients shoulder to shoulder
 
-  * Further and faster together
+#### 7. Honesty & Transparency
+We are honest with ourselves and transparent with those we work with. We build
+trust through integrity.
 
-  * Fight for each other
 
-* Over Communicate
+#### 8. Grit
+We define ourselves by how we respond to the unexpected. We deliver in difficult
+environments through grit and determination.
 
-  * Share your perspective to solve challenges and improve process
-
-  * Honesty & transparency
-
-  * Be positive, always
 
 ## Contributing
-
 Bug reports and pull requests are welcome on GitHub at https://github.com/DVELP/cookbook. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org/) code of conduct.
 
 ## License
