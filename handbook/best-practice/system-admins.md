@@ -26,8 +26,10 @@ monthly review.
 | GSuite | Ruby Williams | Andreas Kater |
 | Harvest | Ross Wilson | Annise Makki |
 | Heroku | Ilya Lozer | Vitalii Prodan |
-| Looker | Vitalii Prodan | Ilya Lozer |
+| Looker | Vitalii Prodan | Andreas Kater |
+| Papertrail | Ilya Lozer | Tom Mullen |
 | Redshift | Tom Mullen | Vitalii Prodan |
+| Sentry | Ilya Lozer | Tom Mullen |
 | Slack | Ruby Williams | Andreas Kater |
 | Stitch | Tom Mullen | Ilya Lozer |
 | Trello | Annise Makki | Ross Wilson |
