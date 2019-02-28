@@ -8,6 +8,7 @@ better.
   * [The Constitution](#the-constitution)
 
 * [Guides](/guides)
+  * [On-boarding](/guides/on-boarding.md)
   * [Code Management](/guides/code-management)
     * [Git](/guides/code-management/git.md)
     * [Git For Shopify](/guides/code-management/git-shopify.md)
