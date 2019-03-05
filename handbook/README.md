@@ -33,8 +33,8 @@ This policy does not form part of any employee&#39;s contract of employment and 
   * [Sickness Absence Policy](hr/absence.md)
   * [Time Management Policy](quick-reference.md#time-management)
 * Information Security
-  * [Data Protection Policy](data-security/data-protection-policy.md)
-  * [Information and Communications Systems Policy](data-security/info-communication-policy.md)
+  * [Data Protection Policy](information-security/data-protection-policy.md)
+  * [Information and Communications Systems Policy](information-security/info-communication-policy.md)
 * Professional Development
   * [Developer Proficiency](professional-development/developer-proficiency.md)
   * [Mentoring](professional-development/mentoring.md)
@@ -42,7 +42,7 @@ This policy does not form part of any employee&#39;s contract of employment and 
 * [Quick-Reference Guide](quick-reference.md)
 * [Risk Management](risk-management/risk-management.md)
 
-## Quick-Reference Guide 
+## Quick-Reference Guide
 The quick-reference guide to this handbook can be found [here](quick-reference.md).
 
 ## Introduction
@@ -83,6 +83,3 @@ Questions about the content or application of the handbook should be directed to
 | Principal Health and Safety Officer | Ruby Williams <br/> Telephone: +44(0)7565956061 <br/> ruby@dvelp.co.uk |
 | HR Manager | Andreas Kater <br/> Telephone: +44(0)7565956061 <br/> andreas@dvelp.co.uk |
 | Information Security Officer | Andreas Kater <br/> Telephone: +44(0)7565956061 <br/> andreas@dvelp.co.uk |
-
-
-
