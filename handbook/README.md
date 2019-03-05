@@ -35,6 +35,7 @@ This policy does not form part of any employee&#39;s contract of employment and 
 * Information Security
   * [Data Protection Policy](information-security/data-protection-policy.md)
   * [Information and Communications Systems Policy](information-security/info-communication-policy.md)
+  * [Use of Cryptographic Controls Policy](information-security/use-of-cryptographic-controls-policy.md)
 * Professional Development
   * [Developer Proficiency](professional-development/developer-proficiency.md)
   * [Mentoring](professional-development/mentoring.md)
