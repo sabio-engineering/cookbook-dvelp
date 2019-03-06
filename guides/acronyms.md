@@ -8,13 +8,13 @@ good place to reference.
 | --- | --- |
 | AGM | Annual General Meeting |
 | ASR | Automated Speech Recognition |
-| BAU | Business as usual |
+| BAU | Business As Usual |
 | BCM | Business Continuity Management |
-| CLI | Command line interface |
+| CLI | Command Line Interface |
 | DBS | Disclosure and Barring Service (Police background check) |
 | DDI | Direct Dial-In, dedicated number (used in the background, not linked to MPOA) |
 | DDOS | Distributed Denial of Service Attack |
-| DOS | Denial of service attack |
+| DOS | Denial of Service Attack |
 | DPIA | Data Protection Impact Assessment |
 | DPO | Data Protection Officer |
 | DTMF | Dual-tone Multi-Frequency Signaling - navigating during a call by pressing keypad |
@@ -31,7 +31,7 @@ good place to reference.
 | MPOA | Publicly displayed number |
 | MQL | Marketing Qualified Lead |
 | MSA | Master Service Agreement |
-| NDA | Non-disclosure Agreement |
+| NDA | Non-Disclosure Agreement |
 | NLR | Natural Language Recognition |
 | OWASP | Open Web Application Security Project www.owasp.org |
 | PBX | Private Branch Exchange, which is a private telephone network used within a company or organization to switch calls internally |
@@ -40,7 +40,7 @@ good place to reference.
 | PSTN | Public Switched Telephone Network |
 | RTC | Real Time Communications |
 | SIP | Session Initiation Protocol |
-| SMB | Small to medium sized business |
+| SMB | Small to Medium sized Business |
 | SSH | Secure Shell (tool for accessing a server remotely via the command line) |
 | SSL | Secure Sockets Layer (depricated, now referred to as TLS or Transport Layer Security) |
 | SSO | Single Sign On  |
