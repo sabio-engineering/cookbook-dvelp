@@ -26,6 +26,7 @@ monthly review.
 | 1Password | Ruby Williams | Tom Mullen |
 | CharlieHR | Andreas Kater | Ruby Williams |
 | CircleCI | Tom Mullen | (single admin) |
+| Cloudflare | Vitalii Prodan | Ilya Lozer |
 | DocuSign | Ruby Williams | Andreas Kater |
 | Forecast  | Ross Wilson | Annise Makki |
 | Github | Ilya Lozer | Vitalii Prodan |
