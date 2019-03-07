@@ -24,6 +24,8 @@ DVELP requires all employees to have encryption enabled on their laptops, PC and
 
 SSH key pairs provide users with the ability to connect safely without having to use the password of the remote account. This is a very useful tool if you want to connect to a remote server or push your code to the remote repository on a regular basis. The process of using this technology is the following: create a pair of keys, one private and one public. The private one stays on the machine you will connect from (usually the machine where it is created). The other key, the public key, is put into the remote end by the owner of that account (which may be you) or by the server administrator. To see more about how to generate SSH keys please [read this](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 
+Using SSH key is more secure approach, the private key remains on the client side, and no secret value is ever sent to the server. Therefore we recommend employees to use SSH authentication type.
+
 ## Encrypting sensitive data in DB's
 
 In Order to protect sensitive data like passwords or secret tokens we hash or encrypt them before saving to the database.
