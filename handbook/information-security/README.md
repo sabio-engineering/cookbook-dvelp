@@ -27,7 +27,7 @@ The framework includes programs covering:
 * Incident Responses
 * Operations Security
 * [People Security](people-security.md)
-* Physical Security
+* [Physical Security](physical-and-environmental-security.md)
 * Policies and Procedures
 * Product Security
 * Security Compliance
