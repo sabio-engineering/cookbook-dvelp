@@ -23,8 +23,10 @@ monthly review.
 
 | System | System Admin | Deputy System Admin |
 | --- | --- | --- |
+| 1Password | Ruby Williams | Tom Mullen |
 | CharlieHR | Andreas Kater | Ruby Williams |
 | CircleCI | Tom Mullen | (single admin) |
+| DocuSign | Ruby Williams | Andreas Kater |
 | Forecast  | Ross Wilson | Annise Makki |
 | Github | Ilya Lozer | Vitalii Prodan |
 | GSuite | Ruby Williams | Andreas Kater |
