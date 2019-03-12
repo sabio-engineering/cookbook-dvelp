@@ -279,27 +279,17 @@ activities.
 
 ### A15.1 - Information security in supplier relationships
 
-* A15.1.1 - Information security policy for supplier relationships
+* [A15.1.1 - Information security policy for supplier relationships](./supplier-policy.md)
 
-  * This is currently under development and will be provided soon
+* [A15.1.2 - Addressing security within supplier agreements](./supplier-policy.md)
 
-* A15.1.2 - Addressing security within supplier agreements
-
-  * This is currently under development and will be provided soon
-
-* A15.1.3 - ICT supply chain
-
-  * This is currently under development and will be provided soon
+* [A15.1.3 - ICT supply chain](./supplier-policy.md)
 
 ### A15.2 - Supplier service delivery management
 
-* A15.2.1 - Monitoring and review of supplier services
+* [A15.2.1 - Monitoring and review of supplier services](./supplier-policy.md)
 
-  * This is currently under development and will be provided soon
-
-* A15.2.2 - Managing changes to supplier services
-
-  * This is currently under development and will be provided soon
+* [A15.2.2 - Managing changes to supplier services](./supplier-policy.md)
 
 ## A16 - Information security incident management
 
