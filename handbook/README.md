@@ -33,25 +33,6 @@ This policy does not form part of any employee&#39;s contract of employment and 
   * [Sickness Absence Policy](hr/absence.md)
   * [Time Management Policy](quick-reference.md#time-management)
 * [Information Security](information-security/README.md)
-  * Access Management
-  * Asset Management
-  * Business Continuity Security
-  * Cloud and Network Infrastructure Security
-  * Communications Security
-  * Cryptography
-  * [Data Protection Policy](information-security/data-protection-policy.md)
-  * Incident Responses
-  * [Information and Communications Systems Policy](information-security/info-communication-policy.md)
-  * Operations Security
-  * [People Security](people-security.md)
-  * Physical Security
-  * Policies and Procedures
-  * Product Security
-  * Security Compliance
-  * Security Monitoring
-  * Third-Party Security
-  * [Use of Cryptographic Controls Policy](information-security/use-of-cryptographic-controls-policy.md)
-  * Vulnerability Management
 * Professional Development
   * [Developer Proficiency](professional-development/developer-proficiency.md)
   * [Mentoring](professional-development/mentoring.md)
