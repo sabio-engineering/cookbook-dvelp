@@ -20,8 +20,9 @@ The framework includes programs covering:
 * Asset Management
 * Business Continuity Security
 * Cloud and Network Infrastructure Security
-* Communications Security
-* Cryptography
+* [Communications Security](info-communication-policy.md)
+* [Cryptography](use-of-cryptographic-controls-policy.md)
+* [Data Protection Policy](data-protection-policy.md)
 * Incident Responses
 * Operations Security
 * [People Security](people-security.md)
