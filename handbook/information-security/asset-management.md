@@ -20,7 +20,3 @@ DVELP accounts and then completely wipe the device before disposing of it.
 You may use your own device for work. This includes desktop computers, laptops,
 tablets and smartphones. DVELP require that if you are using your own device, it
 is encrypted and secured by a password or a biometric access control.
-
-If you are not able to adhere to this requirement, or you simply don’t want to
-use your own device, DVELP will supply you with a company-owned device if it is
-needed for your role.
