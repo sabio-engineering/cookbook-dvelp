@@ -79,9 +79,10 @@ Questions about the content or application of the handbook should be directed to
 | Contact | Contact Details |
 | --- | --- |
 | Public Concern at Work (Independent whistleblowing charity) | Helpline: (020) 7404 6609 <br/> whistle@pcaw.co.uk <br/> www.pcaw.co.uk | |
-| Principal Health and Safety Officer | Ruby Williams <br/> Telephone: +44(0)7565956061 <br/> ruby@dvelp.co.uk | Andreas Kater <br/> Telephone: +44(0)7565956061 <br/> andreas@dvelp.co.uk |
-| HR Manager | Andreas Kater <br/> Telephone: +44(0)7565956061 <br/> andreas@dvelp.co.uk | Ruby Williams <br/> Telephone: +44(0)7565956061 <br/> ruby@dvelp.co.uk |
-| Information Security Officer | Andreas Kater <br/> Telephone: +44(0)7565956061 <br/> andreas@dvelp.co.uk | Ruby Williams <br/> Telephone: +44(0)7565956061 <br/> ruby@dvelp.co.uk |
-| Internal Security Auditor | Louisa Crowder <br>  louisa@dvelp.co.uk | Ruby Williams <br/> Telephone: +44(0)7565956061 <br/> ruby@dvelp.co.uk |
+| Principal Health and Safety Officer | Ruby Williams <br/> ruby@dvelp.co.uk | Andreas Kater <br/> Telephone: +44(0)7565956061 <br/> andreas@dvelp.co.uk |
+| HR Manager | Andreas Kater <br/> andreas@dvelp.co.uk | Ruby Williams <br/> ruby@dvelp.co.uk |
+| Information Security Officer | Andreas Kater <br/> andreas@dvelp.co.uk | Ruby Williams <br/> Telephone: +44(0)7565956061 <br/> ruby@dvelp.co.uk |
+| Internal Security Auditor | Louisa Crowder <br>  louisa@dvelp.co.uk | Ruby Williams <br/> ruby@dvelp.co.uk |
+| DVELP London Office | Telephone: +44(0)7565956061 |
 
 
