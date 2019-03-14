@@ -17,7 +17,7 @@ related issues.
 The framework includes programs covering:
 
 * Access Management
-* Asset Management
+* [Asset Management](asset-management.md)
 * Business Continuity Security
 * Cloud and Network Infrastructure Security
 * [Communications Security](info-communication-policy.md)
