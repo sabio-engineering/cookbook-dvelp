@@ -17,6 +17,7 @@ related issues.
 The framework includes programs covering:
 
 * Access Management
+* [Anti-Virus and Malware Policy](anti-virus-malware-policy.md)
 * [Asset Acceptable Use Policy](acceptable-use.md)
 * [Asset Management](asset-management.md)
 * [Business Continuity Security](business-continuity.md)
