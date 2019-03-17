@@ -20,6 +20,7 @@ The framework includes programs covering:
 * [Asset Acceptable Use Policy](acceptable-use.md)
 * [Asset Management](asset-management.md)
 * [Business Continuity Security](business-continuity.md)
+* [Backup and Recovery](backup-recovery-policy.md)
 * Cloud and Network Infrastructure Security
 * [Classification of Information](classification-of-information.md)
 * [Communications Security](info-communication-policy.md)
