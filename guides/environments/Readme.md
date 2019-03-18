@@ -14,7 +14,10 @@ knowledge in projects or teams.
 ## Setup
 
 The following is a typical environment setup that we use to build, deploy and
-maintain our applications:
+maintain our applications.
+
+As a rule, production data is never used on the local, development, and staging
+environments.
 
 ###  Local/Dev
 
