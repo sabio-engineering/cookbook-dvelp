@@ -1,6 +1,6 @@
-# Infomation Security Charter
+# Information Security Charter
 
-DVELP is committed to delivering an Information Security framework, inline
+DVELP is committed to delivering an Information Security framework, in line
 with the ISO 27001 Information Security Standard, to improve the resiliency of
 business processes and foster awareness across our distributed team and amongst
 our customers.
@@ -11,14 +11,14 @@ company wide initiatives.
 
 The framework, approved by management, is designed as a functional tool, to be
 referred to in the day-to-day, to improve awareness, define best practices and
-cystalise key processes for prevention and resolution of information security
+crystalise key processes for prevention and resolution of information security
 related issues.
 
 The framework includes programs covering:
 
 * Access Management
 * [Asset Management](asset-management.md)
-* Business Continuity Security
+* [Business Continuity Security](business-continuity.md)
 * Cloud and Network Infrastructure Security
 * [Communications Security](info-communication-policy.md)
 * [Cryptography](use-of-cryptographic-controls-policy.md)
