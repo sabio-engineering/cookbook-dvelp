@@ -39,6 +39,8 @@ personal vault is completely private to you. This allows you to use the
 For guidance on using and getting the most out of 1Password, please see [their
 website](https://support.1password.com/explore/get-started/).
 
+You are required to confirm installation and usage of 1Password on the second sheet of the [Device Log](https://docs.google.com/spreadsheets/d/1DV6c4mM0YExWZbqztMBWbKUqNlQjDYSBWLHTuvpn3ls/edit#gid=195746426)
+
 ### Sharing Credentials
 
 We do not share login credentials. This is so that we retain the ability to
