@@ -59,6 +59,7 @@ We start all projects with a collaborative discussion where we establish what su
 - Requirements and dependencies
 - Timelines / Project Plan
 - Risks (new technology, changing scope, unknown codebase etc.)
+- Define client's Information Security requirements
 - Communications
 
 ### Discovery

@@ -16,7 +16,7 @@ It should be reviewed at least once a sprint.
 - [ ] Handover documentation (technical and instructions for end users)
 - [ ] Required training for users has been completed
 - [ ] Rollback plans defined
-- [ ] Security requirements are met (you should decide what these are the beginning of the project)
+- [ ] Security requirements are met (these are defined as part of the kick-off meeting)
 - [ ] Escalation process defined and shared with the client
 - [ ] Plan for how future production releases are handled
 
