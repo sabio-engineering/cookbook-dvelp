@@ -19,19 +19,15 @@ The objectives of our Supplier Policy are to:
 * where we are exposed to unacceptable risk, mitigate this by ending the
   collaboration if necessary
 
-## Vetting Process
-The below diagram illustrates the process that the rest of this document
-describes in more detail.
+## Vetting Process The below diagram illustrates the process that the rest of
+this document describes in more detail.
 
 ![Supplier Policy Flowchart](../../assets/supplier-policy.png)
 
 ### Supplier List
 
-Our [Supplier
-List](https://docs.google.com/spreadsheets/d/14kog_nFut3v2t5mZNNatZ-oWb7tP3ImWdXjUP9EkZGc/edit?usp=sharing)
-tracks the suppliers we interact with.
-
-This is checked for completeness monthly by the [Information Security
+Our Supplier List tracks the suppliers we interact with. This is checked for
+completeness monthly by the [Information Security
 Officer](../README.md#contacts).
 
 We define suppliers as any organisation that has invoiced us. Therefore the
@@ -39,9 +35,10 @@ monthly update requires a review of our received invoices for new suppliers.
 
 ### Supplier Ownership
 
-The Information Security Officer will assign a Supplier Owner to each Supplier
-in the Supplier List. These owners are tracked in the Supplier List. They are
-responsible for conducting the Vetting Process laid out below.
+The [Information Security Officer](../README.md#contacts) will assign a Supplier
+Owner to each Supplier in the Supplier List. These owners are tracked in the
+Supplier List. They are responsible for conducting the Vetting Process laid out
+below.
 
 ### Vetting Process
 
@@ -81,12 +78,15 @@ standard NDA template is available
 
 In conducting the Vetting Assessment, the Supplier Owner assesses the available
 information and answers the following questions:
+
 1. Do we as an organisation sufficiently understand the risks of working with
-   this supplier?
+this supplier?
+
 2. Has the supplier adequately mitigated the risk of security incidents to
-   minimise the probability of them occurring?
+minimise the probability of them occurring?
+
 3. Does the supplier's incident reporting policy allow us to effectively manage
-   such incidents if they do occur?
+such incidents if they do occur?
 
 If the answer to all three questions is yes, the Supplier Owner accepts the
 supplier.
@@ -110,6 +110,7 @@ within two months of the decision to reject.
 #### Accepting a Supplier
 
 If a supplier has been accepted the commercial relationship can continue and a
-review of the supplier's policies should be scheduled. This is tracked in the [Supplier
+review of the supplier's policies should be scheduled. This is tracked in the
+[Supplier
 List](https://docs.google.com/spreadsheets/d/14kog_nFut3v2t5mZNNatZ-oWb7tP3ImWdXjUP9EkZGc/edit?usp=sharing).
 
