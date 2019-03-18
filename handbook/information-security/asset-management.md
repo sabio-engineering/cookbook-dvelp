@@ -1,8 +1,8 @@
-#Asset Management
+# Asset Management
 
 ## Device Log
 
-During onboarding, new hires are required to register their any device used for
+During on-boarding, new hires are required to register any device used for
 DVELP business on the [Device
 Log](https://docs.google.com/spreadsheets/d/1DV6c4mM0YExWZbqztMBWbKUqNlQjDYSBWLHTuvpn3ls/edit#gid=90742438).
 Any devices acquired after this period must also be recorded in the same way.

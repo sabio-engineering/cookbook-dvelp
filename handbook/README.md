@@ -24,6 +24,7 @@ This policy does not form part of any employee&#39;s contract of employment and 
   * [Grievance Procedure](hr/grievance-procedure.md)
   * [Maternity Policy](hr/maternity-policy.md)
   * [Off-boarding](hr/off-boarding.md)
+  * [On-boarding](hr/on-boarding.md)
   * [Organisation Chart](hr/org-chart.md)
   * [Paternity Policy](hr/paternity-policy.md)
   * [Personal details, home address and next of kin](hr/personal-details.md)
