@@ -62,6 +62,17 @@ git rebase origin/master
 
 ## Request a Review
 
+Before merging, code should be reviewed by another member of the development team. This is where we conduct a systematic evaluation of our source code before it is deployed to reduce risk and remove a single individual being a point of failure.
+
+Every member of the development team should ask for their code to be reviewed for the following reasons:
+
+* Make sure we’re following best practice as a development team
+* Error detection
+* Vulnerability identification
+* Share learnings and techniques within the team
+
+We should always have our code reviewed before deployment. Exceptions should be rare but may be made in circumstances where the change is only trivial (e.g. copy change), or a hot-fix is required and no one else is available to do the review. In these scenarios the code should still be reviewed as soon as possible.
+
 If you've created more than one commit, use interactive rebase to squash them into cohesive commits with good messages:
 
     git rebase -i origin/master
