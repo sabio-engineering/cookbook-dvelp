@@ -84,6 +84,7 @@ Questions about the content or application of the handbook should be directed to
 | HR Manager | Andreas Kater <br/> andreas@dvelp.co.uk | Ruby Williams <br/> ruby@dvelp.co.uk |
 | Information Security Officer | Andreas Kater <br/> andreas@dvelp.co.uk | Ruby Williams <br/> Telephone: +44(0)7565956061 <br/> ruby@dvelp.co.uk |
 | Internal Security Auditor | Louisa Crowder <br>  louisa@dvelp.co.uk | Ruby Williams <br/> ruby@dvelp.co.uk |
+| Information Security Community Representative | Ross Wilson <br> ross@dvelp.co.uk | Ruby Williams <br/> ruby@dvelp.co.uk |
 | DVELP London Office | Telephone: +44(0)7565956061 |
 
 
