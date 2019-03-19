@@ -25,7 +25,7 @@ The framework includes programs covering:
 * [Cryptography](use-of-cryptographic-controls-policy.md)
 * [Data Protection Policy](data-protection-policy.md)
 * [Database Limits](database-limits.md)
-* Incident Responses
+* [Internal Security Audits](internal-security-audit.md)
 * Operations Security
 * [People Security](people-security.md)
 * [Physical Security](physical-and-environmental-security.md)
@@ -35,5 +35,5 @@ The framework includes programs covering:
 * Security Monitoring
 * [Special Interest Groups](special-interest-groups.md)
 * Third-Party Security
-* Vulnerability Management
+* [Vulnerability Management](vulnerability-management.md)
 
