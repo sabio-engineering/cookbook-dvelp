@@ -48,16 +48,14 @@ Policy](physical-and-environmental-security.md#working-in-secure-areas).
 Team members and contractors may under no circumstances use DVELP-managed
 resources for activities that are illegal or prohibited under applicable law.
 
-## Unacceptable System and Network Activities
+### Unacceptable System and Network Activities
 
 Prohibited system and network activities include, but are not limited to, the
 following:
 * Violations of the rights of any person or company protected by copyright,
   trade secret, patent or other intellectual property, or similar laws or
   regulations.
-
 * Unauthorised copying, distribution, or use of copyrighted material.
-
 * Exporting software, technical information, encryption software, or technology
   in violation of international or national export control laws.
 * Intentional introduction of malicious programs into DVELP networks or any
@@ -82,7 +80,7 @@ following:
 * Circumventing user authentication or security of any computer host, network,
   or account used by DVELP.
 
-## Unacceptable Email and Communications Activities
+### Unacceptable Email and Communications Activities
 
 Forwarding of company-confidential business emails, and documents to personal
 external email addresses.
@@ -92,11 +90,15 @@ if DVELP has sufficient reason to do so. If deemed necessary, an investigation
 will be conducted with the knowledge and approval of the Information Security
 Officer and the CEO.
 
-## Return of DVELP-Owned Assets
+### Unacceptable Use of Utility Programs
 
-All DVELP-owned computing resources must be returned upon separation from the
-company. Details will be defined in the [off-boarding
-checklist](../hr/off-boarding.md) in Charlie HR.
+Utility software is system software designed to help to analyse, configure,
+optimize or maintain a computer. Another common use is for automatically backing
+up your hard drive to a remote server or external hard drive. While utility
+programs of this type are not categorically prohibited, we require a clear
+separation between directories containing DVELP content on any machine and
+directories containing personal content. Any one utility program should only
+have access to one type of directory.
 
 ## Personal Mobile Phone and Tablet Usage
 
