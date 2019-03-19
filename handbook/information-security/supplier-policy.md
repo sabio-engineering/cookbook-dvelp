@@ -26,12 +26,13 @@ this document describes in more detail.
 
 ### Supplier List
 
+We define suppliers as any organisation that we collaborate with in providing
+our clients with our services.
+
 Our Supplier List tracks the suppliers we interact with. This is checked for
 completeness monthly by the [Information Security
-Officer](../README.md#contacts).
-
-We define suppliers as any organisation that has invoiced us. Therefore the
-monthly update requires a review of our received invoices for new suppliers.
+Officer](../README.md#contacts). As part of this check, we make sure all
+entities that have ever invoiced us are on the Supplier List.
 
 ### Supplier Ownership
 
@@ -44,37 +45,39 @@ below.
 
 #### Vetting Requirement
 
-While we work with a large number of suppliers, not all of them will have access
-to sensitive information. Therefore some suppliers do not present a significant
-Information Security risk and do not need to be vetted. Supplier Owners  assess
-which suppliers require security vetting by considering the below two questions:
+We organise suppliers into four categories:
 
-* What data does the supplier have access to?
-* What is the impact of possible security incidents?
+* Organisations without access to sensitive information.
+  * These do not require a security vetting.
+* Individuals and small organisations
+  * These are likely to require an NDA to be signed and/or a negotiation around
+    how to address vulnerabilities
+* Medium-sized organisation
+  * These are likely to require a review of their publicly available info sec
+    policies, a questionnaire where necessary and negotiations to address
+    vulnerabilities where necessary
+* Large organisation
+  * These are likely to require a review of their publicly available info sec
+    policies. Given they are significantly larger than us, it is usually not
+    feasible to require a questionnaire and/or negotiations. Therefore a
+    decision to collaborate or not will be made based solely on the publicly
+    available information.
 
-In light of these two considerations the Supplier Owner decides whether supplier
-vetting is required for an individual  supplier.
+The Supplier Owner decides whether supplier vetting is required for an
+individual  supplier.
 
 If a supplier vetting is required, this is to be completed within two months of
 the supplier being added to the Supplier List.
 
-#### Vetting Assessment
-
-In order to assess an individual supplier, the Supplier Owner will review the
-publicly available information of the supplier's information security policies
-and processes.
-
-If there is not sufficient information available publicly to conduct the review,
-the Supplier Owner will send out the [Supplier Security
-Questionnaire](https://goo.gl/forms/3J0BmcrOIhUxGP2x1) to the supplier to gather
-further information. Responses to the Questionnaire can be found
+The Supplier Questionnaire can be found
+[here](https://goo.gl/forms/3J0BmcrOIhUxGP2x1) Responses to the Supplier
+Questionnaire can be found
 [here](https://docs.google.com/spreadsheets/d/1q4TB_HkJubEPoc4MjeColk0LG9AUr-6_2d_UvrnbY4g/edit?usp=sharing).
 
-If the supplier is a small organisation or an individual, the Supplier Owner may
-ask the supplier to sign an Non-Disclosure Agreement (NDA) in order to ensure
-sensitive information will be treated confidentially by the supplier. Our
-standard NDA template is available
+Our standard NDA can be found
 [here](https://docs.google.com/document/d/1O_-nk5FLp-h5IycOM5Ntv0RxOcTWGWq7kfGZKqM8se4/edit?usp=sharing).
+
+#### Vetting Assessment
 
 In conducting the Vetting Assessment, the Supplier Owner assesses the available
 information and answers the following questions:
