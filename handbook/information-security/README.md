@@ -32,6 +32,7 @@ The framework includes programs covering:
 * Product Security
 * Security Compliance
 * Security Monitoring
+* [Special Interest Groups](special-interest-groups.md)
 * Third-Party Security
 * Vulnerability Management
 
