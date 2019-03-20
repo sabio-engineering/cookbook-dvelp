@@ -28,9 +28,8 @@ The framework includes programs covering:
 * [Database Limits](database-limits.md)
 * [Information Transfer](information-transfer-policy.md)
 * [Internal Security Audits](internal-security-audit.md)
-* Incident Responses
+* [Incident Responses](incident-response.md)
 * [Information Transfer](information-transfer-policy.md)
-* Operations Security
 * [People Security](people-security.md)
 * [Physical Security](physical-and-environmental-security.md)
 * [Special Interest Groups](special-interest-groups.md)
