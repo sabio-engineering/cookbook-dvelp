@@ -127,3 +127,8 @@ send sensitive documentation as password-protected zip file. The password should
 be sent in another channel. For example if the zip file was sent through Slack,
 the password should be passed through email. In this way all files will be
 encrypted and not available for reading by 3rd parties.
+
+### Ownership
+
+Vitalii Prodan is the owner of this document. You can contact him on
+<vitalii@dvelp.co.uk>.

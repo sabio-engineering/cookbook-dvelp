@@ -52,3 +52,7 @@ All DVELP-owned computing resources must be returned upon separation from the
 company. Details will be defined in the [off-boarding
 checklist](../hr/off-boarding.md) in Charlie HR.
 
+### Ownership
+
+Louisa Crowder is the owner of this document. You can contact her on
+<louisa@dvelp.co.uk>.

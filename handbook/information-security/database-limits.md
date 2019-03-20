@@ -57,3 +57,8 @@ avoid (continued) disruption to our service.
 On production environments this is will often require upgrading to a higher
 tier, while on development and staging environments a clean-up of the database
 to reduce its content is likely to be the appropriate course of action.
+
+### Ownership
+
+Ilya Lozer is the owner of this document. You can contact him on
+<ilya@dvelp.co.uk>.

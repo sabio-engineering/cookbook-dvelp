@@ -80,3 +80,8 @@ Misuse or excessive use or abuse of our telephone or e-mail system, or inappropr
 Any such action will be treated very seriously and is likely to result in summary dismissal.
 
 Where evidence of misuse is found we may undertake a more detailed investigation in accordance with our Disciplinary Procedure, involving the examination and disclosure of monitoring records to those nominated to undertake the investigation and any witnesses or managers involved in our Disciplinary Procedure.  If necessary such information may be handed to the police in connection with a criminal investigation.
+
+### Ownership
+
+Louisa Crowder is the owner of this document. You can contact him on
+<louisa@dvelp.co.uk>.

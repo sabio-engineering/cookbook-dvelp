@@ -26,3 +26,8 @@ on best-practices.
 
 Relevant updates, trends and process improvements are shared regularly and
 discussed with the team via the #iso27001 Slack channel.
+
+### Ownership
+
+Tom Mullen is the owner of this document. You can contact him on
+<tom@dvelp.co.uk>.

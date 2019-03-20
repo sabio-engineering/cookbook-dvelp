@@ -196,3 +196,8 @@ be retained for as long as a business justification remains.
 At the end of a project engagement, [Project Managers](../hr/org-chart.md)
 review any sensitive information held in relation to the project and destroy any
 data that is no longer needed to fulfil our customer's requirements.
+
+### Ownership
+
+Andreas Kater is the owner of this document. You can contact him on
+<andreas@dvelp.co.uk>.

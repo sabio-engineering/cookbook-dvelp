@@ -45,3 +45,7 @@ This includes data that relates to:
 * Criminal convictions or security measures
 * Any other information relating to an individual held within corporate personnel files, i.e. salary, grievances, appraisals, etc.
 
+### Ownership
+
+Andreas Kater is the owner of this document. You can contact him on
+<andreas@dvelp.co.uk>.

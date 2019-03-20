@@ -48,3 +48,7 @@ In order to avoid any security breaches:
   screen
 * we never leave our devices unattended in public places
 
+### Ownership
+
+Andreas Kater is the owner of this document. You can contact him on
+<andreas@dvelp.co.uk>.

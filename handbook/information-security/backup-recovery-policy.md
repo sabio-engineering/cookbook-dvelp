@@ -90,3 +90,8 @@ mobile device should be backed up to Google Drive or a similar cloud backup
 facility.
 
 Backups should be performed at least once a day.
+
+### Ownership
+
+Tom Mullen is the owner of this document. You can contact him on
+<tom@dvelp.co.uk>.

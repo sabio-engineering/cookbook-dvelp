@@ -13,7 +13,7 @@ DVELP’s and DVELP’s clients are hosted.
     * Effect: a loss of the Herokuapp service means that anyone who uses DVELP to
     host their applications would lose service.
     * Solution(s): There are multiple AWS data centres globally to provide
-    redundancy in the event of an outage 
+    redundancy in the event of an outage
 
 2. Unavailability of support staff in case of customer emergency.
     * Effect: emergency response times are greater than intended.
@@ -27,7 +27,7 @@ DVELP’s and DVELP’s clients are hosted.
 1. Malicious Software (Viruses, Worms, Trojan horses) attack.
     * Effect: depends on attack.
     * Solution(s): We outsource this protection to Heroku who have a range of
-    measures in place to prevent this: https://www.heroku.com/policy/security 
+    measures in place to prevent this: https://www.heroku.com/policy/security
 
 2.
     Hacking or other Internet attacks.
@@ -48,3 +48,8 @@ Disruption of service from Github, Harvest, Forecast, Slack, Trello
 
 Disruption of service from Google (gmail)
 * No failover plan currently.
+
+### Ownership
+
+Ross Wilson is the owner of this document. You can contact him on
+<ross@dvelp.co.uk>.

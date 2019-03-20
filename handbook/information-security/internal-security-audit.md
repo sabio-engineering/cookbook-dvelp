@@ -20,3 +20,8 @@ These internal audits and any nonconformities identified will be recorded in the
 Sheet](https://docs.google.com/spreadsheets/d/1wGXHbE6v7jsyy1Qbd7m7i04oCfzN-_57SXP0yhu_UUc/edit#gid=0).
 
 Internal audit records will be reported on at the management review meetings.
+
+### Ownership
+
+Louisa Crowder is the owner of this document. You can contact her on
+<louisa@dvelp.co.uk>.
