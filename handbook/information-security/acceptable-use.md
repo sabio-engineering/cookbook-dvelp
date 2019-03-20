@@ -121,7 +121,24 @@ flash drive or an external hard drive on company devices, please contact the
 to determine the most suitable encryption-enabled device.  All external and
 removable storage devices must be encrypted and protected by a passcode. Any
 external and removable storage devices must be wiped within 1 month of the
-relevant's project close.
+relevant's project close. Any exceptions to the ban of external media are to be
+tracked in the [Security Reporting Trello
+Board](https://trello.com/b/Hx0o5GpZ/security-reporting).
+
+## Use of printed materials
+
+Where possible we work exclusively with soft copies of documents that contain
+sensitive information according to our our [Classification
+Matrix](./classification-of-information.md). If it is necessary to work with
+printed copies, we shred these as soon as possible and no later than 1 month
+after the close of the relevant engagement. Until their destruction, paper
+copies need to be kept locked up in filing cabinets outside of office hours.
+
+## Displaying sensitive information
+
+Data users should ensure that individual monitors do not show [sensitive
+information](./classification-of-information.md) to passers-by and that they log
+off from their computer when it is left unattended.
 
 ## Policy Compliance
 
