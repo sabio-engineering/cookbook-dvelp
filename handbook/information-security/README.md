@@ -28,8 +28,34 @@ The framework includes programs covering:
 * [Database Limits](database-limits.md)
 * [Information Transfer](information-transfer-policy.md)
 * [Internal Security Audits](internal-security-audit.md)
+* Incident Responses
+* [Information Transfer](information-transfer-policy.md)
+* Operations Security
 * [People Security](people-security.md)
 * [Physical Security](physical-and-environmental-security.md)
 * [Special Interest Groups](special-interest-groups.md)
 * [Vulnerability Management](vulnerability-management.md)
+
+
+## Legal & Regulatory Constraints
+
+DVELP will endeavour to comply with all legal and regulatory obligations and
+constraints associated with information security, fraud and theft prevention
+and detection.
+
+DVELP will take reasonable and proportionate actions to facilitate and assist law
+enforcement agencies (and other appropriately authorised investigators) pursuant
+of their duties and responsibilities, and in this respect shall make available
+in a timely manner all records, audit trails, system logs as may be requested by
+them by legal authority (i.e. subpoena, court order, search warrant, etc.).
+
+
+## Violations
+
+All violations of this Charter will be reviewed and discussed by the Information
+Security Officer and the Executive Team. Any violation may result in formal
+[disciplinary action](/handbook/disciplinary-procedure.md).
+
+In the event the violation is in breach of any legal or regulatory obligations,
+DVELP may take legal action against the individual or organisation concerned.
 
