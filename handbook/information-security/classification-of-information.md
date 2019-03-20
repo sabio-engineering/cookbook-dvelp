@@ -15,7 +15,7 @@ you are working with falls
 ## Categories
 |  | Public | Internal | Confidential |
 | --- | --- | --- | --- |
-| | not considered sensitive information | considered sensitive information | considered sensitive information |
+| considered sensitive information? | no | yes | yes |
 | Description: | Anything that is in the public domain | Information that we are happy sharing with our colleages but no external party (other than the client that supplied it) | Highly sensitive information |
 | Examples: | <li>Anything accessible on public websites</li><li>Information from clients' press releases</li> | <li>Policies</li><li>Service Level Agreements</li><li>Departmental Memos</li> | <ul><li>Personal data(see below)</li><li>HR records</li><li>National Insurance Numbers</li><li>Personal contact information</li><li>VPN tokens</li><li>passwords</li></ul> |
 | Sharing: | This information can be shared with anyone | This type of information can be shared only with members of the DVELP team | Even within the DVELP team this information should not be shared unless the project work requires it and your line manager or project manager signs this off  |

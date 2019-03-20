@@ -16,27 +16,19 @@ related issues.
 
 The framework includes programs covering:
 
-* Access Management
 * [Anti-Virus and Malware Policy](anti-virus-malware-policy.md)
 * [Asset Acceptable Use Policy](acceptable-use.md)
 * [Asset Management](asset-management.md)
 * [Business Continuity Security](business-continuity.md)
 * [Backup and Recovery](backup-recovery-policy.md)
-* Cloud and Network Infrastructure Security
 * [Classification of Information](classification-of-information.md)
 * [Communications Security](info-communication-policy.md)
 * [Cryptography](use-of-cryptographic-controls-policy.md)
 * [Data Protection Policy](data-protection-policy.md)
 * [Database Limits](database-limits.md)
 * [Internal Security Audits](internal-security-audit.md)
-* Operations Security
 * [People Security](people-security.md)
 * [Physical Security](physical-and-environmental-security.md)
-* Policies and Procedures
-* Product Security
-* Security Compliance
-* Security Monitoring
 * [Special Interest Groups](special-interest-groups.md)
-* Third-Party Security
 * [Vulnerability Management](vulnerability-management.md)
 
