@@ -28,7 +28,7 @@ Soft-phones require basic authentication, so we have to create a user and passwo
 
 After installing Zoiper you will be requested to enter the following credentials:
 1. Fill user name (phone number) and password which we created before.
-2. Fill in your hostname, you can find it on [Voice SIP Domains](https://www.twilio.com/console/voice/sip/endpoints) page, e.g. `dvelp-test.sip.twilio.com`
+2. Fill in your hostname, you can find it on [Voice SIP Domains](https://www.twilio.com/console/voice/sip/endpoints) page, e.g. `dvelp-test.sip.us1.twilio.com`[SIP Registration](https://www.twilio.com/docs/voice/api/sip-registration)
 3. Skip Authentication and outbound proxy
 4. Skip testing step
 5. Click Create Account
