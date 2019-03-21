@@ -7,8 +7,11 @@ direction and focus.
 At DVELP we have goals that apply at both team and personal levels. Team goals
 make it explicit to the rest of the organisation what each team is trying to
 achieve. Personal goals are an opportunity for team members to work on their
-personal & professional development by pursuing goals that are catered for
-their individual advancement.
+personal & professional development by pursuing goals that are catered for their
+individual advancement.
+
+We have captured our best practice on setting goals in [this
+document](smart-goals.md).
 
 ## Personal Goals
 
@@ -18,8 +21,8 @@ of the team on our CharlieHR platform so that others are aware of our plans and
 can help us achieve them. As part of our review process we ask the people we
 have worked closely with to give us feedback on our progress towards each goal.
 
-The goals are set once a quarter in a
-conversation with our line manager, as per the below schedule:
+The goals are set once a quarter in a conversation with our line manager, as per
+the below schedule:
 
 ![Review Schedule](../../assets/review-schedule.png)
 
