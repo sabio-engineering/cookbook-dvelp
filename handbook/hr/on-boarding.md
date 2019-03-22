@@ -6,7 +6,7 @@ This process is defined in a CharlieHR checklist template which can be found
 [here](https://dvelp.charliehr.com/checklist_templates).
 
 It is the joint responsibility of the individual's Line Manager and the [HR
-Manager](../best-practice/system-admins.md#contacts) to ensure the on-boarding
+Manager](../readme.md#contacts) to ensure the on-boarding
 checklist is completed.
 
 # On-boarding advice from our team
@@ -77,7 +77,7 @@ quesitons.
 
 ## Useful links
 
-- [System admins](/handbook/best-practice/system-admins.md) - Is a place where
+- [System admins](/handbook/information-security/access-control.md) - Is a place where
   you can find a system admin and his deputy for some exact platform. Can be
   useful when you need to get access to some system.
 - [Our blog](https://dvelp.co.uk/articles) - This contains a lot of articles

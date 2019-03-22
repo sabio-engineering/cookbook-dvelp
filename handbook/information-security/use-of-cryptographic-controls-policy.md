@@ -48,7 +48,7 @@ audit any behaviour from single users in the event of a data breach.
 
 If you believe it is absolutely necessary to share a login credential, you must
 get sign-off from the [Information Security
-Officer](../best-practice/system-admins.md#contacts). The correct channel to
+Officer](../readme.md#contacts). The correct channel to
 share credentials in these exceptional circumstances is via a shared vault in
 1Password. Never share or store credentials anywhere else.
 

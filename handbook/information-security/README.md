@@ -16,6 +16,7 @@ related issues.
 
 The framework includes programs covering:
 
+* [Access Control](access-control.md)
 * [Anti-Virus and Malware Policy](anti-virus-malware-policy.md)
 * [Asset Acceptable Use Policy](acceptable-use.md)
 * [Asset Management](asset-management.md)
@@ -26,10 +27,10 @@ The framework includes programs covering:
 * [Cryptography](use-of-cryptographic-controls-policy.md)
 * [Data Protection Policy](data-protection-policy.md)
 * [Database Limits](database-limits.md)
-* [Information Transfer](information-transfer-policy.md)
-* [Internal Security Audits](internal-security-audit.md)
 * [Incident Responses](incident-response.md)
 * [Information Transfer](information-transfer-policy.md)
+* [Information Transfer](information-transfer-policy.md)
+* [Internal Security Audits](internal-security-audit.md)
 * [People Security](people-security.md)
 * [Physical Security](physical-and-environmental-security.md)
 * [Special Interest Groups](special-interest-groups.md)

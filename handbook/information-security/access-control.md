@@ -29,8 +29,9 @@ monthly review.
 | Cloudflare | Vitalii Prodan | Ilya Lozer |
 | DocuSign | Ruby Williams | Andreas Kater |
 | Forecast  | Ross Wilson | Annise Makki |
-| Github | Ilya Lozer | Vitalii Prodan |
 | GSuite | Ruby Williams | Andreas Kater |
+| Github | Ilya Lozer | Vitalii Prodan |
+| Greenhouse | Andreas Kater | Ruby Williams |
 | Harvest | Ross Wilson | Annise Makki |
 | Heroku | Ilya Lozer | Vitalii Prodan |
 | Looker | Vitalii Prodan | Andreas Kater |

@@ -50,7 +50,7 @@ such issues the alert will be sent to us from Sentry and Heroku.
 
 The alerts of any connected issues from Sentry or Heroku will be sent to system
 admins (Exact persons can be seen
-[here](/handbook/best-practice/system-admins.md)). The relevant system admin is
+[here](/handbook/information-security/access-control.md)). The relevant system admin is
 then responsible for taking the appropriate action to remedy the situation and
 avoid (continued) disruption to our service.
 
