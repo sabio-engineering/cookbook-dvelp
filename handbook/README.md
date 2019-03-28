@@ -14,6 +14,7 @@ This policy does not form part of any employee&#39;s contract of employment and 
   * [Anti-harassment and Bullying Policy](best-practice/anti-harassment.md)
   * [Health and Safety Policy](best-practice/health-and-safety-policy.md)
   * [Whistle-blowing Policy](best-practice/whistle-blowing-policy.md)
+  * [Tracking Deals with Hubspot](tracking-deals-with-hubspot.md)
 * HR
   * [Compassionate Leave](hr/compassionate-leave.md)
   * [Disciplinary and Capability Procedure](hr/disciplinary-procedure.md)
