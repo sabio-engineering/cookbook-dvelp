@@ -9,13 +9,13 @@ Greenhouse is a great tool to coordinate the hiring process. However, in order
 for us to be able to rely on it, we need to follow these rules:
 
 **1. All candidates must go through Greenhouse**
-  *  If you come across a candidate that is not yet in Greenhouse:
+  * If you come across a candidate that is not yet in Greenhouse:
     * please create them on Greenhouse, uploading their CV if available
     * if the candidate came through a recruiter please ask the recruiter to
       upload the candidate to our Greenhouse portal, so that they are tracked as
-the source of the candidate. If the recruiter does not yet have access to our
+the source of the candidate - If the recruiter does not yet have access to our
 Greenhouse portal, please ask the [Greenhouse System
-Admin](../readme.md#contacts) to set this up.
+Admin](../readme.md#contacts) to set this up
 
 **2. All communication about a candidate must go through Greenhouse**
   * If we discuss candidates via email or Slack, the information is not
