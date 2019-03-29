@@ -71,7 +71,7 @@ Every member of the development team should ask for their code to be reviewed fo
 * Vulnerability identification
 * Share learnings and techniques within the team
 
-We should always have our code reviewed before deployment. Exceptions should be rare but may be made in circumstances where the change is only trivial (e.g. copy change), or a hot-fix is required and no one else is available to do the review. In these scenarios the code should still be reviewed as soon as possible.
+We should always have our code reviewed and approved before deployment. Exceptions should be rare but may be made in circumstances where the change is only trivial (e.g. copy change), or a hot-fix is required and no one else is available to do the review. In these scenarios the code should still be reviewed as soon as possible.
 
 If you've created more than one commit, use interactive rebase to squash them into cohesive commits with good messages:
 
@@ -82,11 +82,21 @@ Share your branch.
 
     git push origin ${branch_name}
 
-Create a [pull request] on Github and have a team mate review it for you. They
-will make comments and ask questions via the web interface, or discuss it with you directly.
+Create a [pull request] on Github and have a team mate review it for you. They will make comments and ask questions via the web interface, or discuss it with you directly. After receiving comments and fix them, be sure that all fixed conversations (reviewer comments) are marked as `resolved conversation`. That small click will save reviewer time.
 
 [pull request]: https://help.github.com/articles/using-pull-requests
 
+## Submit a review
+
+Every member of the development team can ask you to do a review for the [following reasons](#request-a-review). As a reviewer, you will be able to:
+
+* Comment PR: Submit general feedback without explicit approval
+* Approve PR: Submit feedback and approve merging these changes
+* Request changes: Submit feedback that must be addressed before merging
+
+ In case when several people reviewing same PR and someone request changes - PR can't be merged without approval of that person. If you want to suggest several code changes, just use `comment` instead of `request changes`. That PR can be merged in worth case without your approval.
+
+ N.B. Try to leave all comments if needed in the first review iteration. The best scenario with required changes will be 2 review iterations: 1st for leaving comments, 2nd for check fixes and approve PR.
 
 ## Merge
 
@@ -144,4 +154,3 @@ Git is awesome and we use it alot, so get yourself some [good aliases] to help s
 branch_name=“”
 repo_name=“”
 ```
-
