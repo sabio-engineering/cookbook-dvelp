@@ -1,4 +1,4 @@
-# Use of Cryptographic Controls Policy
+# Cryptographic Controls Policy
 
 This policy contains practical guidelines for the use of cryptographic controls.
 Data encryption is highly recommended by information security standards.
@@ -26,8 +26,11 @@ On mobile devices, 1Password offers integrations with browsers and apps on iOS
 and Android devices using various methods.
 
 During on-boarding, you will be provided with a company-licensed 1Password vault
-for storing your passwords. You must use this for DVELP accounts. This includes
-using the 1Password password generator to create secure passwords.
+for storing your passwords. You must use this for DVELP accounts.
+
+We encourage using the 1Password password generator to generate strong
+passwords. However, you may generate your own passwords as long as 1Password's
+strength checker considers it "very good" or better.
 
 Storing login credentials for DVELP accounts anywhere other than 1Password is
 prohibited.
@@ -39,7 +42,9 @@ personal vault is completely private to you. This allows you to use the
 For guidance on using and getting the most out of 1Password, please see [their
 website](https://support.1password.com/explore/get-started/).
 
-You are required to confirm installation and usage of 1Password on the second sheet of the [Device Log](https://docs.google.com/spreadsheets/d/1DV6c4mM0YExWZbqztMBWbKUqNlQjDYSBWLHTuvpn3ls/edit#gid=195746426)
+You are required to confirm installation and usage of 1Password on the second
+sheet of the [Device
+Log](https://docs.google.com/spreadsheets/d/1DV6c4mM0YExWZbqztMBWbKUqNlQjDYSBWLHTuvpn3ls/edit#gid=195746426)
 
 ### Sharing Credentials
 
@@ -47,10 +52,9 @@ We do not share login credentials. This is so that we retain the ability to
 audit any behaviour from single users in the event of a data breach.
 
 If you believe it is absolutely necessary to share a login credential, you must
-get sign-off from the [Information Security
-Officer](../readme.md#contacts). The correct channel to
-share credentials in these exceptional circumstances is via a shared vault in
-1Password. Never share or store credentials anywhere else.
+get sign-off from the [Information Security Officer](../readme.md#contacts). The
+correct channel to share credentials in these exceptional circumstances is via a
+shared vault in 1Password. Never share or store credentials anywhere else.
 
 ## Device encryption and password policies
 
