@@ -1,4 +1,4 @@
-# Soft-phone
+# Zoiper Soft-phone
 
 Soft-phones allow you you to make phonecalls over the Internet using your computer rather than dedicated hardware. Soft-phones are great for manual testing of Twilio apps. There are lot clients to choose from, but this doc will explain how to configure Zoiper.
 
@@ -16,12 +16,12 @@ Before you configure the Zoiper client you have to create SIP domain on [Twilio 
 ### Authentication
 
 Soft-phones require basic authentication, so we have to create a user and password. On Twilio:
-- Click on `+` near with CREDENTIAL LISTS field
+- Click on `+` next to the CREDENTIAL LISTS field or go to [Credential Lists](https://www.twilio.com/console/voice/sip/cls) directly.
 - Fill in the form:
   - FRIENDLY NAME - preferably your name
   - USERNAME - enter your phone number in E164 format e.g. +441231231231
   - PASSWORD - your password (don't forget to use 1Password)
-- Once it's done click create. You should see a new record in CREDENTIAL LISTS field
+- Once it's done click on create. You should see a new record in the CREDENTIAL LISTS field
 - Save your SIP domain
 
 ## Zoiper Configuration
