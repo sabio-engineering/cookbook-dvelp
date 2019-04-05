@@ -59,29 +59,28 @@ requested by them by legal authority (i.e. subpoena, court order, search
 warrant, etc.).
 
 The legislation that DVELP has to comply with includes:
-*  General Data Protection Regulation (GDPR)
 *  Data Protection Act 1998
+*  General Data Protection Regulation (GDPR)
 
-## 4 Context of the organisation
+## 4 Context of The Organisation
 
-### Understanding the organization and its context
+### Understanding the Organization and its Context
 
 DVELP is a software consultancy, building solutions for clients in a number of
 industries, including retail, health, and financial services. We are based from
 a headquarters in London, and maintain a remote team that operates
 internationally.
 
-### Understanding the needs and expectations of interested parties
+### Understanding the Needs and Expectations of Interested Parties
 
 DVELP’s management team has identified the following stakeholders as being key
 to the design and maintenance of their information security management system:
-* Our customers (including end-users of the software solutions that are built by
-  DVELP)
 * Company Board
-* Staff
 * Contractors
-* Information Commissioner's Office
 * Financial Regulation Authority
+* Information Commissioner's Office
+* Our Clients (including end-users of the software solutions that are built by DVELP)
+* Staff
 
 These stakeholders trust us with sensitive and confidential information. They
 need to know that we treat this information with the appropriate level of care
@@ -110,15 +109,15 @@ We assess risks in our business in line with our [Risk Management
 Policy](risk-management.md) and take action to improve our systems in accordance
 with our [Vulnerability Management Procedure](vulnerability-management.md).
 
-### Information security objectives and planning to achieve them
+### Information Security Objectives and Planning to Achieve Them
 
 The objectives of our Information Security Management System include:
-* continuously improving our processes by acting on reported vulnerabilities
+* Continuously improving our processes by acting on reported vulnerabilities
   within one month in all cases, as tracked by our [Information Security Trello
   Board](https://trello.com/b/Hx0o5GpZ/security-reporting)
-* continuously reducing risks by mitigating risks with significant potential
+* Continuously reducing risks by mitigating risks with significant potential
   impact as per our [Risk Management Policy](risk-management.md)
-* obtaining and maintaining ISO27001 accreditation
+* Obtaining and maintaining ISO27001 accreditation
 
 ## 7 Support
 
@@ -147,7 +146,7 @@ We ensure our staff are aware of our policies by:
 * Regularly [auditing our compliance internally](internal-security-audit.md)
 * Regularly providing quizzes on our policies to all staff
 
-### Communication and Documented information
+### Communication and Documented Information
 
 We communicate our policies and documentation via our [Information Security
 GitHub page](readme.md). This provides a medium our developers are familiar with
@@ -155,18 +154,18 @@ from their everyday workflow and it is public to everyone to see online.
 
 ## 8 Operation
 
-### Operational planning and control
+### Operational Planning and Control
 
 At our regular Information Security Management Meetings we assess our recent
 performance against our security objectives and agree any controls that need to
 be put in place to enable us to achieve our objectives.
 
-### Information security risk assessment and treatment
+### Information Security Risk Assessment and Treatment
 
 Risks are assessed and treated in accordance with our [Risk
 Management](risk-management.md) policy.
 
-## 9 Performance evaluation
+## 9 Performance Evaluation
 
 ### Monitoring, Measurement, Analysis and Evaluation
 
