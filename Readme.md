@@ -22,7 +22,7 @@ better.
     * [Diagnostics](/guides/environments/diagnostics.md)
     * [Heroku](/guides/environments/heroku-pipeline.md)
   * [Project Process](/guides/project-process)
-    * [Commercial terms](/guides/project-process/commerical-terms.md)
+    * [Commercial terms](/guides/project-process/commercial-terms.md)
     * [Design Guidelines](/guides/project-process/design-guidelines.md)
     * [Harvest Forecast](/guides/project-process/harvest-forecast.md)
     * [Trello](/guides/project-process/trello.md)

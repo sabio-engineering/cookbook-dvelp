@@ -13,10 +13,11 @@ Our professional services are provided on a time and materials basis.
 
 Fees are exclusive of the below expenses. These expenses are chargeable.
 
-* travel cost to and from client site
-* travel time to and from client site (chargeable at the hourly rate for
-  professional services)
-* subsistence
-* any other reasonable expenses incurred in connection with the provision of our
+* For travel to and from client side further than 2 hours from our office:
+  * Travel cost
+  * Travel time (chargeable at the hourly rate for professional services)
+  * Accommodation for overnight stays
+* Subsistence
+* Any other reasonable expenses incurred in connection with the provision of our
   services
 
