@@ -4,8 +4,8 @@ Our collection of guides, recipes and scripts for helping you get things done,
 better.
 
 * [The Why?](#the-why)
-  * [Big, Hairy, Audacious Goal](#big-hairy-audacious-goal)
-  * [The Constitution](#the-constitution)
+  * [Our Vision](#our-vision)
+  * [Our Goals](#our-goals)
 
 * [Guides](/guides)
   * [Acronyms](/guides/acronyms.md)
@@ -21,7 +21,7 @@ better.
     * [Deploying Shopify](/guides/environments/deploying-shopify.md)
     * [Diagnostics](/guides/environments/diagnostics.md)
     * [Heroku](/guides/environments/heroku-pipeline.md)
-  * [Project Process](/guides/project-process)
+  * [Project Process](/guides/Readme.md)
     * [Commercial terms](/guides/project-process/commercial-terms.md)
     * [Design Guidelines](/guides/project-process/design-guidelines.md)
     * [Harvest Forecast](/guides/project-process/harvest-forecast.md)
@@ -31,7 +31,7 @@ better.
     * [Maintenance, Support & Hosting](/guides/project-process/maintenance-support-and-hosting.md)
   * [Tools](/guides/tools)
     * [ngrok](/guides/tools/ngrok.md)
-    * [Soft-Phone](/guides/tools/soft-phone.md)
+    * [zoiper-soft-phone](/guides/tools/zoiper-soft-phone.md)
   * [Twilio](/guides/twilio)
     * [Number Porting](/guides/twilio/number-porting.md)
   * [Ruby gems](/guides/ruby-gems)
