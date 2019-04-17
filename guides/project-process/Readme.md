@@ -4,6 +4,7 @@ We borrow heavily from the Agile methodology in our own unique approach to proje
 
 ## Resources
 
+- [Commercial Terms](commercial-terms.md)
 - [Bug Classification](bug-classifications.md)
 - [Design Guidelines](design-guidelines.md)
 - [Go Live Checklist](go-live-checklist.md)
