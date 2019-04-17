@@ -34,7 +34,9 @@ monthly review.
 | Greenhouse | Andreas Kater | Ruby Williams |
 | Harvest | Ross Wilson | Annise Makki |
 | Heroku | Ilya Lozer | Vitalii Prodan |
+| Hubspot  | David Backhouse | Louisa Crowder |
 | Looker | Vitalii Prodan | Andreas Kater |
+| Mailchimp  | Louisa Crowder | David Backhouse |
 | Papertrail | Ilya Lozer | Tom Mullen |
 | Redshift | Tom Mullen | Vitalii Prodan |
 | Sentry | Ilya Lozer | Tom Mullen |
@@ -42,3 +44,8 @@ monthly review.
 | Stitch | Tom Mullen | Ilya Lozer |
 | Trello | Annise Makki | Ross Wilson |
 | Twilio | Varies on a project by project basis. Please contact the Project Manager |
+
+### Ownership
+
+Andreas Kater is the owner of this document. You can contact him on
+<andreas@dvelp.co.uk>.

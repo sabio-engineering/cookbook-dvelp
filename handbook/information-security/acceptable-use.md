@@ -6,8 +6,8 @@ This policy specifies requirements related to the use of DVELP computing
 resources and data assets by DVELP team members so as to protect our customers,
 team members, contractors, company, and other partners from harm caused by both
 deliberate and inadvertent misuse. Our intention in publishing this policy is
-not to impose restrictions but outline information security guidelines intended
-to protect DVELP assets.
+not to impose restrictions but to outline information security guidelines
+intended to protect DVELP assets.
 
 It is the responsibility of every member of our Community to interact with DVELP
 computing resources and data in a secure manner and to that end we provide the
@@ -55,7 +55,6 @@ following:
 * Violations of the rights of any person or company protected by copyright,
   trade secret, patent or other intellectual property, or similar laws or
   regulations.
-* Unauthorised copying, distribution, or use of copyrighted material.
 * Exporting software, technical information, encryption software, or technology
   in violation of international or national export control laws.
 * Intentional introduction of malicious programs into DVELP networks or any
@@ -85,10 +84,9 @@ following:
 Forwarding of company-confidential business emails, and documents to personal
 external email addresses.
 
-Note: DVELP may retrieve messages from archives and servers without prior notice
-if DVELP has sufficient reason to do so. If deemed necessary, an investigation
-will be conducted with the knowledge and approval of the Information Security
-Officer and the CEO.
+Note: DVELP may retrieve messages from archives and servers without prior
+notice. If deemed necessary, an investigation will be conducted with the
+knowledge and approval of the Information Security Officer and the CEO.
 
 ### Unacceptable Use of Utility Programs
 

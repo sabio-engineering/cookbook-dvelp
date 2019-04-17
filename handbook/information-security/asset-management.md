@@ -22,10 +22,10 @@ Log](https://docs.google.com/spreadsheets/d/1DV6c4mM0YExWZbqztMBWbKUqNlQjDYSBWLH
 This forms a part of the onboarding process and must also be completed if
 further devices are acquired at a later date.
 
-You are required to supply:
+On the Device Register, you are required to supply:
 
 * Device type (desktop computer, laptop, tablet or smartphone)
-* Manufactorer
+* Manufacturer
 * Model
 * Serial number
 * Confirmation of encryption

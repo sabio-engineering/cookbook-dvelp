@@ -7,7 +7,7 @@ This process is defined in a CharlieHR checklist template which can be found
 
 It is the joint responsibility of the individual's Line Manager and the [HR
 Manager](../readme.md#contacts) to ensure the on-boarding
-checklist is completed.
+checklist is completed within one month of the new team member joining.
 
 # On-boarding advice from our team
 
