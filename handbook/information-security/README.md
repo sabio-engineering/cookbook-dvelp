@@ -36,6 +36,7 @@ The framework includes programs covering:
 * [People Security](people-security.md)
 * [Physical Security](physical-and-environmental-security.md)
 * [Special Interest Groups](special-interest-groups.md)
+* [Statement of Applicability](statement-of-applicability.md)
 * [Vulnerability Management](vulnerability-management.md)
 
 ## 2 Scope
