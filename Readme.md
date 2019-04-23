@@ -5,7 +5,7 @@ better.
 
 * [The Why?](#the-why)
   * [Our Vision](#our-vision)
-  * [Our Goals](#our-goals)
+  * [Our Values](#our-values)
 
 * [Guides](/guides)
   * [Acronyms](/guides/acronyms.md)
