@@ -21,7 +21,7 @@ better.
     * [Deploying Shopify](/guides/environments/deploying-shopify.md)
     * [Diagnostics](/guides/environments/diagnostics.md)
     * [Heroku](/guides/environments/heroku-pipeline.md)
-  * [Project Process](/guides/Readme.md)
+  * [Project Process](/guides/project-process/Readme.md)
     * [Commercial terms](/guides/project-process/commercial-terms.md)
     * [Design Guidelines](/guides/project-process/design-guidelines.md)
     * [Harvest Forecast](/guides/project-process/harvest-forecast.md)

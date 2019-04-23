@@ -32,7 +32,6 @@ The framework includes programs covering:
 * [Incident Responses](incident-response.md)
 * [Information Security Management Meetings](isms-meetings.md)
 * [Information Transfer](information-transfer-policy.md)
-* [Information Transfer](information-transfer-policy.md)
 * [Internal Security Audits](internal-security-audit.md)
 * [People Security](people-security.md)
 * [Physical Security](physical-and-environmental-security.md)
