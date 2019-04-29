@@ -1,6 +1,6 @@
 # Information Security Charter
 
-## 1 Introduction
+## 1. Introduction
 
 DVELP is committed to delivering an Information Security framework, in line with
 the ISO 27001 Information Security Standard, to improve the resiliency of
@@ -8,8 +8,8 @@ business processes and foster awareness across our distributed team and amongst
 our customers.
 
 Security is represented at the highest level within the company. Our CEO meets
-regularly with the Executive Team to discuss issues and co-ordinate company wide
-initiatives.
+regularly with the Information Security Management Team to discuss issues and
+co-ordinate company wide initiatives.
 
 The framework, approved by management, is designed as a functional tool, to be
 referred to in the day-to-day, to improve awareness, define best practices and
@@ -39,13 +39,13 @@ The framework includes programs covering:
 * [Statement of Applicability](statement-of-applicability.md)
 * [Vulnerability Management](vulnerability-management.md)
 
-## 2 Scope
+## 2. Scope
 
 The scope of our Information Security Management System comprises all DVELP
 employees operating in the UK and the European Union, and all processes that we
 use to deliver on our client's requirements.
 
-## 3 Legal and Regulatory Context
+## 3. Legal and Regulatory Context
 
 DVELP will endeavour to comply with all legal and regulatory obligations and
 constraints associated with information security, fraud and theft prevention and
@@ -62,7 +62,7 @@ The legislation that DVELP has to comply with includes:
 *  Data Protection Act 1998
 *  General Data Protection Regulation (GDPR)
 
-## 4 Context of The Organisation
+## 4. Context of The Organisation
 
 ### Understanding the Organization and its Context
 
@@ -88,7 +88,7 @@ and have state of the art systems and processes in place to protect it from
 unauthorised access, manipulation and duplication. Our Information Security
 Management System sets out to provide this assurance.
 
-## 5 Leadership
+## 5. Leadership
 
 DVELP's Board of Directors and Management Team are committed to delivering a
 robust Information Security Management System.
@@ -100,7 +100,7 @@ and encourages the entire organisation to build security into it's DNA.
 A full list of organizational roles, responsibilities and authorities is
 captured in our [Contacts Table](../readme.md#contacts).
 
-## 6 Planning
+## 6. Planning
 
 Information Security risks and opportunities are reported to our
 <security@dvelp.co.uk> email address and evaluated within 24 hours.
@@ -119,7 +119,7 @@ The objectives of our Information Security Management System include:
   impact as per our [Risk Management Policy](risk-management.md)
 * Obtaining and maintaining ISO27001 accreditation
 
-## 7 Support
+## 7. Support
 
 ### Resources
 
@@ -152,7 +152,7 @@ We communicate our policies and documentation via our [Information Security
 GitHub page](readme.md). This provides a medium our developers are familiar with
 from their everyday workflow and it is public to everyone to see online.
 
-## 8 Operation
+## 8. Operation
 
 ### Operational Planning and Control
 
@@ -165,7 +165,7 @@ be put in place to enable us to achieve our objectives.
 Risks are assessed and treated in accordance with our [Risk
 Management](risk-management.md) policy.
 
-## 9 Performance Evaluation
+## 9. Performance Evaluation
 
 ### Monitoring, Measurement, Analysis and Evaluation
 
@@ -192,7 +192,7 @@ The Information Security Management Team meet to review:
 * our internal policies and objectives relating to Information Security as per
   our [Information Security Management Meetings Policy](isms-meetings.md).
 
-## 10 Improvement
+## 10. Improvement
 
 ### Nonconformity and Corrective Action
 
@@ -210,7 +210,7 @@ improvement to <security@dvelp.co.uk> so that we can take the appropriate steps
 to remedy any shortfalls and implement any improvements in line with our
 [Vulnerability Management](vulnerability-management.md).
 
-## 11 Violations
+## 11. Violations
 
 All violations of this Charter will be reviewed and discussed by the Information
 Security Officer and the Executive Team. Any violation may result in formal
