@@ -15,37 +15,42 @@ document](smart-goals.md).
 
 ## Personal Goals
 
-Each one of us should have five goals defined at any one time that state what we
-are currently looking to achieve. These goals are publicly shared with the rest
-of the team on our CharlieHR platform so that others are aware of our plans and
-can help us achieve them. As part of our review process we ask the people we
-have worked closely with to give us feedback on our progress towards each goal.
+Each of us should have three goals defined at any one time that state what
+we are currently trying to achieve. These goals are publicly shared with the
+rest of the team on our [feedback
+platform](https://dvelp-feedback.firebaseapp.com/) so that others are aware of
+our plans and can help us achieve them. As part of our review process we choose
+the three people we have worked most closely with and give them detailed
+feedback on their progress towards goals, what they did well, could improve, and
+any other situational feedback.
 
 The goals are set once a quarter in a conversation with our line manager, as per
-the below schedule:
+the below schedule.
 
-![Review Schedule](../../assets/review-schedule.png)
-
-## Goal Review Process
+### Goal Review Process
 
 ![Goal Reviews](../../assets/personal-goals.png)
 
-Leading up to each Goal Review, we each ask the four people we've worked closest
-with to give us feedback.
+You can find our feedback platform
+[here](https://dvelp-feedback.firebaseapp.com/).
 
-These four people then fill in a feedback form and submit this to our line
-manager.
+  At our Goal Review Meeting, we work with our Line Manager to:
 
-We use [CharlieHR](https://www.charliehr.com/) to run this review cycle.
+  1. Mark the goals that we have managed to achieve as complete
 
-At our Goal Review Meeting, we then work with our line manager to choose the
-goals we want to work towards. Where a goal has been achieved it can be replaced
-with a new one.
+  2. Choose new goals to work towards over the next quarter
 
-The choice of a new goal is informed by:
-* The Role Description for our current role. For the developers, this can be
-  found [here](developer-proficiency.md).
-* The feedback forms we have received from our four selected peers
-* The Team Goals that each department is working towards
-* Project Feedback, which we have received from our customers
-* Personal development objectives
+  The choice of a new goal is informed by:
+  * The Role Description for our current role. For the developers, this can be
+    found [here](developer-proficiency.md).
+  * The feedback forms we have received from our peers
+  * The Team Goals that each department is working towards
+  * Project Feedback, which we have received from our customers
+  * Personal development objectives
+
+Further instructions on how to provide feedback and set goals is provided on our
+feedback platform [here](https://dvelp-feedback.firebaseapp.com/).
+
+### Goal Review Schedule
+
+![Review Schedule](../../assets/review-schedule.png)
