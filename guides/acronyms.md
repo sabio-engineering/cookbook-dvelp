@@ -35,6 +35,7 @@ good place to reference.
 | MQL | Marketing Qualified Lead |
 | MSA | Master Service Agreement |
 | NDA | Non-Disclosure Agreement |
+| NLP | Natural Language Processing |
 | NLR | Natural Language Recognition |
 | OWASP | Open Web Application Security Project www.owasp.org |
 | PBX | Private Branch Exchange, which is a private telephone network used within a company or organization to switch calls internally |
