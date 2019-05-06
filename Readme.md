@@ -34,6 +34,8 @@ better.
     * [zoiper-soft-phone](/guides/tools/zoiper-soft-phone.md)
   * [Twilio](/guides/twilio)
     * [Number Porting](/guides/twilio/number-porting.md)
+  * [Dialogflow](/guides/dialogflow)
+    * [Dialogflow agents management](/guides/dialogflow/agents_management.md)
   * [Ruby gems](/guides/ruby-gems)
 
 
