@@ -34,7 +34,7 @@ we may amend it at any time.
   * [Redundancy Policy](hr/redundancy-policy.md)
   * [Referral Programme](hr/referral-programme.md)
   * [Retirement Policy (no fixed retirement age)](hr/retirement-policy.md)
-  * [Risk Management Policy](risk-management/risk-management.md)
+  * [Risk Management Policy](information-security/risk-management.md)
   * [Sickness Absence Policy](hr/absence.md)
   * [Time Management Policy](quick-reference.md#time-management)
 * [Information Security](information-security/README.md)
@@ -44,7 +44,7 @@ we may amend it at any time.
   * [Mentoring](professional-development/mentoring.md)
   * [Goal Reviews](professional-development/goal-reviews.md)
 * [Quick-Reference Guide](quick-reference.md)
-* [Risk Management](risk-management/risk-management.md)
+* [Risk Management](information-security/risk-management.md)
 
 ## Quick-Reference Guide
 
