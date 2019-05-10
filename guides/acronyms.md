@@ -52,6 +52,7 @@ good place to reference.
 | TLS | Transport Layer Security  |
 | TTS | Text To Speech |
 | TwiML | Type of XML used to configure Twilio |
-| VPS | Virtual Private Server |
+| UMM | Unsupported/Misunderstood/Missed requests |
+| VPS | Virtual Private Servern |
 | VRU | Voice response unit |
 | WFO | Workforce optimisation  |
