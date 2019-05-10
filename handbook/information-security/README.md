@@ -25,7 +25,6 @@ The framework includes programs covering:
 * [Backup and Recovery](backup-recovery-policy.md)
 * [Business Continuity Security](business-continuity.md)
 * [Classification of Information](classification-of-information.md)
-* [Communications Security](info-communication-policy.md)
 * [Cryptographic Controls](cryptographic-controls-policy.md)
 * [Data Protection Policy](data-protection-policy.md)
 * [Database Limits](database-limits.md)

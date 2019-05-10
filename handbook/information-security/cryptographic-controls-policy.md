@@ -2,8 +2,6 @@
 
 This policy contains practical guidelines for the use of cryptographic controls.
 Data encryption is highly recommended by information security standards.
-Introducing a policy and communicating it within DVELP is one of the best ways
-to get started for new employees.
 
 ## Password generation and storage
 
@@ -26,7 +24,7 @@ On mobile devices, 1Password offers integrations with browsers and apps on iOS
 and Android devices using various methods.
 
 During on-boarding, you will be provided with a company-licensed 1Password vault
-for storing your passwords. You must use this for DVELP accounts.
+for storing your passwords. You must use this for all DVELP accounts.
 
 We encourage using the 1Password password generator to generate strong
 passwords. However, you may generate your own passwords as long as 1Password's
@@ -68,15 +66,17 @@ the correct credentials.
 DVELP requires all employees to have encryption enabled on their laptops, PC and
 mobile devices. There is a [self-declaration
 sheet](https://docs.google.com/spreadsheets/d/1DV6c4mM0YExWZbqztMBWbKUqNlQjDYSBWLHTuvpn3ls/edit?ts=5c7d50ef#gid=90742438)
-for devices people are using for work. It includes a information about the
+for devices people are using for work. It includes information about the
 devices' encryption.
 
 ## SSH key management
 
-SSH key pairs provide users with the ability to connect safely without having to
-use the password of the remote account. This is a very useful tool if you want
-to connect to a remote server or push your code to the remote repository on a
-regular basis. The process of using this technology is the following: create a
+SSH key pairs provide users with the ability to connect to remote services 
+safely without having to use the password of the remote account. This is a very 
+useful tool if you want to connect to a remote server or push your code to the 
+remote repository on a regular basis. 
+
+The process of using this technology is the following: create a
 pair of keys, one private and one public. The private one stays on the machine
 you will connect from (usually the machine where it is created). The other key,
 the public key, is put into the remote end by the owner of that account (which
@@ -84,13 +84,13 @@ may be you) or by the server administrator. To see more about how to generate
 SSH keys please [read
 this](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 
-Using SSH key is more secure approach, the private key remains on the client
+Using an SSH key is a more secure approach. The private key remains on the client
 side, and no secret value is ever sent to the server. Therefore we require all
 system authentication and subsequent remote sessions to be run via SSH or TLS.
 
 ## Encrypting sensitive data in databases
 
-In Order to protect sensitive data like passwords or secret tokens we hash or
+In order to protect sensitive data like passwords or secret tokens we hash or
 encrypt them before saving to the database.
 
 ### Data hashing
@@ -98,7 +98,7 @@ encrypt them before saving to the database.
 DVELP recommends data hashing in cases where we don't need to be able to later
 decrypt the value, for example users' passwords. Nobody should know that
 confidential information, that's why we use OpenBSD bcrypt password hashing
-algorithm, allowing us to easily store a secure hash of your users' passwords.
+algorithm, allowing us to easily store a secure hash of our users' passwords.
 It means we can compare hashes any time when a user tries to sign in.
 
 ### Data encryption
@@ -126,11 +126,11 @@ your data, it is encrypted and without a key it can’t be decrypted and read.
 ## Sharing sensitive documentation
 
 Sharing sensitive information or documentation is very commonly done in our
-daily routine. To avoid capturing any information by 3rd parties we recommend to
-send sensitive documentation as password-protected zip file. The password should
-be sent in another channel. For example if the zip file was sent through Slack,
-the password should be passed through email. In this way all files will be
-encrypted and not available for reading by 3rd parties.
+daily routine. To avoid any 3rd parties capturing sensitive information we 
+recommend sending sensitive documentation as password-protected zip files. 
+The password should be sent in another channel. For example if the zip file 
+was sent through Slack, the password should be passed through email. In this 
+way all files will be encrypted and not available for reading by 3rd parties.
 
 ### Ownership
 
