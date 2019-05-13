@@ -135,4 +135,4 @@ Directors.
 
 | Team | Members |
 | --- | --- |
-| Information Security Management Team | Andreas Kater <br/> Ilya Lozer <br/> Louisa Crowder <br/> Ross Wilson <br/> Ruby Williams <br/> Tom Mullen |
+| Information Security Management Team | Andreas Kater <br/> Ilya Lozer <br/> Louisa Crowder <br/> Ross Wilson <br/> Ruby Williams <br/> Tom Mullen <br/> Vitalii Prodan |
