@@ -53,7 +53,7 @@ Policy](vulnerability-management.md).
 ### Investigate
 
 After being notified of a security incident, the [Information Security
-Officer](../readme.md#contacts) will perform an initial investigation and
+Officer](../README.md#contacts) will perform an initial investigation and
 determine the appropriate response so as to limit the exposure of sensitive
 information and mitigate the risks associated with the incident.
 
@@ -75,17 +75,17 @@ of all compromised or potentially compromised payment card numbers (the
 
 ### Inform
 
-Once the [Incident Management](incident-management.md) has carried out their
+Once the [Incident Management](incident-response.md) has carried out their
 initial investigation of the security incident, the Communications/PR will
 inform all relevant parties.
 
 ### Resolve
 
-The [Incident Management](incident-management.md) will liaise with external
+The [Incident Management](incident-response.md) will liaise with external
 parties, including the ICO, law enforcement, etc., to ensure appropriate
 incident investigation (which may include on-site forensic investigation) and
 gathering of evidence, as is required.  The members of the [Incident
-Management](incident-management.md) will take action to investigate and resolve
+Management](incident-response.md) will take action to investigate and resolve
 the problem to the satisfaction of all parties and stakeholders involved. This
 will include confirmation that the required controls and security measures are
 operational.  The Incident Response Lead will report the investigation findings
@@ -94,7 +94,7 @@ stakeholders as is needed.
 
 ### Review
 
-The [Incident Management](incident-management.md) will complete a post-incident
+The [Incident Management](incident-response.md) will complete a post-incident
 review after every security incident. The review will consider how the incident
 occurred, what the root causes were and how well the incident was handled. This
 will help to identify recommendations for better future responses and to avoid a

@@ -50,7 +50,7 @@ We do not share login credentials. This is so that we retain the ability to
 audit any behaviour from single users in the event of a data breach.
 
 If you believe it is absolutely necessary to share a login credential, you must
-get sign-off from the [Information Security Officer](../readme.md#contacts). The
+get sign-off from the [Information Security Officer](../README.md#contacts). The
 correct channel to share credentials in these exceptional circumstances is via a
 shared vault in 1Password. Never share or store credentials anywhere else.
 

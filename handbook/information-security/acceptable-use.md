@@ -40,7 +40,7 @@ the on-boarding period.
 All DVELP data is categorized and must be handled in accordance with the Data
 Classification Policy. All computing assets that connect to any part of the
 DVELP network, or 3rd party services that are used by DVELP, must be handled in
-accordance with our our [Working in Secure Areas
+accordance with our [Working in Secure Areas
 Policy](physical-and-environmental-security.md#working-in-secure-areas).
 
 ## Unacceptable Use
@@ -143,9 +143,9 @@ Board](https://trello.com/b/Hx0o5GpZ/security-reporting).
 ## Use of printed materials
 
 Where possible we work exclusively with soft copies of documents that contain
-sensitive information according to our our [Classification
+sensitive information according to our [Classification
 Matrix](./classification-of-information.md). If it is necessary to work with
-printed copies, we shred these as soon as possible and no later than 1 month
+printed copies, we shared these as soon as possible and no later than 1 month
 after the close of the relevant engagement. Until their destruction, paper
 copies need to be kept locked up in filing cabinets outside of office hours.
 

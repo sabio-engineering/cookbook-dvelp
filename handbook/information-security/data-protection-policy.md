@@ -18,16 +18,16 @@ This part of our handbook sets out our rules on data protection and the legal
 conditions that must be satisfied in relation to the obtaining, handling,
 processing, storage, transportation and destruction of personal information.
 
-The [Data Protection Compliance Manager](../readme.md#contacts) is responsible
+The [Data Protection Compliance Manager](../README.md#contacts) is responsible
 for ensuring compliance with the Act and with this part of our handbook. Any
 questions or concerns about the operation of this part of our handbook should be
 referred in the first instance to the [Data Protection Compliance
-Manager](../readme.md#contacts).
+Manager](../README.md#contacts).
 
 If you consider that our provisions for complying with the Act have not been
 followed in respect of personal data about yourself or others you should raise
 the matter with your line manager or the [Data Protection Compliance
-Manager](../readme.md#contacts).
+Manager](../README.md#contacts).
 
 #### Definition of data protection terms
 
@@ -79,13 +79,13 @@ require the express consent of the person concerned.
 Anyone processing personal data must comply with the eight enforceable
 principles of good practice. These provide that personal data must be:
 
-1. processed fairly and lawfully 
-2. processed for limited purposes and in an appropriate way 
-3. adequate, relevant and not excessive for the purpose 
-4. accurate 
-5. not kept longer than necessary for the purpose 
-6. processed in line with data subjects' rights 
-7. secure 
+1. processed fairly and lawfully
+2. processed for limited purposes and in an appropriate way
+3. adequate, relevant and not excessive for the purpose
+4. accurate
+5. not kept longer than necessary for the purpose
+6. processed in line with data subjects' rights
+7. secure
 8. not transferred to people or organisations situated in countries without adequate protection
 
 #### Fair and lawful processing
@@ -138,10 +138,10 @@ longer required.
 Data must be processed in line with data subjects' rights. Data subjects
 have a right to:
 
-1. request access to any data held about them by a data controller 
+1. request access to any data held about them by a data controller
 2. prevent the processing of their data for direct-marketing purposes
-3. ask to have inaccurate data amended 
-4. prevent processing that is likely to cause damage or distress to themselves 
+3. ask to have inaccurate data amended
+4. prevent processing that is likely to cause damage or distress to themselves
    or anyone else.
 
 #### Data security
@@ -161,9 +161,9 @@ Maintaining data security means guaranteeing the confidentiality, integrity and
 availability of the personal data, defined as follows:
 
 1. **&quot;Confidentiality &quot;** means that only people who are authorised to
-   use the data can access it 
+   use the data can access it
 
-2. **&quot;Integrity&quot;** means that personal data should be accurate and 
+2. **&quot;Integrity&quot;** means that personal data should be accurate and
    suitable for the purpose for which it is processed
 
 3. **&quot;Availability&quot;** means that authorised users should be able to
@@ -176,9 +176,9 @@ Policy](./acceptable-use.md)
 #### Dealing with subject access requests
 
 A formal request from a data subject for information that we hold about them
-must be made in writing. A fee is payable by the data subject for provision of
-this information. Any member of staff who receives a written request should
-forward it to the [Data Protection Compliance Manager](../readme.md#contacts)
+must be made in writing.  A fee is payable by the data subject for provision of
+this information.  Any member of staff who receives a written request should
+forward it to the [Data Protection Compliance Manager](../README.md#contacts)
 immediately.
 
 #### Providing information over the telephone
@@ -186,15 +186,15 @@ immediately.
 Any member of staff dealing with telephone enquiries should be careful about
 disclosing any personal information held by us. In particular they should:
 
-1. check the caller's identity to make sure that information is only given 
-   to a person who is entitled to it 
+1. check the caller's identity to make sure that information is only given
+   to a person who is entitled to it
 
 2. suggest that the caller put their
    request in writing if they are not sure about the caller's identity and
-   where their identity cannot be checked 
+   where their identity cannot be checked
 
 3. refer to the [Data Protection
-   Compliance Manager](../readme.md#contacts) for assistance in difficult
+   Compliance Manager](../README.md#contacts) for assistance in difficult
    situations. No-one should be bullied into disclosing personal information.
 
 #### Data Retention
