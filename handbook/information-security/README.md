@@ -97,7 +97,7 @@ Management Team. Our CEO attends the Information Security Management Meetings
 and encourages the entire organisation to build security into it's DNA.
 
 A full list of organizational roles, responsibilities and authorities is
-captured in our [Contacts Table](../readme.md#contacts).
+captured in our [Contacts Table](../README.md#contacts).
 
 ## 6. Planning
 
@@ -124,9 +124,9 @@ The objectives of our Information Security Management System include:
 
 We commit resources to Information Security Management by:
 * Maintaining Information Security Roles and responsibilities as laid out
-  [here](../readme.md#contacts).
+  [here](../README.md#contacts).
 * Holding regular Management Meetings with our [Information Security Management
-  Team ](../readme.md#team).
+  Team](../README.md#teams).
 * Regularly conducting internal audits as per our [Internal Audit
   Policy](internal-security-audit.md)
 * Monitoring our <security@dvelp.co.uk> inbox with a 24h response time
@@ -141,14 +141,14 @@ Interest Groups](special-interest-groups.md).
 
 We ensure our staff are aware of our policies by:
 * Ensuring new joiners read and understand our [Information Security
-  Policy](readme.md)
+  Policy](README.md)
 * Regularly [auditing our compliance internally](internal-security-audit.md)
 * Regularly providing quizzes on our policies to all staff
 
 ### Communication and Documented Information
 
 We communicate our policies and documentation via our [Information Security
-GitHub page](readme.md). This provides a medium our developers are familiar with
+GitHub page](README.md). This provides a medium our developers are familiar with
 from their everyday workflow and it is public to everyone to see online.
 
 ## 8. Operation
@@ -213,7 +213,7 @@ to remedy any shortfalls and implement any improvements in line with our
 
 All violations of this Charter will be reviewed and discussed by the Information
 Security Officer and the Executive Team. Any violation may result in formal
-[disciplinary action](/handbook/disciplinary-procedure.md).
+[disciplinary action](/handbook/hr/disciplinary-procedure.md).
 
 In the event the violation is in breach of any legal or regulatory obligations,
 DVELP may take legal action against the individual or organisation concerned.

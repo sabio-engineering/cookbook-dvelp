@@ -1,6 +1,6 @@
 # Internal Security Audit
 
-Biannually, the [Internal Auditor (IA)](../readme.md#contacts) will audit
+Biannually, the [Internal Auditor (IA)](../README.md#contacts) will audit
 company-wide adherence to the DVELP Information Security Policies. The dates for
 2019-2020 are as follows:
 
@@ -12,8 +12,7 @@ company-wide adherence to the DVELP Information Security Policies. The dates for
 During the audit, the IA will confirm process policies are followed and that
 team members know where to find DVELP guidance for any potential scenario.
 During an audit, the IA will cover a random selection of requirements from each
-chapter of our [Information Security](../readme.md) Policy and will challenge
-each team member on at least one requirement.
+chapter of our [Information Security](../information-security/README.md) Policy and will challenge each team member on at least one requirement.
 
 These internal audits and any nonconformities identified will be recorded in the
 [Internal Audit

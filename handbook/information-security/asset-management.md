@@ -16,7 +16,7 @@ tablets and smartphones.
 
 ### Register of Devices
 
-All devices used for DVELP businesses mist be registered on the [Device
+All devices used for DVELP businesses must be registered on the [Device
 Log](https://docs.google.com/spreadsheets/d/1DV6c4mM0YExWZbqztMBWbKUqNlQjDYSBWLHTuvpn3ls/edit#gid=90742438).
 
 This forms a part of the onboarding process and must also be completed if
