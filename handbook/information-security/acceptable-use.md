@@ -50,39 +50,40 @@ resources for activities that are illegal or prohibited under applicable law.
 
 ### Unacceptable use of the internet
 
-When a website is visited, technologies such as cookies, tags or web beacons may be employed to enable the site owner to identify and monitor visitors. Staff should therefore not access any web page or any files (whether documents, images or other) downloaded from the internet which could, in any way, be regarded as illegal, offensive, in bad taste or immoral.  
+When a website is visited, technologies such as cookies, tags or web beacons may be employed to enable the site owner to identify and monitor visitors. Staff should therefore not access any web page or any files (whether documents, images or other) downloaded from the internet which could, in any way, be regarded as illegal, offensive, in bad taste or immoral.
 
 ### Unacceptable system and Network Activities
 
 Prohibited system and network activities include, but are not limited to, the
 following:
-* Violations of the rights of any person or company protected by copyright,
+
+- Violations of the rights of any person or company protected by copyright,
   trade secret, patent or other intellectual property, or similar laws or
   regulations.
-* Sharing confidential information about us or any of our staff or clients with
+- Sharing confidential information about us or any of our staff or clients with
   people unauthorised to access this information.
-* Exporting software, technical information, encryption software, or technology
+- Exporting software, technical information, encryption software, or technology
   in violation of international or national export control laws.
-* Intentional introduction of malicious programs into DVELP networks or any
+- Intentional introduction of malicious programs into DVELP networks or any
   DVELP-managed computing device.
-* Intentional misuse of any DVELP-managed computing device or DVELP networks
+- Intentional misuse of any DVELP-managed computing device or DVELP networks
   (e.g. for cryptocurrency mining, botnet control etc.).
-* Sharing your credentials for any DVELP-managed computer or 3rd party service
+- Sharing your credentials for any DVELP-managed computer or 3rd party service
   that DVELP uses, with others, or allowing use of your account or a
   DVELP-managed computer by others. This prohibition does not apply to
   single-sign-on or similar technologies, the use of which is approved.
-* Using a DVELP computing asset to engage in procuring or transmitting material
+- Using a DVELP computing asset to engage in procuring or transmitting material
   that is in violation of sexual harassment policies or that creates a hostile
   workplace.
-* Making fraudulent offers of products, items, or services originating from any
+- Making fraudulent offers of products, items, or services originating from any
   DVELP account.
-* Intentionally accessing data or logging into a computer or account that the
+- Intentionally accessing data or logging into a computer or account that the
   team member or contractor is not authorised to access, or disrupting network
   communication, computer processing, or access.
-* Executing any form of network monitoring that intercepts data not intended for
+- Executing any form of network monitoring that intercepts data not intended for
   the team member’s or contractor's computer, unless when troubleshooting
   networking issues for the benefit of DVELP.
-* Circumventing user authentication or security of any computer host, network,
+- Circumventing user authentication or security of any computer host, network,
   or account used by DVELP.
 
 ### Unacceptable Email and Communications Activities
@@ -119,9 +120,9 @@ have access to one type of directory.
 
 All personal mobile computing devices used to access DVELP-managed data must be
 passcode-enabled. 2FA will be enforced by the Security team for all employee and
-contractor dvelp.co.uk and GSuite accounts.  Mobile computing best practices
+contractor dvelp.co.uk and GSuite accounts. Mobile computing best practices
 dictate that these devices should be running the latest version of the operating
-system and all new patches applied.  For assistance with determining the
+system and all new patches applied. For assistance with determining the
 suitability of your mobile device, please contact the Information Security
 Officer.
 
@@ -133,7 +134,7 @@ external backup drives on company-managed devices is not sanctioned.
 If there is a business need for the use of an external storage device, such as a
 flash drive or an external hard drive on company devices, please contact the
 [Information Security Officer](../README.md#contacts) at <security@dvelp.co.uk>
-to determine the most suitable encryption-enabled device.  All external and
+to determine the most suitable encryption-enabled device. All external and
 removable storage devices must be encrypted and protected by a passcode. Any
 external and removable storage devices must be wiped within 1 month of the
 relevant's project close. Any exceptions to the ban of external media are to be
@@ -145,7 +146,7 @@ Board](https://trello.com/b/Hx0o5GpZ/security-reporting).
 Where possible we work exclusively with soft copies of documents that contain
 sensitive information according to our [Classification
 Matrix](./classification-of-information.md). If it is necessary to work with
-printed copies, we shared these as soon as possible and no later than 1 month
+printed copies, we shred these as soon as possible and no later than 1 month
 after the close of the relevant engagement. Until their destruction, paper
 copies need to be kept locked up in filing cabinets outside of office hours.
 

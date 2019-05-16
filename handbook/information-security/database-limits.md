@@ -13,23 +13,23 @@ receive the Postgres error:
 The row limits of hobby-tier database plans are enforced with the following
 mechanism:
 
-1) When a hobby-dev database reaches 7,000 rows, or a hobby-basic database hits
-7 million rows, the owner receives a warning email stating they are nearing
-their row limits.
+1. When a hobby-dev database reaches 7,000 rows, or a hobby-basic database hits
+   7 million rows, the owner receives a warning email stating they are nearing
+   their row limits.
 
-2) When the database exceeds its row capacity, the owner receives an additional
-notification. At this point, the database receives a 7-day grace period to
-either reduce the number of records, or migrate to another plan.
+2. When the database exceeds its row capacity, the owner receives an additional
+   notification. At this point, the database receives a 7-day grace period to
+   either reduce the number of records, or migrate to another plan.
 
-3) If the number of rows still exceeds the plan capacity after 7 days, `INSERT`
-privileges are revoked on the database. Data can still be read, updated, or
-deleted from the database. This ensures that users can bring their database into
-compliance and retain access to their data.
+3. If the number of rows still exceeds the plan capacity after 7 days, `INSERT`
+   privileges are revoked on the database. Data can still be read, updated, or
+   deleted from the database. This ensures that users can bring their database into
+   compliance and retain access to their data.
 
-4) When the number of rows is again in compliance with the plan limit, INSERT
-privileges are automatically restored to the database. Note that database sizes
-are checked asynchronously, so it may take a few minutes for privileges to be
-restored.
+4. When the number of rows is again in compliance with the plan limit, INSERT
+   privileges are automatically restored to the database. Note that database sizes
+   are checked asynchronously, so it may take a few minutes for privileges to be
+   restored.
 
 ### Storage Limit
 
@@ -37,7 +37,7 @@ Storage capacity is a soft limit. Heroku-postgres recommend customers to stay
 under because this can make that database difficult to support. Storage usage
 can be monitored on heroku-postgres database page for exact application.
 
-At the same time heroku-postgres provides more then enough storage even on
+At the same time heroku-postgres provides more than enough storage even on
 standard-tier plan. So we often use only 2-3% of even the cheapest plan.
 
 ### RAM Limit
