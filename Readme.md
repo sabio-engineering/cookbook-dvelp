@@ -41,6 +41,7 @@ better.
 
 * [Handbook](/handbook)
   * [Quick Reference Guide](/handbook/quick-reference.md)
+  * [Information Security Policy](/handbook/information-security/README.md)
 
 * [Scripts](/scripts)
   * [Git Pull Requests](/scripts/git_merge_pull_request.sh)
