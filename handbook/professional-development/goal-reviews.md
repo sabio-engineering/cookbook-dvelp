@@ -1,4 +1,14 @@
-# Goals
+# Quarterly Reviews
+
+Every quarter we have goal review meetings at which we discuss our objectives
+with our line manager. At every second goal review we also run a salary review 
+at which pay rises and promotions are considered. 
+
+## Goal Review Schedule
+
+![Review Schedule](../../assets/review-schedule.png)
+
+## Goal Reviews
 
 As part of our professional development culture, we strongly believe in goals.
 Explicitly defining the goals we want to achieve gives our every day work
@@ -13,7 +23,7 @@ individual advancement.
 We have captured our best practice on setting goals in [this
 document](smart-goals.md).
 
-## Personal Goals
+### Personal Goals
 
 Each of us should have three goals defined at any one time that state what
 we are currently trying to achieve. These goals are publicly shared with the
@@ -51,6 +61,19 @@ You can find our feedback platform
 Further instructions on how to provide feedback and set goals is provided on our
 feedback platform [here](https://dvelp-feedback.firebaseapp.com/).
 
-### Goal Review Schedule
+## Salary Reviews
 
-![Review Schedule](../../assets/review-schedule.png)
+In the months in which a salary review takes place, this will be scheduled following 
+the Goal Review. At the Salary Review the CEO, HR and your line manager will meet to 
+discuss your performance in the last quarter. 
+
+They wll compare your performance to that of the rest of the team and to our role 
+descriptions and decide which members of the team should receive a pay rise and which 
+should be promoted.
+
+Results of the salary review will be communicated early in the following month.
+
+In order to prepare for a salary review, line managers should:
+* Review all the feedback provided about the team member as part of the current quarter's goal review
+* Review the [Developer Proficiency Levels](developer-proficiency.md)
+* Form an opinion on whether, given the above, the team member is ready to take on the responsibility of the next level
