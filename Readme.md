@@ -37,6 +37,8 @@ better.
   * [Dialogflow](/guides/dialogflow)
     * [Dialogflow agents management](/guides/dialogflow/agents_management.md)
   * [Ruby gems](/guides/ruby-gems)
+  * [Kubernetes](/guides/kubernetes)
+    * [Kubectl](/guides/kubernetes/kubectl.md)
 
 
 * [Handbook](/handbook)
