@@ -29,10 +29,19 @@ Each of us should have three goals defined at any one time that state what
 we are currently trying to achieve. These goals are publicly shared with the
 rest of the team on our [feedback
 platform](https://dvelp-feedback.firebaseapp.com/) so that others are aware of
-our plans and can help us achieve them. As part of our review process we choose
-the three people we have worked most closely with and give them detailed
-feedback on their progress towards goals, what they did well, could improve, and
-any other situational feedback.
+our plans and can help us achieve them. 
+
+### Giving Feedback
+
+As part of our review process we reflect 
+on the interactions we've had in the last quarter and provide the people we've
+worked with with feedback. In total, we each provide 15 pieces of detailed feedback to our colleages. 
+
+This feedback addresses:
+*  our colleagues' progress towards goals
+*  what they did well
+*  what they could improve
+*  any other situational feedback
 
 The goals are set once a quarter in a conversation with our line manager, as per
 the below schedule.
