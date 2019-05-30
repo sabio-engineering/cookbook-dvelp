@@ -120,19 +120,19 @@ Directors.
 
 ### Contacts
 
-| Contact | Contact Details | Contact Deputy |
-| --- | --- | --- |
-| DataProtection Compliance Manager | Louisa Crowder <br>  louisa@dvelp.co.uk | Andreas Kater <br/> andreas@dvelp.co.uk |
-| HR Manager | Andreas Kater <br/> andreas@dvelp.co.uk | Ruby Williams <br/> ruby@dvelp.co.uk |
-| Information Security Community Representative | Ross Wilson <br> ross@dvelp.co.uk | Ruby Williams <br/> ruby@dvelp.co.uk |
-| Information Security Officer | Andreas Kater <br/> andreas@dvelp.co.uk | Ruby Williams <br/> ruby@dvelp.co.uk |
-| Internal Security Auditor | Louisa Crowder <br>  louisa@dvelp.co.uk | Ruby Williams <br/> ruby@dvelp.co.uk |
-| Principal Health and Safety Officer | Ruby Williams <br/> ruby@dvelp.co.uk | Andreas Kater <br/> andreas@dvelp.co.uk |
-| Public Concern at Work (Independent whistleblowing charity) | Helpline: (020) 7404 6609 <br/> whistle@pcaw.co.uk <br/> www.pcaw.co.uk | |
-| DVELP London Office | Telephone: +44(0)7565956061 | |
+| Contact                                                     | Contact Details                                                         | Contact Deputy                          |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------- |
+| DataProtection Compliance Manager                           | Louisa Crowder <br>  louisa@dvelp.co.uk                                 | Andreas Kater <br/> andreas@dvelp.co.uk |
+| HR Manager                                                  | Andreas Kater <br/> andreas@dvelp.co.uk                                 | Ruby Williams <br/> ruby@dvelp.co.uk    |
+| Information Security Community Representative               | Ross Wilson <br> ross@dvelp.co.uk                                       | Ruby Williams <br/> ruby@dvelp.co.uk    |
+| Information Security Officer                                | Andreas Kater <br/> andreas@dvelp.co.uk                                 | Ruby Williams <br/> ruby@dvelp.co.uk    |
+| Internal Security Auditor                                   | Andreas Kater <br>  andreas@dvelp.co.uk                                 | Ruby Williams <br/> ruby@dvelp.co.uk    |
+| Principal Health and Safety Officer                         | Ruby Williams <br/> ruby@dvelp.co.uk                                    | Andreas Kater <br/> andreas@dvelp.co.uk |
+| Public Concern at Work (Independent whistleblowing charity) | Helpline: (020) 7404 6609 <br/> whistle@pcaw.co.uk <br/> www.pcaw.co.uk |                                         |
+| DVELP London Office                                         | Telephone: +44(0)7565956061                                             |                                         |
 
 ### Teams
 
-| Team | Members |
-| --- | --- |
-| Information Security Management Team | Andreas Kater <br/> Ilya Lozer <br/> Louisa Crowder <br/> Ross Wilson <br/> Ruby Williams <br/> Tom Mullen <br/> Vitalii Prodan |
+| Team                                 | Members                                                                                                    |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| Information Security Management Team | Andreas Kater <br/> Ilya Lozer <br/> Ross Wilson <br/> Ruby Williams <br/> Tom Mullen <br/> Vitalii Prodan |
