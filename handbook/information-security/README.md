@@ -58,8 +58,10 @@ requested by them by legal authority (i.e. subpoena, court order, search
 warrant, etc.).
 
 The legislation that DVELP has to comply with includes:
-*  Data Protection Act 1998
-*  General Data Protection Regulation (GDPR)
+*  UK Data Protection Act 1998
+*  EU Data Protection Directive (95/46/EC)
+*  EU General Data Protection Regulation (2016/679) (“GDPR”) 
+*  EU Privacy and Electronic Communications Directive 2002/58/EC
 
 ## 4. Context of The Organisation
 
