@@ -11,7 +11,7 @@ We borrow heavily from the Agile methodology in our own unique approach to proje
 - [Harvest Forecast](harvest-forecast.md)
 - [Running a Demo](running-a-demo.md)
 - [Trello](trello.md)
-- [Maintenance, Support & Hosting](maintenance-support-and-hosting.md)
+- [Continuous Improvement, Support & Hosting](continuous-improvement-support-and-hosting.md)
 
 ## Project Principles
 

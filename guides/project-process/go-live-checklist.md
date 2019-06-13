@@ -8,7 +8,7 @@ It should be reviewed at least once a sprint.
 
 ## Checklist
 
-- [ ] Hosting, maintenance and support [plans](maintenance-support-and-hosting.md) agreed
+- [ ] Continuous Improvement, Support and Hosting [plans](continuous-improvement-support-and-hosting.md) agreed
 - [ ] Rollout Plan agreed with stakeholders
 - [ ] Scoped requirements have been fully tested in staging (happy and unhappy paths)
 - [ ] Error tracking setup [Sentry](/guides/environments/diagnostics.md#error-handling) and being sent to the right places
