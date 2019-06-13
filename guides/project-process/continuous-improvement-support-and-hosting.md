@@ -3,7 +3,7 @@
 Ahead of [deploying a project to a live environment](/guides/project-process/go-live-checklist.md), 
 it's important to agree and organise continuous improvement, support and hosting.
 
-##Continuous Improvement
+## Continuous Improvement
 
 We believe that meaningful change and business value is delivered at the intersection between bold, fast-paced processes, and modern technology that facilitates them.
 
