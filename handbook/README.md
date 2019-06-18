@@ -122,7 +122,7 @@ Directors.
 
 | Contact                                                     | Contact Details                                                         | Contact Deputy                          |
 | ----------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------- |
-| DataProtection Compliance Manager                           | Louisa Crowder <br>  louisa@dvelp.co.uk                                 | Andreas Kater <br/> andreas@dvelp.co.uk |
+| Data Protection Officer                                     | Andreas Kater <br>  andreas@dvelp.co.uk                                 | Ruby Williams <br/> ruby@dvelp.co.uk    |
 | HR Manager                                                  | Andreas Kater <br/> andreas@dvelp.co.uk                                 | Ruby Williams <br/> ruby@dvelp.co.uk    |
 | Information Security Community Representative               | Ross Wilson <br> ross@dvelp.co.uk                                       | Ruby Williams <br/> ruby@dvelp.co.uk    |
 | Information Security Officer                                | Andreas Kater <br/> andreas@dvelp.co.uk                                 | Ruby Williams <br/> ruby@dvelp.co.uk    |
