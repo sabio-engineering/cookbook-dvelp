@@ -49,3 +49,7 @@ from deals with that client.
 * **Project Start Date**: This is the date on which we expect the team to start
   working full time on the project. This is set as soon as an assessment can be
 made and no later than the Project Close Date
+* **Stage**: Our deals go through multiple stages in our sales pipeline. With each 
+   stage the probability that the deal closes and turns into a project increases.
+
+

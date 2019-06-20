@@ -16,8 +16,6 @@ we may amend it at any time.
   * [Anti-harassment and Bullying Policy](best-practice/anti-harassment.md)
   * [Health and Safety Policy](best-practice/health-and-safety-policy.md)
   * [Whistle-blowing Policy](best-practice/whistle-blowing-policy.md)
-  * [Tracking Deals with Hubspot](tracking-deals-with-hubspot.md)
-  * [Working with Greenhouse](best-practice/working-with-greenhouse.md)
 * HR
   * [Compassionate Leave](hr/compassionate-leave.md)
   * [Disciplinary and Capability Procedure](hr/disciplinary-procedure.md)
@@ -38,6 +36,10 @@ we may amend it at any time.
   * [Sickness Absence Policy](hr/absence.md)
   * [Time Management Policy](quick-reference.md#time-management)
 * [Information Security](information-security/README.md)
+* Operations
+  * [Hiring](operations/greenhouse.md)
+  * [Invoicing](operations/invoicing.md)
+  * [Sales](operations/hubspot.md)
 * Professional Development
   * [Developer Proficiency](professional-development/developer-proficiency.md)
   * [External Training Courses](professional-development/external-training-courses.md)
