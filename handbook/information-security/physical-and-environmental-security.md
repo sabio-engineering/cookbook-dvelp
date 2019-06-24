@@ -4,9 +4,10 @@
 
 ### Physical security perimeter
 
-There are two security perimeters that affect our operations: 1. Our London
-office 2. The locations of the Amazon Web Services data centres that run our
-remote servers
+There are two security perimeters that affect our operations: 
+
+1. Our London office 
+2. The locations of the Amazon Web Services data centres that run our remote servers
 
 ### Physical entry controls
 
@@ -39,7 +40,8 @@ Whenever we are not in one of these secure areas we must:
 
 ### Security of equipment and assets off-premises
 
-We often work in public places. This because:
+We often work in public places. This is because:
+
 * some members of our team work remotely from shared office spaces
 * we travel regularly to meet our clients and can work in transit
 

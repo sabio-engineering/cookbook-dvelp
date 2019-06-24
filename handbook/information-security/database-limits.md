@@ -37,7 +37,7 @@ Storage capacity is a soft limit. Heroku-postgres recommend customers to stay
 under because this can make that database difficult to support. Storage usage
 can be monitored on heroku-postgres database page for exact application.
 
-At the same time heroku-postgres provides more than enough storage even on
+At the same time heroku-postgres provides more than enough storage even on the
 standard-tier plan. So we often use only 2-3% of even the cheapest plan.
 
 ### RAM Limit

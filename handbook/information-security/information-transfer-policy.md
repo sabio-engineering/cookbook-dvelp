@@ -57,8 +57,7 @@ Whether you are sending information to another `@dvelp.co.uk` email or to an
 address on an external domain, you need to consider the security of that
 information.
 
-As a rule of thumb, don't use email for sharing [Confidential
-Data](classification-of-information.md#categories). If you have been
+As a rule of thumb, don't use email for sharing [Confidential Data](classification-of-information.md#categories). If you have been
 expressly requested to share data via email make sure it is contained in an
 encrypted, password protected folder.
 

@@ -8,6 +8,10 @@ member of a number of special interest groups. These are listed here.
 * We Follow @AWSUserGroupUK on Twitter
 * We attend the City of London Police Cyber Griffin Events
 
+Ross Wilson is our representative in these special interest groups and updates 
+the entire team on any recent threats and learnings every Monday during our
+Team Focus Meeting.
+
 ### Ownership
 
 Ross Wilson is the owner of this document. You can contact him on

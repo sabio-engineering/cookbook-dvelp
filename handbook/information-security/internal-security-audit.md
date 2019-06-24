@@ -12,13 +12,17 @@ company-wide adherence to the DVELP Information Security Policies. The dates for
 During the audit, the IA will confirm process policies are followed and that
 team members know where to find DVELP guidance for any potential scenario.
 During an audit, the IA will cover a random selection of requirements from each
-chapter of our [Information Security](../information-security/README.md) Policy and will challenge each team member on at least one requirement.
+chapter of our [Information Security](../information-security/README.md) Policy 
+and will challenge each team member on at least one requirement.
 
 These internal audits and any nonconformities identified will be recorded in the
 [Internal Audit
 Sheet](https://docs.google.com/spreadsheets/d/1wGXHbE6v7jsyy1Qbd7m7i04oCfzN-_57SXP0yhu_UUc/edit#gid=0).
 
 Internal audit records will be reported on at the management review meetings.
+
+Our performance in these internal audits will also be captured on our 
+[InfoSec Looker Dashboard](https://dvelp.eu.looker.com/dashboards/39).
 
 ### Ownership
 

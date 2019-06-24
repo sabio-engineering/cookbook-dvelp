@@ -1,6 +1,6 @@
 # Information Security Management Meetings
 
-The Information Security Management Team regurlarly meets to review our
+The [Information Security Management Team](../Readme.md#contacts) regurlarly meets to review our
 Information Security Management System (ISMS)
 
 ## Cadence
@@ -11,8 +11,7 @@ scheduled. This will be at least once a quarter.
 ## Agenda
 
 The agenda of the Information Security Management Meetings comprises a review of
-our entire ISMS and is laid out in our [Agenda
-template](https://docs.google.com/document/d/1cx8bazH4vZJEZtiGf06q9flLGIkU_p2lAemSE2goRQc/edit?usp=sharing)
+our entire ISMS and is laid out in our [Agenda Template](https://docs.google.com/document/d/1cx8bazH4vZJEZtiGf06q9flLGIkU_p2lAemSE2goRQc/edit?usp=sharing)
 
 ## Minutes
 
