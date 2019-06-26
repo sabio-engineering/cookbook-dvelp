@@ -22,7 +22,7 @@ Sheet](https://docs.google.com/spreadsheets/d/1wGXHbE6v7jsyy1Qbd7m7i04oCfzN-_57S
 Internal audit records will be reported on at the management review meetings.
 
 Our performance in these internal audits will also be captured on our 
-[InfoSec Looker Dashboard](https://dvelp.eu.looker.com/dashboards/39).
+[Info-Sec Looker Dashboard](https://dvelp.eu.looker.com/dashboards/39).
 
 ### Ownership
 
