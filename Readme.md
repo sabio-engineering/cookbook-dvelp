@@ -35,7 +35,8 @@ better.
   * [Twilio](/guides/twilio)
     * [Number Porting](/guides/twilio/number-porting.md)
   * [Dialogflow](/guides/dialogflow)
-    * [Dialogflow agents management](/guides/dialogflow/agents_management.md)
+    * [Dialogflow agents management](/guides/dialogflow/agents-management.md)
+    * [Ruby Client for Dialogflow API](/guides/dialogflow/ruby-client-for-dialogflow-api.md)
   * [Ruby gems](/guides/ruby-gems)
 
 
