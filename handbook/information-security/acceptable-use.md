@@ -169,5 +169,5 @@ Exceptions to this policy must be approved by the Information Security Officer.
 
 ### Ownership
 
-Ross Wilson is the owner of this document. You can contact him on
-<ross@dvelp.co.uk>.
+Andreas Kater is the owner of this document. You can contact him on
+<andreas@dvelp.co.uk>.
