@@ -35,20 +35,22 @@ our plans and can help us achieve them.
 
 As part of our review process we reflect 
 on the interactions we've had in the last quarter and provide the people we've
-worked with with feedback. In total, we each provide 15 pieces of detailed feedback to our colleages. 
-
-This feedback addresses:
+worked with with feedback.This feedback addresses:
 *  our colleagues' progress towards goals
 *  what they did well
 *  what they could improve
 *  any other situational feedback
 
 The goals are set once a quarter in a conversation with our line manager, as per
-the below schedule.
+the below process.
 
 ### Goal Review Process
 
 ![Goal Reviews](../../assets/personal-goals.png)
+
+1. **By the 14th of the month**: We ask three people go give us detailed feedback. These individuals should then spend at least half an hour reflecting on working with us over the last 3 months and provide us with feedback. 
+2. **By the 21st of the month**: We provide the feedback on our platform. Until the 21st of the month all of the provided feedback is in draft mode and only viewable by the feedback giver. On the 21st it gets automatically published and is then viewable by the feedback receiver and their line manager.
+3. **By the last of the month**: The Goal Review Meeting takes place and together with our line manager we agree our goals for the next quarter.
 
 You can find our feedback platform
 [here](https://dvelp-feedback.firebaseapp.com/).
