@@ -12,6 +12,7 @@ It should be reviewed at least once a sprint.
 - [ ] Rollout Plan agreed with stakeholders
 - [ ] Scoped requirements have been fully tested in staging (happy and unhappy paths)
 - [ ] Error tracking setup [Sentry](/guides/environments/diagnostics.md#error-handling) and being sent to the right places
+- [ ] Ensure production environment does not point to any dev or staging environments/services
 - [ ] Required reporting setup and being monitored appropriately
 - [ ] Handover documentation (technical and instructions for end users)
 - [ ] Required training for users has been completed
