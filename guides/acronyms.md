@@ -29,7 +29,6 @@ good place to reference.
 | ICO     | Information Commissioner's Office                                                                                              |
 | IC&A    | Intent Capture and Analysis                                                                                                    |
 | ID&V    | Identification and verification                                                                                                |
-| ID&V    | Identification and verification                                                                                                |
 | IEC     | International Electrotechnical Commission (Standardisation body linked to ISO)                                                 |
 | ISMS    | Information Security Management System                                                                                         |
 | ISO     | International Organization for Standardization                                                                                 |
