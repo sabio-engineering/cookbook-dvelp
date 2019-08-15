@@ -116,6 +116,10 @@ separation between directories containing DVELP content on any machine and
 directories containing personal content. Any one utility program should only
 have access to one type of directory.
 
+### Unacceptable Use of Proxy Applications
+
+Proxy Applications can be used to alter the requests used to communicate between two servers - for example by editing the headers and/or payload to add authentication and authorisation tokens. The use of these is prohibited, as they make it difficult to audit and maintain functionality in our codebases.j
+
 ## Personal Mobile Phone and Tablet Usage
 
 All personal mobile computing devices used to access DVELP-managed data must be
