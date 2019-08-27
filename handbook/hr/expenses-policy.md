@@ -25,17 +25,6 @@ We will reimburse the reasonable cost of necessary travel in connection with our
 
 Please contact your manager regarding specific transport queries.
 
-##### Subsistence
-
-While on travel any meals consumed fall into the category of subsistence. As per HMRC the level of subsistence that can be reimbursed is limited as per the below table, taken from the [HMRC website](https://github.com/DVELP/cookbook/pull/153/files?short_path=e8bc231#diff-e8bc231e557665e0ed9094c5f9e402b6).
-Our policy is to reimburse expenses in line with these limits.
-
-| Minimum Journey Time          | Maximum amount of meal allowance |
-| ----------------------------- | -------------------------------- |
-| 5 hours                       | £5                               |
-| 10 hours                      | £10                              |
-| 15 hours (and ongoing at 8pm) | £25                              |
-
 ### Submitting  expenses
 
 Expenses can be submitted using the [Expenses Google Form](https://goo.gl/forms/OxGsnYRT7UnaoP922). 
