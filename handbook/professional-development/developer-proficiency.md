@@ -26,6 +26,10 @@ a solid point of reference.
   problems
 * Typically 2-5 years focused on a specific domain in a professional
   environment
+* Understanding the basics of Dialogflow
+* Being able to decide the priority level of a bug and set of the appropriate course of action
+* Being able to understand user stories and translate them into technical requirements 
+* Being able to keep the client up to date on the day to day progress of a project 
 
 ## Senior Developer
 
@@ -38,6 +42,12 @@ a solid point of reference.
 * A subject matter expert in at least one programming environment
 * Typically 5-8 years focused on a specific domain in a professional
   environment
+* As Scrum Master, taking responsibility for making sure our scrum process happens
+* Line managing other team members
+* Managing all client communication on a project
+* Being able to attend sales meetings and bring your technical expertise to the conversation
+* Using your technical knowledge to put together a plan based on client requirements (Solutions Engineering)
+* Being able to talk to customers, understand their business goals and translate their needs into user stories 
 
 ## Tech Lead
 
@@ -48,6 +58,7 @@ a solid point of reference.
 * Heavily involved in setting and maintaining professional standards for the
   organisation as a whole
 * A subject matter expert in a number of programming environments
+* Training other developers on both technical and non technical skills 
 * Confident building and running small teams through substantial projects
 * Typically 8-12 years focused on a specific domain in a professional
   environment
