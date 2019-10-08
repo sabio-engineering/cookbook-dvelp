@@ -16,6 +16,8 @@ referred to in the day-to-day, to improve awareness, define best practices and
 crystalise key processes for prevention and resolution of information security
 related issues.
 
+DVELP is ISO27001 certified by the British Standards Institution. You can view our certification document [here](../../assets/ISO27001.pdf) and our certification status [here](https://www.bsigroup.com/en-GB/our-services/certification/certificate-and-client-directory/search-results/?searchkey=licence%3d707439%26company%3dDVELP&licencenumber=IS%20707439).
+
 The framework includes programs covering:
 
 * [Access Control](access-control.md)
