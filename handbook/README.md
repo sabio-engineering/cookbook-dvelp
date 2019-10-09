@@ -38,6 +38,7 @@ we may amend it at any time.
 * [Information Security](information-security/README.md)
 * Operations
   * [Hiring](operations/greenhouse.md)
+  * [Interviewing](operations/interviewing.md)
   * [Invoicing](operations/invoicing.md)
   * [Sales](operations/hubspot.md)
 * Professional Development
