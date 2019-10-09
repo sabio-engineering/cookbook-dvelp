@@ -1,5 +1,7 @@
 # Working with Greenhouse
 
+![GIF test](../../assets/test.gif)
+
 [Greenhouse.io](https://www.greenhouse.io/) is our Applicant Tracking System for
 candidates to join our team.
 
