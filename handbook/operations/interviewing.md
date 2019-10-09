@@ -6,7 +6,7 @@ If you have any questions regarding this process, please get in touch with <andr
 
 ### 1. Visit Greenhouse and filter for the candidates you are currently responsible for
 
-Visit [Greenhouse](https://app2.greenhouse.io/people).
+Visit [Greenhouse](https://app2.greenhouse.io/people). Click `All Candidates`.
 
 ![Greenhouse Filter](../../assets/greenhouse_filter.gif)
 
