@@ -35,6 +35,8 @@ monthly review.
 | Harvest    | James King                                                               | Annise Makki        |
 | Heroku     | Ilya Lozer                                                               | Vitalii Prodan      |
 | Hubspot    | David Backhouse                                                          | Louisa Crowder      |
+| Instagram  | Louisa Crowder                                                           | David Backhouse     |
+| LinkedIn   | Louisa Crowder                                                           | David Backhouse     |
 | Looker     | Vitalii Prodan                                                           | Andreas Kater       |
 | Mailchimp  | Louisa Crowder                                                           | David Backhouse     |
 | Papertrail | Ilya Lozer                                                               | Tom Mullen          |
@@ -43,7 +45,8 @@ monthly review.
 | Slack      | Ruby Williams                                                            | Andreas Kater       |
 | Stitch     | Tom Mullen                                                               | Ilya Lozer          |
 | Trello     | Annise Makki                                                             | James King          |
-| Twilio     | Varies on a project by project basis. Please contact the Project Manager |
+| Twilio     | Varies on a project by project basis. Please contact the Project Manager |                     |
+| Twitter    | Louisa Crowder                                                           | David Backhouse     |
 
 ### Ownership
 
