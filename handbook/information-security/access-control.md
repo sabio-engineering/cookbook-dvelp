@@ -25,7 +25,7 @@ monthly review.
 | ---------- | ------------------------------------------------------------------------ | ------------------- |
 | 1Password  | Ruby Williams                                                            | Tom Mullen          |
 | CharlieHR  | Andreas Kater                                                            | Ruby Williams       |
-| CircleCI   | Tom Mullen                                                               | (single admin)      |
+| CircleCI   | James King                                                               | (single admin)      |
 | Cloudflare | Vitalii Prodan                                                           | Ilya Lozer          |
 | DocuSign   | Ruby Williams                                                            | Andreas Kater       |
 | Forecast   | James King                                                               | Annise Makki        |
@@ -40,10 +40,9 @@ monthly review.
 | Looker     | Vitalii Prodan                                                           | Andreas Kater       |
 | Mailchimp  | Louisa Crowder                                                           | David Backhouse     |
 | Papertrail | Ilya Lozer                                                               | Tom Mullen          |
-| Redshift   | Tom Mullen                                                               | Vitalii Prodan      |
 | Sentry     | Ilya Lozer                                                               | Tom Mullen          |
 | Slack      | Ruby Williams                                                            | Andreas Kater       |
-| Stitch     | Tom Mullen                                                               | Ilya Lozer          |
+| Stitch     | Andreas Kater                                                            | Ilya Lozer          |
 | Trello     | Annise Makki                                                             | James King          |
 | Twilio     | Varies on a project by project basis. Please contact the Project Manager |                     |
 | Twitter    | Louisa Crowder                                                           | David Backhouse     |
