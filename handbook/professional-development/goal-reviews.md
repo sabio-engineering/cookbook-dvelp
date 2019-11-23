@@ -78,7 +78,7 @@ In the months in which a salary review takes place, this will be scheduled follo
 the Goal Review. At the Salary Review the CEO, HR and your line manager will meet to 
 discuss your performance in the last quarter. 
 
-They wll compare your performance to that of the rest of the team and to our role 
+They will compare your performance to that of the rest of the team and to our role 
 descriptions and decide which members of the team should receive a pay rise and which 
 should be promoted.
 
