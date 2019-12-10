@@ -22,7 +22,7 @@ Our support agreements come in the following packages.
 
 |                                                  | Base                       | Plus                       | Enterprise       |
 | ------------------------------------------------ | -------------------------- | -------------------------- | ---------------- |
-| Cost                                             | £1000                      | £2500                      | £5000            |
+| Monthly Cost                                     | £1000                      | £2500                      | £5000            |
 | Email Support                                    | Yes                        | Yes                        | Yes              |
 | Telephone Support                                | Business day (8am-6pm) GMT | Business day (8am-6pm) GMT | 24/7             |
 | *Response Times*                                 |                            |                            |                  |
