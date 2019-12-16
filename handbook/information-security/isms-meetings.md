@@ -1,6 +1,6 @@
 # Information Security Management Meetings
 
-The [Information Security Management Team](../Readme.md#contacts) regurlarly meets to review our
+The [Information Security Management Team](../README.md#contacts) regurlarly meets to review our
 Information Security Management System (ISMS)
 
 ## Cadence
