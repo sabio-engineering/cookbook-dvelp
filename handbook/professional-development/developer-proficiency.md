@@ -47,7 +47,6 @@ a solid point of reference.
 * Managing all client communication on a project
 * Being able to attend sales meetings and bring your technical expertise to the conversation
 * Using your technical knowledge to put together a plan based on client requirements (Solutions Engineering)
-* Being able to talk to customers, understand their business goals and translate their needs into user stories 
 
 ## Tech Lead
 
