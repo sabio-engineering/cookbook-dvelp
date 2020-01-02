@@ -31,6 +31,7 @@ better.
     * [Continuous Improvement, Support & Hosting](/guides/project-process/continuous-improvement-support-and-hosting.md)
   * [Tools](/guides/tools)
     * [ngrok](/guides/tools/ngrok.md)
+    * [s3-bucket](/guides/tools/s3-bucket.md)
     * [zoiper-soft-phone](/guides/tools/zoiper-soft-phone.md)
   * [Twilio](/guides/twilio)
     * [Number Porting](/guides/twilio/number-porting.md)
