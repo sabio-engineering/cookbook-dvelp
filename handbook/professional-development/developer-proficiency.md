@@ -26,7 +26,6 @@ a solid point of reference.
   problems
 * Typically 2-5 years focused on a specific domain in a professional
   environment
-* Understanding the basics of Dialogflow
 * Being able to decide the priority level of a bug and set of the appropriate course of action
 * Being able to understand user stories and translate them into technical requirements 
 * Being able to keep the client up to date on the day to day progress of a project 
