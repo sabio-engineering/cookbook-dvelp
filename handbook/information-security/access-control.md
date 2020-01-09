@@ -31,6 +31,7 @@ monthly review.
 | Forecast   | James King                                                               | Annise Makki        |
 | GSuite     | Ruby Williams                                                            | Andreas Kater       |
 | Github     | Ilya Lozer                                                               | Vitalii Prodan      |
+| Glassdoor  | Peter Sari                                                               | David Backhouse     |
 | Greenhouse | Andreas Kater                                                            | Ruby Williams       |
 | Harvest    | James King                                                               | Annise Makki        |
 | Heroku     | Ilya Lozer                                                               | Vitalii Prodan      |
