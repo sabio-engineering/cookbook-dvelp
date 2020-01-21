@@ -9,6 +9,7 @@ We borrow heavily from the Agile methodology in our own unique approach to proje
 - [Design Guidelines](design-guidelines.md)
 - [Go Live Checklist](go-live-checklist.md)
 - [Harvest Forecast](harvest-forecast.md)
+- [Roles and Responsibilities](roles-and-responsibilities.md)
 - [Running a Demo](running-a-demo.md)
 - [Trello](trello.md)
 - [Continuous Improvement, Support & Hosting](continuous-improvement-support-and-hosting.md)
