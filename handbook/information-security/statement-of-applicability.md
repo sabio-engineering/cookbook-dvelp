@@ -18,7 +18,7 @@ activities.
 
 ### A6.1 - Internal organization
 
-* [A6.1.1 - Information security roles and responsibilities](https://docs.google.com/spreadsheets/d/1zFbgiofrYTZsB0h10-XANPh0xr2P4NN_7mYZGV8cm90/edit?usp=sharing)
+* [A6.1.1 - Information security roles and responsibilities](https://github.com/DVELP/cookbook/blob/master/handbook/information-security/readme.md)
 
 * [A6.1.2 - Segregation of
   duties](https://github.com/DVELP/cookbook/blob/master/guides/code-management/git.md#request-a-review)
