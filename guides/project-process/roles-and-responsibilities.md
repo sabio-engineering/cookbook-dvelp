@@ -35,6 +35,8 @@ To understand who holds which role on which project, please consult [The Project
 
 ### Line Manager
 * The professional development of line managees
+* First point of contact on all questions line managees have
+* Monthly "coffee chat" with line managees on progression towards goals, any concerns and/or ideas about DVELP and our processes
 * Conducting [goal reviews](../handbook/../../handbook/professional-development/external-training-courses.md)
 * Signing off on line managees' holiday requests after checking with affected parties
  
