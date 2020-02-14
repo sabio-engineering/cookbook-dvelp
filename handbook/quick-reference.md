@@ -84,7 +84,14 @@ full use of their holiday allowance.
 
 We track holiday days in Charlie HR and request that holidays are booked at
 least 2 weeks in advance. We have a low-touch review process and aim to grant
-all holidays requested.
+all holidays requested. 
+
+Our team is distributed across different countries with different public holidays.
+To simplify the management of these public holidays, your country's number of
+public holidays per year are added to your annual holiday allowance. You're free 
+to take these public holidays on their official date or any other day in the year. 
+When you do take a public holiday you need to request this as a normal holiday on 
+CharlieHR, as you would any other holiday.
 
 We ask our team to use common sense when requesting holidays and be mindful of
 any pressing project deadlines or pre-existing holiday arrangements.
