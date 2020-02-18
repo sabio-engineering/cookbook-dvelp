@@ -100,10 +100,3 @@ any pressing project deadlines or pre-existing holiday arrangements.
 team they are working with (internal and external) of any time off.**
 
 Holiday days are not carried from one calendar year to the next.
-
-### Public Holidays
-
-Our team work from many different countries, each with their own public
-holidays. We request individuals follow the holidays set by their **country
-of residence** and within the parameters of the individuals allowance.
-
