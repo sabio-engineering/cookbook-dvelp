@@ -7,7 +7,7 @@ We will reimburse expenses properly incurred in accordance with this policy.  An
 Expenses will only be reimbursed if they are:
 
 1. approved by Ruby __before__ they are incurred;
-2. claimed using the [Expenses Google Form](https://goo.gl/forms/OxGsnYRT7UnaoP922);
+2. claimed using the [DVELP Expenses Platform](https://dvelp-expenses.firebaseapp.com/expenses);
 3. submitted within 2 months of being incurred;
 4. supported by relevant documents (for example, VAT receipts, tickets, and credit or debit card slips); and
 
@@ -27,6 +27,6 @@ Please contact your manager regarding specific transport queries.
 
 ### Submitting  expenses
 
-Expenses can be submitted using the [Expenses Google Form](https://goo.gl/forms/OxGsnYRT7UnaoP922). 
+Expenses can be submitted using the [DVELP Expenses Platform](https://dvelp-expenses.firebaseapp.com/expenses). 
 
 Following submission they will be reviewed by management. If an expense is approved, it will be paid into your bank account. If an expense is not approved, your manager will discuss the expense with you. 
