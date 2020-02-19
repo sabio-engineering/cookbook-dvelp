@@ -70,7 +70,7 @@ of contents](/Readme.md).
 
 ## Handbook
 
-The [DVELP Handbook](/handbook/Readme.md) contains our company's policies that
+The [DVELP Handbook](/handbook/README.md) contains our company's policies that
 define how we think about things like best practice, professional development
 and information security. It is a good place to reference for specific
 quesitons.
