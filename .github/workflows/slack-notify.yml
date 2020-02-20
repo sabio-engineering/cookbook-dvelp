@@ -12,6 +12,5 @@ jobs:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
           SLACK_ICON_EMOJI: ":bell:"
           SLACK_COLOR: good
-          SLACK_CHANNEL: Andreas Kater
           SLACK_USERNAME: Github
           SLACK_TITLE: Yo team
