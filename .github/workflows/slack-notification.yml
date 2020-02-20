@@ -1,4 +1,4 @@
-name: slack-notification-with-optional-parameters
+name: slack-notification
 
 on: [push, pull_request, issues]
 
@@ -12,7 +12,7 @@ jobs:
         with:
           slack-bot-user-oauth-access-token: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
           slack-channel: testgithubnotifications
-          slack-text: Hello! Andi here, testing something
+          slack-text: $GITHUB_CONTEXT
           slack-optional-icon_emoji: ":fire:"
       - name: Result from "Send Message"
         run: echo "The result was ${{ steps.notify.outputs.slack-result }}"
