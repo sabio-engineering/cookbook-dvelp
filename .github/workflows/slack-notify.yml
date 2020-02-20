@@ -5,12 +5,13 @@ jobs:
     name: Slack Notification
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Slack Notification
-      uses: rtCamp/action-slack-notify@v2.0.0
-      env:
-        SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }} 
-        SLACK_ICON_EMOJI: ":bell:"
-        SLACK_COLOR: good
-                SLACK_USERNAME: rtCamp
-        SLACK_TITLE: Yo team
+      - uses: actions/checkout@v2
+      - name: Slack Notification
+        uses: rtCamp/action-slack-notify@v2.0.0
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          SLACK_ICON_EMOJI: ":bell:"
+          SLACK_COLOR: good
+          SLACK_CHANNEL: Andreas Kater
+          SLACK_USERNAME: Github
+          SLACK_TITLE: Yo team
