@@ -14,6 +14,5 @@ jobs:
           slack-channel: random
           slack-text: Hello! Andi here, testing something
           slack-optional-icon_emoji: ":fire:"
-          slack-optional-as_user: false
       - name: Result from "Send Message"
         run: echo "The result was ${{ steps.notify.outputs.slack-result }}
