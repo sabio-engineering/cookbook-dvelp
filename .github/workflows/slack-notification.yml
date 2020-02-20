@@ -7,14 +7,14 @@ on:
 jobs:
   slack-notification-with-optional-parameters:
     runs-on: ubuntu-latest
-    name: Sends a message to Slack when a push, a pull request or an issue is made
+    name: Sends a message to Slack when a pull request is closed
     steps:
       - name: Send message to Slack API
         uses: archive/github-actions-slack@v1.0.0
         with:
           slack-bot-user-oauth-access-token: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
-          slack-channel: testgithubnotifications
-          slack-text: ${{ github.event.pull_request._links.html.href }}
+          slack-channel: general
+          slack-text: "We have just updated the cookbook. Have a look at the changes here: ${{ github.event.pull_request._links.html.href }}"
           slack-optional-icon_emoji: ":fire:"
       - name: Result from "Send Message"
         run: echo "The result was ${{ steps.notify.outputs.slack-result }}"
