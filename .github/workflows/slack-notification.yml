@@ -1,6 +1,8 @@
 name: slack-notification
 
-on: [push, pull_request, issues]
+on:
+  pull_request:
+    types: [closed]
 
 jobs:
   slack-notification-with-optional-parameters:
