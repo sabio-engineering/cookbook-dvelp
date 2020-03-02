@@ -1,4 +1,3 @@
-
 # DVELP Ltd. Staff Handbook
 
 ## Non-contractual staff handbook
@@ -7,47 +6,49 @@ This policy does not form part of any employee&#39;s contract of employment and
 we may amend it at any time.
 
 ## Contents
-* Introduction
-  * [Introduction](#introduction)
-  * [Using the Staff Handbook](#using-the-staff-handbook)
-  * [Responsibility for the Staff Handbook](#responsibility-for-the-staff-handbook)
-* Best Practice
-  * [Anti-corruption and Bribery Policy](best-practice/anti-corruption.md)
-  * [Anti-harassment and Bullying Policy](best-practice/anti-harassment.md)
-  * [Health and Safety Policy](best-practice/health-and-safety-policy.md)
-  * [Whistle-blowing Policy](best-practice/whistle-blowing-policy.md)
-* HR
-  * [Compassionate Leave](hr/compassionate-leave.md)
-  * [Disciplinary and Capability Procedure](hr/disciplinary-procedure.md)
-  * [Dress Code](hr/dress-code.md)
-  * [Equal Opportunities Policy](hr/equal-opportunities.md)
-  * [Expenses Policy](hr/expenses-policy.md)
-  * [Grievance Procedure](hr/grievance-procedure.md)
-  * [Maternity Policy](hr/maternity-policy.md)
-  * [Off-boarding](hr/off-boarding.md)
-  * [On-boarding](hr/on-boarding.md)
-  * [Organisation Chart](hr/org-chart.md)
-  * [Paternity Policy](hr/paternity-policy.md)
-  * [Personal details, home address and next of kin](hr/personal-details.md)
-  * [Redundancy Policy](hr/redundancy-policy.md)
-  * [Referral Programme](hr/referral-programme.md)
-  * [Retirement Policy (no fixed retirement age)](hr/retirement-policy.md)
-  * [Risk Management Policy](information-security/risk-management.md)
-  * [Sickness Absence Policy](hr/absence.md)
-  * [Time Management Policy](quick-reference.md#time-management)
-* [Information Security](information-security/README.md)
-* Operations
-  * [Hiring](operations/greenhouse.md)
-  * [Interviewing](operations/interviewing.md)
-  * [Invoicing](operations/invoicing.md)
-  * [Sales](operations/hubspot.md)
-* Professional Development
-  * [Developer Proficiency](professional-development/developer-proficiency.md)
-  * [External Training Courses](professional-development/external-training-courses.md)
-  * [Mentoring](professional-development/mentoring.md)
-  * [Goal Reviews](professional-development/goal-reviews.md)
-* [Quick-Reference Guide](quick-reference.md)
-* [Risk Management](information-security/risk-management.md)
+
+- Introduction
+  - [Introduction](#introduction)
+  - [Using the Staff Handbook](#using-the-staff-handbook)
+  - [Responsibility for the Staff Handbook](#responsibility-for-the-staff-handbook)
+- Best Practice
+  - [Anti-corruption and Bribery Policy](best-practice/anti-corruption.md)
+  - [Anti-harassment and Bullying Policy](best-practice/anti-harassment.md)
+  - [Health and Safety Policy](best-practice/health-and-safety-policy.md)
+  - [Whistle-blowing Policy](best-practice/whistle-blowing-policy.md)
+- HR
+  - [Compassionate Leave](hr/compassionate-leave.md)
+  - [Disciplinary and Capability Procedure](hr/disciplinary-procedure.md)
+  - [Dress Code](hr/dress-code.md)
+  - [Equal Opportunities Policy](hr/equal-opportunities.md)
+  - [Expenses Policy](hr/expenses-policy.md)
+  - [Grievance Procedure](hr/grievance-procedure.md)
+  - [Maternity Policy](hr/maternity-policy.md)
+  - [Off-boarding](hr/off-boarding.md)
+  - [On-boarding](hr/on-boarding.md)
+  - [Organisation Chart](hr/org-chart.md)
+  - [Paternity Policy](hr/paternity-policy.md)
+  - [Personal details, home address and next of kin](hr/personal-details.md)
+  - [Redundancy Policy](hr/redundancy-policy.md)
+  - [Referral Programme](hr/referral-programme.md)
+  - [Retirement Policy (no fixed retirement age)](hr/retirement-policy.md)
+  - [Risk Management Policy](information-security/risk-management.md)
+  - [Sickness Absence Policy](hr/absence.md)
+  - [Time Management Policy](quick-reference.md#time-management)
+- [Information Security](information-security/README.md)
+- Operations
+  - [Hiring](operations/greenhouse.md)
+  - [Interviewing](operations/interviewing.md)
+  - [Invoicing](operations/invoicing.md)
+  - [Sales](operations/hubspot.md)
+  - [Slack](operations/slack.md)
+- Professional Development
+  - [Developer Proficiency](professional-development/developer-proficiency.md)
+  - [External Training Courses](professional-development/external-training-courses.md)
+  - [Mentoring](professional-development/mentoring.md)
+  - [Goal Reviews](professional-development/goal-reviews.md)
+- [Quick-Reference Guide](quick-reference.md)
+- [Risk Management](information-security/risk-management.md)
 
 ## Quick-Reference Guide
 
@@ -64,7 +65,7 @@ We are building an environment where we can work hard and sleep easy, where we
 can work remotely, but as part of a community, to deliver products globally.
 
 We want to be challenged, be encouraged to &#39;dare&#39;, to think openly and
-not be restrained by corporate policy.  We want to be better.
+not be restrained by corporate policy. We want to be better.
 
 We are an equal opportunities employer and do not discriminate on the grounds of
 gender, sexual orientation, marital or civil partner status, gender
@@ -84,7 +85,7 @@ They therefore apply to managers, officers, directors, employees, consultants,
 contractors, trainees, homeworkers, part-time and fixed-term employees, casual
 and agency staff and volunteers (collectively referred to as
 **&quot;staff&quot;** in this policy). They do **not** form part of the terms of
-your contract with us, which are provided to you separately.  Your contract sets
+your contract with us, which are provided to you separately. Your contract sets
 out your job title, hours and place of work, probationary period, salary,
 holidays and holiday pay, sickness absence reporting procedure and sick pay,
 your entitlement to and obligation to give notice to terminate your contract and
@@ -125,11 +126,11 @@ Directors.
 
 | Contact                                                     | Contact Details                                                         | Contact Deputy                          |
 | ----------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------- |
-| Data Protection Officer                                     | Andreas Kater <br>  andreas@dvelp.co.uk                                 | Ruby Williams <br/> ruby@dvelp.co.uk    |
+| Data Protection Officer                                     | Andreas Kater <br> andreas@dvelp.co.uk                                  | Ruby Williams <br/> ruby@dvelp.co.uk    |
 | HR Manager                                                  | Andreas Kater <br/> andreas@dvelp.co.uk                                 | Ruby Williams <br/> ruby@dvelp.co.uk    |
 | Information Security Community Representative               | James King <br> james@dvelp.co.uk                                       | Ruby Williams <br/> ruby@dvelp.co.uk    |
 | Information Security Officer                                | Andreas Kater <br/> andreas@dvelp.co.uk                                 | Ruby Williams <br/> ruby@dvelp.co.uk    |
-| Internal Security Auditor                                   | Andreas Kater <br>  andreas@dvelp.co.uk                                 | Ruby Williams <br/> ruby@dvelp.co.uk    |
+| Internal Security Auditor                                   | Andreas Kater <br> andreas@dvelp.co.uk                                  | Ruby Williams <br/> ruby@dvelp.co.uk    |
 | Principal Health and Safety Officer                         | Ruby Williams <br/> ruby@dvelp.co.uk                                    | Andreas Kater <br/> andreas@dvelp.co.uk |
 | Public Concern at Work (Independent whistleblowing charity) | Helpline: (020) 7404 6609 <br/> whistle@pcaw.co.uk <br/> www.pcaw.co.uk |                                         |
 | DVELP London Office                                         | Telephone: +44(0)7565956061                                             |                                         |
