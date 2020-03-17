@@ -59,6 +59,7 @@ Complete the following steps to setup Sentry in your application:
 - Create [new project](https://sentry.io/organizations/dvelp/projects/new) on the DVELP corporate account
 - Add `gem 'sentry-raven'` to your Gemfile and run `bundle install`
 - Set `SENTRY_DSN` ENV variable. Sentry will give you this when creating a new project (step 1).
+- Set `SENTRY_ENVIRONMENT` ENV variable accordingly.
 
 To make sure your application doesn't send any confidential information like passwords, set sanitize fields:
 
@@ -68,8 +69,11 @@ To make sure your application doesn't send any confidential information like pas
 Raven.configure do |config|
   config.sanitize_fields = Rails.application.config
     .filter_parameters.map(&:to_s)
+  config.current_environment = ENV.fetch('SENTRY_ENVIRONMENT', 'production')
 end
 ```
+
+Also, the last `config` line allows you to set the proper environment to your Sentry project.
 
 ### Testing
 
