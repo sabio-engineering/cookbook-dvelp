@@ -55,6 +55,12 @@ For channels involving customer projects or comms. Customers/clients may be pres
 
 Due to confidentiality, these channels are not listed here in the cookbook. Simply search Slack for `cust-`
 
+#### Ext
+
+For channels involving external groups (using Slack's shared channels functionality), we prefix them with `ext-` where we have control. In some cases (where the other party has set up the channel) we do not have this power, so not all external channels conform to this unfortunately.
+
+Due to confidentiality, these channels are not listed here in the cookbook. Simply search Slack for `ext-`
+
 #### Devs
 
 For channels related to developer chats:
@@ -82,6 +88,7 @@ For updates and work from a department or team - please only join these if you'r
 
 - #team - private channel - see [Private Team Channel Usage](#private-team-channel-usage)
 - [#team-business](https://app.slack.com/client/T051BGQ57/CSRN4TFSA) - Business team channel (generally those who attend the daily business standup are in this group)
+- [#team-infosec](https://app.slack.com/client/T051BGQ57/CUCD659FC) - Information Security team
 - [#team-marketing](https://app.slack.com/client/T051BGQ57/C2QA1JA5C) - Marketing team
 - [#team-sales](https://app.slack.com/client/T051BGQ57/CUNLAML3G) - Sales team
 
