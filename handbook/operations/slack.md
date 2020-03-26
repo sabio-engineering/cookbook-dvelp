@@ -112,3 +112,18 @@ To begin with, join as few channels as you _need_ to. If you're needed in others
 - #random
 - #website
 - #process (if you have any questions about what to do regarding our process, here's a good place to ask)
+
+## Theming
+
+Slack allows you to set a custom theme, and we have a custom DVELP theme defined! You can do this by going to `Preferences` -> `Themes` and scrolling down to the `Custom Theme` section. You can then enter the following values:
+
+- Column BG: #716F70
+- Menu BG Hover: #444A47
+- Active Item: #F49A74
+- Active Item Text: #000000
+- Hover Item: #444A47
+- Text Color: #FFFFFF
+- Active Presence: #99D04A
+- Mention Badge: #DB6668
+
+Or if you're part of the #team channel, simply go to [this pinned message](https://dvelp.slack.com/archives/G0JMTC3U2/p1585216848023100), and you can click the "Switch sidebar theme" button that's automagically there.
