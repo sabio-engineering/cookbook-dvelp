@@ -37,6 +37,7 @@ we may amend it at any time.
   - [Time Management Policy](quick-reference.md#time-management)
 - [Information Security](information-security/README.md)
 - Operations
+  - [DocuSign](operations/docusign.md)
   - [Hiring](operations/greenhouse.md)
   - [Interviewing](operations/interviewing.md)
   - [Invoicing](operations/invoicing.md)
