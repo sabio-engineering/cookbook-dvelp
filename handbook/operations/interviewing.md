@@ -2,7 +2,7 @@
 
 We use Greenhouse to coordinate our interview process. Below you can find the steps you should take if you have been asked to interview one of our candidates.
 
-If you have any questions regarding this process, please get in touch with <andreas@dvelp.co.uk>.
+If you have any questions regarding this process, please get in touch with <ruby@dvelp.co.uk>.
 
 ### 1. Visit Greenhouse and filter for the candidates you are currently responsible for
 

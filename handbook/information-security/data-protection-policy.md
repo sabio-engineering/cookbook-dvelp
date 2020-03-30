@@ -209,5 +209,5 @@ data that is no longer needed to fulfil our customer's requirements.
 
 ### Ownership
 
-Andreas Kater is the owner of this document. You can contact him on
-<andreas@dvelp.co.uk>.
+James King is the owner of this document. You can contact him on
+<james@dvelp.co.uk>.

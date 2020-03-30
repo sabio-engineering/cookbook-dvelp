@@ -29,5 +29,5 @@ We review our supplier's information security policy on an annual basis to ensur
 
 ### Ownership
 
-Andreas Kater is the owner of this document. You can contact him on
-<andreas@dvelp.co.uk>.
+James King is the owner of this document. You can contact him on
+<james@dvelp.co.uk>.
