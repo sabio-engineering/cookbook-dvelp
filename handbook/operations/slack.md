@@ -70,6 +70,7 @@ For channels related to developer chats:
 - [#devs-front-end](https://app.slack.com/client/T051BGQ57/C9KCBBBDL) - Front-end chat
 - [#devs-node](https://app.slack.com/client/T051BGQ57/CUNA4T1FZ) - Node/React/TypeScript/JavaScript chat
 - [#devs-ruby](https://app.slack.com/client/T051BGQ57/CU90FFM0B) - Ruby/Rails chat
+- [#devs-r-and-d](https://app.slack.com/client/T051BGQ57/C010PJR4WG3) - Research & Development chat
 
 #### Event
 
