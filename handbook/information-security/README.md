@@ -7,6 +7,10 @@ the ISO 27001 Information Security Standard, to improve the resiliency of
 business processes and foster awareness across our distributed team and amongst
 our customers.
 
+DVELP engages with its parent group Sabio to maintain Information Security
+standards across both parties, ensuring processes are appropriate and
+followed.
+
 Security is represented at the highest level within the company. Our CEO meets
 regularly with the Information Security Management Team to discuss issues and
 co-ordinate company wide initiatives.
@@ -20,25 +24,25 @@ DVELP is ISO27001 certified by the British Standards Institution. You can view o
 
 The framework includes programs covering:
 
-* [Access Control](access-control.md)
-* [Anti-Virus and Malware Policy](anti-virus-malware-policy.md)
-* [Asset Acceptable Use Policy](acceptable-use.md)
-* [Asset Management](asset-management.md)
-* [Backup and Recovery](backup-recovery-policy.md)
-* [Business Continuity Security](business-continuity.md)
-* [Classification of Information](classification-of-information.md)
-* [Cryptographic Controls](cryptographic-controls-policy.md)
-* [Data Protection Policy](data-protection-policy.md)
-* [Database Limits](database-limits.md)
-* [Incident Responses](incident-response.md)
-* [Information Security Management Meetings](isms-meetings.md)
-* [Information Transfer](information-transfer-policy.md)
-* [Internal Security Audits](internal-security-audit.md)
-* [People Security](people-security.md)
-* [Physical Security](physical-and-environmental-security.md)
-* [Special Interest Groups](special-interest-groups.md)
-* [Statement of Applicability](statement-of-applicability.md)
-* [Vulnerability Management](vulnerability-management.md)
+- [Access Control](access-control.md)
+- [Anti-Virus and Malware Policy](anti-virus-malware-policy.md)
+- [Asset Acceptable Use Policy](acceptable-use.md)
+- [Asset Management](asset-management.md)
+- [Backup and Recovery](backup-recovery-policy.md)
+- [Business Continuity Security](business-continuity.md)
+- [Classification of Information](classification-of-information.md)
+- [Cryptographic Controls](cryptographic-controls-policy.md)
+- [Data Protection Policy](data-protection-policy.md)
+- [Database Limits](database-limits.md)
+- [Incident Responses](incident-response.md)
+- [Information Security Management Meetings](isms-meetings.md)
+- [Information Transfer](information-transfer-policy.md)
+- [Internal Security Audits](internal-security-audit.md)
+- [People Security](people-security.md)
+- [Physical Security](physical-and-environmental-security.md)
+- [Special Interest Groups](special-interest-groups.md)
+- [Statement of Applicability](statement-of-applicability.md)
+- [Vulnerability Management](vulnerability-management.md)
 
 ## 2. Scope
 
@@ -60,10 +64,11 @@ requested by them by legal authority (i.e. subpoena, court order, search
 warrant, etc.).
 
 The legislation that DVELP has to comply with includes:
-*  UK Data Protection Act 1998
-*  EU Data Protection Directive (95/46/EC)
-*  EU General Data Protection Regulation (2016/679) (“GDPR”) 
-*  EU Privacy and Electronic Communications Directive 2002/58/EC
+
+- UK Data Protection Act 1998
+- EU Data Protection Directive (95/46/EC)
+- EU General Data Protection Regulation (2016/679) (“GDPR”)
+- EU Privacy and Electronic Communications Directive 2002/58/EC
 
 ## 4. Context of The Organisation
 
@@ -78,12 +83,13 @@ internationally.
 
 DVELP’s management team has identified the following stakeholders as being key
 to the design and maintenance of their information security management system:
-* Company Board
-* Contractors
-* Financial Regulation Authority
-* Information Commissioner's Office
-* Our Clients (including end-users of the software solutions that are built by DVELP)
-* Staff
+
+- Company Board
+- Contractors
+- Financial Regulation Authority
+- Information Commissioner's Office
+- Our Clients (including end-users of the software solutions that are built by DVELP)
+- Staff
 
 These stakeholders trust us with sensitive and confidential information. They
 need to know that we treat this information with the appropriate level of care
@@ -115,25 +121,27 @@ with our [Vulnerability Management Procedure](vulnerability-management.md).
 ### Information Security Objectives and Planning to Achieve Them
 
 The objectives of our Information Security Management System include:
-* Continuously improving our processes by acting on reported vulnerabilities
+
+- Continuously improving our processes by acting on reported vulnerabilities
   within one month in all cases, as tracked by our [Information Security Trello
   Board](https://trello.com/b/Hx0o5GpZ/security-reporting)
-* Continuously reducing risks by mitigating risks with significant potential
+- Continuously reducing risks by mitigating risks with significant potential
   impact as per our [Risk Management Policy](risk-management.md)
-* Obtaining and maintaining ISO27001 accreditation
+- Obtaining and maintaining ISO27001 accreditation
 
 ## 7. Support
 
 ### Resources
 
 We commit resources to Information Security Management by:
-* Maintaining Information Security Roles and responsibilities as laid out
+
+- Maintaining Information Security Roles and responsibilities as laid out
   [here](../README.md#contacts).
-* Holding regular Management Meetings with our [Information Security Management
+- Holding regular Management Meetings with our [Information Security Management
   Team](../README.md#teams).
-* Regularly conducting internal audits as per our [Internal Audit
+- Regularly conducting internal audits as per our [Internal Audit
   Policy](internal-security-audit.md)
-* Monitoring our <security@dvelp.co.uk> inbox with a 24h response time
+- Monitoring our <security@dvelp.co.uk> inbox with a 24h response time
 
 ### Competence
 
@@ -144,10 +152,11 @@ Interest Groups](special-interest-groups.md).
 ### Awareness
 
 We ensure our staff are aware of our policies by:
-* Ensuring new joiners read and understand our [Information Security
+
+- Ensuring new joiners read and understand our [Information Security
   Policy](README.md)
-* Regularly [auditing our compliance internally](internal-security-audit.md)
-* Regularly providing quizzes on our policies to all staff
+- Regularly [auditing our compliance internally](internal-security-audit.md)
+- Regularly providing quizzes on our policies to all staff
 
 ### Communication and Documented Information
 
@@ -174,11 +183,12 @@ Management](risk-management.md) policy.
 
 We measure the performance of our Information Security Management System in
 three main ways:
-* the number of unmitigated risks with significant impact in our [Risk
+
+- the number of unmitigated risks with significant impact in our [Risk
   Register](risk-management.md)
-* the number of questions our staff answer incorrectly during our [Internal
+- the number of questions our staff answer incorrectly during our [Internal
   Security Audits](internal-security-audit.md)
-* the average resolution time of enquiries submitted to <security@dvelp.co.uk>
+- the average resolution time of enquiries submitted to <security@dvelp.co.uk>
 
 ### Internal Audit
 
@@ -190,9 +200,10 @@ improvement as part of our regular Information Security Management Meetings.
 ### Management Review
 
 The Information Security Management Team meet to review:
-* reports to <security@dvelp.co.uk>
-* the results of recent internal audits
-* our internal policies and objectives relating to Information Security as per
+
+- reports to <security@dvelp.co.uk>
+- the results of recent internal audits
+- our internal policies and objectives relating to Information Security as per
   our [Information Security Management Meetings Policy](isms-meetings.md).
 
 ## 10. Improvement
