@@ -25,8 +25,8 @@ We will reimburse the reasonable cost of necessary travel in connection with our
 
 Please contact your manager regarding specific transport queries.
 
-### Submitting  expenses
+### Submitting expenses
 
-Expenses can be submitted using the [DVELP Expenses Platform](https://dvelp-expenses.firebaseapp.com/expenses). 
+Expenses can be submitted using the [DVELP Expenses Platform](https://dvelp-expenses.firebaseapp.com/expenses).
 
-Following submission they will be reviewed by management. If an expense is approved, it will be paid into your bank account. If an expense is not approved, your manager will discuss the expense with you. 
+Following submission they will be reviewed by management. If an expense is approved, it will be paid into your bank account. If an expense is not approved, your manager will discuss the expense with you.
