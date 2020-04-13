@@ -24,8 +24,8 @@ After/during an interview fill in the relevant Scorecard on Greenhouse. See belo
 
 ![Greenhouse Submit Scorecard](../../assets/greenhouse_submit_scorecard.gif)
 
-### 4. Assign Andi as coordinator
+### 4. Assign Ruby as coordinator
 
-Once you have conducted the interview you can hand the candidate back over to Andi by assigning him as a coordinator. Andi will then coordinate next steps for the candidate.
+Once you have conducted the interview you can hand the candidate back over to Ruby by assigning him as a coordinator. Ruby will then coordinate next steps for the candidate.
 
 ![Greenhouse Assign Coordinator](../../assets/greenhouse_assign_coordinator.gif)
