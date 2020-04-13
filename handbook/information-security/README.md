@@ -118,6 +118,10 @@ We assess risks in our business in line with our [Risk Management
 Policy](risk-management.md) and take action to improve our systems in accordance
 with our [Vulnerability Management Procedure](vulnerability-management.md).
 
+Opportunities can also be identified internally by our developers by
+adding them to the Backlog in our [Information Security Trello
+Board](https://trello.com/b/Hx0o5GpZ/security-reporting).
+
 ### Information Security Objectives and Planning to Achieve Them
 
 The objectives of our Information Security Management System include:
