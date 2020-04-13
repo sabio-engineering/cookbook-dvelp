@@ -29,12 +29,10 @@ To connect Dialogflow agent to your API you have to get credentials as follows:
 1. Go to Dialogflow agent configuration
 2. Click on Project ID link
 3. Click on navigation menu
-4. Go to APIs & Services -> Credentials
-5. Click on Create credentials -> Service account key
-6. Select "Dialogflow integrations" from Service account dropdown
-7. Choose JSON key type
+4. Go to IAM & Admin -> Service Accounts
+5. Find Dialogflow service account from the list, it should look like this: `dialogflow-aaaaaa@<project_name>.iam.gserviceaccount.com`
+6. Click on 3 dots in "Actions" column -> Create Key
+7. Choose JSON
 8. Click Create
 
 After this your browser will download service account key.
-
-Usually we use [dvelp_flow](https://github.com/DVELP/dvelp_flow) gem to communicate with Dialoflow agent. Basically what you need is to get Google Cloud credentials and set them to [dvelp_flow initializer](https://github.com/DVELP/dvelp_flow#use-initializer-if-your-creds-are-static).
