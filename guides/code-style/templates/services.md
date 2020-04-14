@@ -27,11 +27,10 @@ module Orders
     end
 
     def create
-      order = Order.new(params)
-      if order.save
-        take_payment(order)
-        send_email(order)
-      end
+      order = Order.create!(params)
+
+      take_payment(order)
+      send_email(order)
 
       order
     end
@@ -59,14 +58,14 @@ module Orders
     end
 
     def update
-      result = order.update_attributes(params)
+      order.update!(params)
 
       if order.cancelled?
         process_refund
         send_cancellation_email
       end
 
-      result
+      order
     end
 
     private
