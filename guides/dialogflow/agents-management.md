@@ -30,9 +30,11 @@ To connect Dialogflow agent to your API you have to get credentials as follows:
 2. Click on Project ID link
 3. Click on navigation menu
 4. Go to IAM & Admin -> Service Accounts
-5. Find Dialogflow service account from the list, it should look like this: `dialogflow-aaaaaa@<project_name>.iam.gserviceaccount.com`
+5. Find "Dialogflow Integrations" in "Name" column
 6. Click on 3 dots in "Actions" column -> Create Key
 7. Choose JSON
 8. Click Create
 
 After this your browser will download service account key.
+
+![Dialogflow API Credentials](../../assets/GCP_keyfile.gif)
