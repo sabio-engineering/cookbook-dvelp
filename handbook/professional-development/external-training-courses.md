@@ -35,8 +35,14 @@ with the team. This can be in any format you wish, for example you could:
 - Create a blog post
 - Hold a workshop
 
-This is not an optional element, and you will be chased to do so upon course
+**This is not an optional element**, and you will be chased to do so upon course
 completion. We all want to learn and become better.
+
+## Mandatory Training
+
+You may be asked to undertake mandatory training as part of your employment at
+DVELP - such as attending certification courses/examinations to gain accreditations.
+These follow the same process as courses you would like to attend.
 
 ### Ownership
 
