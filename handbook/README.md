@@ -140,4 +140,4 @@ Directors.
 
 | Team                                 | Members                                                                               |
 | ------------------------------------ | ------------------------------------------------------------------------------------- |
-| Information Security Management Team | James King <br/> Ilya Lozer <br/> Ruby Williams <br/> Tom Mullen <br/> Vitalii Prodan |
+| Information Security Management Team | James King <br/> Ilya Lozer <br/> Ruby Williams <br/> Tom Mullen <br/> Vitalii Prodan <br/> Dave Grix |
