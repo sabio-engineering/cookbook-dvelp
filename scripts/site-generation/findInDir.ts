@@ -27,6 +27,7 @@ export const findInDir = (
         stat.isDirectory() &&
         recursive &&
         filename.indexOf("node_modules") === -1 &&
+        filename.indexOf("assets") === -1 &&
         filename.indexOf(".git") === -1 &&
         filename.indexOf("public") === -1
       ) {
@@ -38,7 +39,7 @@ export const findInDir = (
         foundFiles.push(filename);
       }
     } else {
-      if (stat.isDirectory()) {
+      if (stat.isDirectory() && filename.indexOf("assets") === -1) {
         foundFiles.push(filename);
 
         if (recursive) {
