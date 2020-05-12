@@ -4,13 +4,12 @@
   "description": "Our DVELP'ment cookbook!",
   "scripts": {
     "dev": "nodemon",
-    "build": "mkdir -p ./public && npm run build:css && npm run build:favicons && npm run build:pages && npm run build:sitemap && npm run build:images",
+    "build": "mkdir -p ./public && npm run build:css && npm run build:favicons && npm run build:pages && npm run build:images",
     "build:dev": "mkdir -p ./public && npm run build:css && npm run build:pages && npm run build:images",
     "build:pages": "ts-node ./scripts/site-generation/generatePages",
     "build:css": "cleancss -o ./public/styles.min.css ./assets/styles/*.css",
     "build:favicons": "favicons-generate",
-    "build:images": "mkdir -p ./public/assets && cp -R ./assets/*.png ./public/assets/",
-    "build:sitemap": "ts-node ./scripts/site-generation/generateSitemap"
+    "build:images": "mkdir -p ./public/assets && cp -R ./assets/*.png ./public/assets/"
   },
   "repository": {
     "type": "git",
