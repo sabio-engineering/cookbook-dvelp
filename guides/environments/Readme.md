@@ -6,10 +6,10 @@ knowledge in projects or teams.
 
 ## Resources
 
-- [Circle CI 2 Configuration]('circle-ci-2.md')
-- [Deploying to Shopify]('deploying-shopify.md')
-- [Diagnostics]('diagnostics.md')
-- [Heroku Pipeline]('heroku-pipeline.md')
+- [Circle CI 2 Configuration](circle-ci-2.md)
+- [Deploying to Shopify](deploying-shopify.md)
+- [Diagnostics](diagnostics.md)
+- [Heroku Pipeline](heroku-pipeline.md)
 
 ## Setup
 
@@ -25,7 +25,7 @@ This will be your local environment. Typically on a local machine, but could be 
 
 Anything goes in `dev`, it's yours to do what you want.
 
-We recommend [ngrok]('https://ngrok.com/') to expose public tunnels
+We recommend [ngrok](https://ngrok.com/) to expose public tunnels
 to localhost for speedy development work of APIs or with distributed teams.
 
 ### Staging
