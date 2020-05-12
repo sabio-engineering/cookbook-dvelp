@@ -52,6 +52,10 @@ footer .copy {
   color: #f49a74;
 }
 
+nav.markdown-body {
+  max-width: 400px;
+}
+
 h1,
 h2,
 h3,
@@ -74,5 +78,9 @@ h6,
 
   .container {
     flex-direction: column-reverse;
+  }
+
+  nav.markdown-body {
+    min-width: 100vw;
   }
 }

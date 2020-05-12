@@ -12,7 +12,7 @@ console.log(`Processing layout`);
 // Constants
 const siteRoot =
   process.env.NODE_ENV === "development"
-    ? "https://localhost:5000"
+    ? "http://localhost:5000"
     : "https://dvelp-cookbook-c862f.web.app/";
 const description = "Our DVELP'ment cookbook!";
 

@@ -3,7 +3,8 @@
     "assets",
     "guides",
     "handbook",
-    "templates"
+    "templates",
+    "scripts"
   ],
   "ext": "html,css,md,ts",
   "exec": "rm -rf public/ && npm run build:dev"
