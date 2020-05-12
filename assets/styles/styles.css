@@ -48,12 +48,6 @@ footer .copy {
   border: 1px solid #eee;
 }
 
-@media (max-width: 767px) {
-  .markdown-body {
-    padding: 15px;
-  }
-}
-
 .markdown-body a {
   color: #f49a74;
 }
@@ -66,4 +60,19 @@ h5,
 h6,
 .copy {
   font-family: "Arvo", sans-serif;
+}
+
+.container {
+  display: flex;
+}
+
+@media (max-width: 767px) {
+  .markdown-body {
+    margin: 0 auto;
+    padding: 15px;
+  }
+
+  .container {
+    flex-direction: column-reverse;
+  }
 }

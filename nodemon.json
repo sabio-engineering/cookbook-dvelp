@@ -5,6 +5,6 @@
     "handbook",
     "templates"
   ],
-  "ext": "html,css,md",
+  "ext": "html,css,md,ts",
   "exec": "rm -rf public/ && npm run build:dev"
 }
