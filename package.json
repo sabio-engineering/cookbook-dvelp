@@ -9,7 +9,7 @@
     "build:pages": "ts-node ./scripts/site-generation/generatePages",
     "build:css": "cleancss -o ./public/styles.min.css ./assets/styles/*.css",
     "build:favicons": "favicons-generate",
-    "build:images": "cp -R ./assets/*.png ./public/",
+    "build:images": "mkdir -p ./public/assets && cp -R ./assets/*.png ./public/assets/",
     "build:sitemap": "ts-node ./scripts/site-generation/generateSitemap"
   },
   "repository": {

@@ -30,7 +30,11 @@ console.log("Finding articles");
 const articleLocations = findInDir("./", ".md");
 console.log(`Found ${articleLocations.length} articles`);
 
-const mdConverter = new showdown.Converter();
+const mdConverter = new showdown.Converter({
+  tables: true,
+  ghCodeBlocks: true,
+  ghCompatibleHeaderId: true,
+});
 
 articleLocations.forEach((articleLocation) => {
   const htmlContent = mdConverter.makeHtml(
