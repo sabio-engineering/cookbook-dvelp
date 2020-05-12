@@ -10,7 +10,7 @@ const templates = findInDir("./templates/partials", ".html");
 console.log(`Processing layout`);
 
 // Constants
-const siteRoot = "http://localhost:5000/";
+const siteRoot = "https://dvelp-cookbook-c862f.web.app/";
 const description = "Our DVELP'ment cookbook!";
 
 // Get page contents
