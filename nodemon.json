@@ -1,0 +1,10 @@
+{
+  "watch": [
+    "assets",
+    "guides",
+    "handbook",
+    "templates"
+  ],
+  "ext": "html,css,md",
+  "exec": "rm -rf public/ && npm run build:dev"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "cookbook",
+  "version": "1.0.0",
+  "description": "Our DVELP'ment cookbook!",
+  "scripts": {
+    "dev": "nodemon",
+    "build": "mkdir -p ./public && npm run build:css && npm run build:favicons && npm run build:pages && npm run build:sitemap && npm run build:images",
+    "build:dev": "mkdir -p ./public && npm run build:css && npm run build:pages && npm run build:images",
+    "build:pages": "ts-node ./scripts/site-generation/generatePages",
+    "build:css": "cleancss -o ./public/styles.min.css ./assets/styles/*.css",
+    "build:favicons": "favicons-generate",
+    "build:images": "cp -R ./assets/*.png ./public/",
+    "build:sitemap": "ts-node ./scripts/site-generation/generateSitemap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ripixelcodes/ripixel-website.git"
+  },
+  "author": "James King <ripixel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ripixelcodes/ripixel-website/issues"
+  },
+  "homepage": "https://github.com/ripixelcodes/ripixel-website#readme",
+  "devDependencies": {
+    "@types/node": "^13.13.5",
+    "@types/showdown": "^1.9.3",
+    "clean-css-cli": "^4.3.0",
+    "date-fns": "^2.13.0",
+    "favicons-generate": "0.0.15",
+    "firebase-tools": "^8.2.0",
+    "nodemon": "^2.0.3",
+    "showdown": "^1.9.1",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.8.3",
+    "xml-js": "^1.6.11"
+  }
+}
