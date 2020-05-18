@@ -6,7 +6,7 @@ We're looking to expand our team of talented people, and want to be as open abou
 
 We're currently looking to recruit the following roles:
 
-- [Senior Fullstack Node Engineer](jobs/senior-fullstack-node-engineer)
+- [Senior Fullstack Node Engineer](jobs/senior-fullstack-node-engineer.md)
 
 ## Hiring Process
 
