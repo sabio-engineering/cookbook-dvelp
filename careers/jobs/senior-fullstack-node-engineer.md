@@ -20,6 +20,12 @@ We are currently looking for an awesome Senior Full-stack Node Developer to join
 
 At DVELP we believe in transparency, so all our business processes, information security, and coding principles are publicly accessible - to learn more about our approach check out [our cookbook](../../Readme.md).
 
+### Tech Stack
+
+We use a variety of technologies at DVELP, but we primarily have those that use Ruby on Rails, and those that use TypeScript/React/Redux and Express. All our solutions are hosted on Google Cloud Platform, leveraging everything from Kubernetes to Firebase. We use [Slack](../../handbook/operations/slack.md) for communications, as you can never have too many gifs. All our work is hosted on [GitHub](https://github.com/DVELP), and built using [CircleCi](https://circleci.com/).
+
+We could list absolutely everything we use, but we don't want you falling asleep. Let's talk and find out what you're passionate about, and if we don't already use it, we could end up incorporating it into our stack. We're led by our engineers, so technology may move fast, but we're never left behind - always pushing forward.
+
 ## Key Responsibilities of the Role
 
 - Lead and advise on entire projects
@@ -66,8 +72,30 @@ More generally, desirable but not required are:
 
 We know there's a lot more to programming than what's listed above - but we'd rather learn through talking where your strengths are, than prescribe a pre-set list of hard requirements.
 
-## What Next?
+## Salary
+
+We've chosen not to disclose the sort of salary we're looking to pay, because everyone is individual and we want to give everyone what we think is very fair compensation. We want to have that conversation with you to ensure everyone's happy, rather than sticking to a number on a page.
+
+## Benefits
+
+There are a wide array of perks available to you as a DVELP employee - everything from cheaper cinema tickets to discounted getaways, and loads in between. We're also open to having conversations around what you may need that's specific to you - don't be afraid to ask.
+
+## Pension
+
+Upon finishing probation you will be automatically enrolled in the government's Workplace Pension scheme.
+
+## Location
+
+DVELP is a remote-first company, so working from home or a co-working space is your day-to-day. DVELP (and its parent group Sabio) do have offices around the UK however, so working from those is more than possible too. DVELP has large clients all around Europe, so occasional travel to their offices may be required.
+
+## Holidays
+
+As DVELP is a multi-national company with employees all over Europe, you'll have complete flexibility over your holidays. We offer 22 days' paid holiday plus 8 usually reserved for public holidays - but we allow you to allocate all 30 yourself.
+
+# What Next?
 
 We are looking for someone to start as soon as possible, so applications will be considered as and when we receive them.
 
-DVELP is a remote-first company, so working from home or a co-working space is your day-to-day. DVELP (and its parent group Sabio) do have offices around the UK however, so working from those is more than possible too. DVELP has large clients all around Europe, so occasional travel to their offices may be required.
+To apply please email [careers@dvelp.co.uk](mailto:careers@dvelp.co.uk) with your CV - we can't wait to hear from you!
+
+To learn more about what our hiring process entails, please see our [DVELP Careers Readme](../README.md#hiring-process). If you have any questions, please ask away.

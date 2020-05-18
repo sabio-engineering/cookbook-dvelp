@@ -1,6 +1,6 @@
 # DVELP Careers
 
-We're looking to expand our team of talented people, and want to be as open about the process and opportunities as possible - hence our having all our careers information on GitHub.
+We're looking to expand our team of talented people, and want to be as open about the process and opportunities as possible - hence having all our careers information on GitHub.
 
 ## Open Opportunities
 
@@ -12,7 +12,7 @@ We're currently looking to recruit the following roles:
 
 ### Apply
 
-If you want to apply for any of the positions, please email [careers@dvelp.co.uk](mailto:careers@dvelp.co.uk) with your CV.
+If you want to apply for any of the positions, please email [careers@dvelp.co.uk](mailto:careers@dvelp.co.uk) with your CV - we can't wait to hear from you!
 
 ### Interviews
 
@@ -34,7 +34,7 @@ By now we're getting to know each other well, so it's time to dive into the nitt
 
 Whiteboard interviews are rubbish, so there's no chance we'd do them here at DVELP. What we do instead is invite you to spend up to 4 hours with one of our own engineers solving a problem. You'll be on a video chat sharing your screen, and building a solution. Our engineer isn't just there to judge though - they're on hand to help you out and guide you along the right path. Don't worry if you have to Google something every 10 seconds, we all do that too!
 
-We realise that trying to find 4 hours during your week can be hard, so we will try our best to accommodate you and can trim the time accordingly, and can run into outside office hours if needed. If the phone or doorbell rings or there's any interruptions, that's absolutely fine. We're used to working from home and all the distractions that can bring, so don't fret.
+We realise that trying to find 4 hours during your week can be hard, so we will try our best to accommodate you and can trim the time accordingly. We can run into outside office hours if needed. If the phone or doorbell rings or there's any interruptions, that's absolutely fine. We're used to working from home and all the distractions that can bring, so don't fret.
 
 #### CEO chat (45mins)
 
