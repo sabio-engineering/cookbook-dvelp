@@ -12,7 +12,7 @@ We have a strong engineering background, which remains at the centre of everythi
 
 We are currently hiring for a Senior Full-stack Node Developer to join our team, initially to work with one of our large established London based clients. We are looking for like minded engineers, who are a master of their craft and with experience in leading a team.
 
-At DVELP we believe in transparency, so all our business processes, information security, and coding principles are publicly accessible - to learn more about our approach check out [our cookbook](/Readme.md).
+At DVELP we believe in transparency, so all our business processes, information security, and coding principles are publicly accessible - to learn more about our approach check out [our cookbook](../..//Readme.md).
 
 ## Key Responsibilities of the Role
 
