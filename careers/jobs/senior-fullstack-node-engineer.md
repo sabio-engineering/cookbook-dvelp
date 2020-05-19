@@ -4,7 +4,7 @@
 
 DVELP is a remote-first, London based software development consultancy.
 
-We work with leading brands like M&S, British Airways, Google, and Twilio helping them to build secure, robust platforms for highly sensitive data.
+We work with leading brands like [Marks & Spencer](https://cloud.google.com/customers/marks-and-spencer), [British Airways](https://dvelp.co.uk/projects/britishairways), [Google](https://dvelp.co.uk/products/airline), and [Twilio](https://showcase.twilio.com/s/partner-listing/a8E1W00000097TDUAY) helping them to build secure, robust platforms for highly sensitive data.
 
 Our experience ranges from designing and delivering end-to-end digital banking solutions, through to bespoke internal communication tools for the hospitality sector; however our powerhouse products and expertise are mainly around creating state-of-the-art realtime communications platforms across a plethora of industries.
 
