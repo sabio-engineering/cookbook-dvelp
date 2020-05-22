@@ -78,11 +78,11 @@ We've chosen not to disclose the sort of salary we're looking to pay, because ev
 
 ## Benefits
 
-There are a wide array of perks available to you as a DVELP employee - everything from cheaper cinema tickets to discounted getaways, and loads in between. We're also open to having conversations around what you may need that's specific to you - don't be afraid to ask.
+There are a wide array of perks available to you as a DVELP employee - talk to us to find out more. We're also open to having conversations around what you may need that's specific to you - don't be afraid to ask.
 
 ## Pension
 
-Upon finishing probation you will be automatically enrolled in the government's Workplace Pension scheme.
+We offer a competitive private pension scheme - talk to us to find out more.
 
 ## Location
 
