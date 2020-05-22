@@ -3,13 +3,15 @@
 Our collection of guides, recipes and scripts for helping you get things done,
 better.
 
+<<<<<<< HEAD
 - [The Why?](#the-why)
 
   - [Our Vision](#our-vision)
   - [Our Values](#our-values)
 
-- [Guides](/guides)
+- [Careers](/careers)
 
+- [Guides](/guides)
   - [Acronyms](/guides/acronyms.md)
   - [Code Management](/guides/code-management)
     - [Git](/guides/code-management/git.md)
@@ -43,11 +45,10 @@ better.
   - [Ruby gems](/guides/ruby-gems)
 
 - [Handbook](/handbook)
-
   - [Quick Reference Guide](/handbook/quick-reference.md)
   - [Information Security Policy](/handbook/information-security/README.md)
 
-- [Careers](/careers)
+- [Product](/product)
 
 - [Scripts](/scripts)
   - [Git Pull Requests](/scripts/git_merge_pull_request.sh)
