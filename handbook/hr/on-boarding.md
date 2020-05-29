@@ -6,7 +6,7 @@ This process is defined in a CharlieHR checklist template which can be found
 [here](https://dvelp.charliehr.com/checklist_templates).
 
 It is the joint responsibility of the individual's Line Manager and the [HR
-Manager](../readme.md#contacts) to ensure the on-boarding
+Manager](../README.md#contacts) to ensure the on-boarding
 checklist is completed within one month of the new team member joining.
 
 # On-boarding advice from our team
@@ -18,7 +18,7 @@ joiners on their on-boarding journey.
 
 Overall information about cultural processes like meetings, time managment,
 communication is explained in [this quick reference
-guide](/handbook/quick-reference.md).  We recomend you read this before anything
+guide](/handbook/quick-reference.md). We recomend you read this before anything
 else.
 
 ## Acquaintance with your mentor
@@ -82,4 +82,3 @@ quesitons.
   useful when you need to get access to some system.
 - [Our blog](https://dvelp.co.uk/articles) - This contains a lot of articles
   that explain our approach and expertise in everything we do.
-

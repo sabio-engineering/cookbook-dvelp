@@ -2,10 +2,11 @@
 
 We run a candidate referral program at DVELP. If you recommend a candidate for a role we
 are looking to fill and that candidate gets hired and passes his/her probation
-period, you will will receive an extra £500 in your next pay cheque. 
+period, you will will receive an extra £500 in your next pay cheque.
 
 To manage this process, we are using Greenhouse.io, our Applicant Tracking
 System:
+
 1. Log into [Greenhouse.io](https://www.greenhouse.io/login)
 2. Go to "All Jobs" to see the jobs for which you can submit candidates
 3. Select a job
