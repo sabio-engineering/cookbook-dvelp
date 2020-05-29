@@ -12,7 +12,7 @@ We're currently looking to recruit the following roles:
 
 ### Apply
 
-If you want to apply for any of the positions, please email [careers@dvelp.co.uk](mailto:careers@dvelp.co.uk) with your CV - we can't wait to hear from you!
+If you want to apply for any of the positions, please email [george@dvelp.co.uk](mailto:george@dvelp.co.uk) with your CV - we can't wait to hear from you!
 
 ### Interviews
 
