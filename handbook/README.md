@@ -131,13 +131,13 @@ Directors.
 | HR Manager                                                  | Ruby Williams <br/> james@dvelp.co.uk                                   | Tom Mullen <br/> ruby@dvelp.co.uk    |
 | Information Security Community Representative               | James King <br> james@dvelp.co.uk                                       | Ruby Williams <br/> ruby@dvelp.co.uk |
 | Information Security Officer                                | James King <br/> james@dvelp.co.uk                                      | Ruby Williams <br/> ruby@dvelp.co.uk |
-| Internal Security Auditor                                   | James King <br> james@dvelp.co.uk                                       | Ruby Williams <br/> ruby@dvelp.co.uk |
+| Internal Security Auditor                                   | Ruby Williams <br/> ruby@dvelp.co.uk                                    | James King <br/> james@dvelp.co.uk   |
 | Principal Health and Safety Officer                         | Ruby Williams <br/> ruby@dvelp.co.uk                                    | James King <br/> james@dvelp.co.uk   |
 | Public Concern at Work (Independent whistleblowing charity) | Helpline: (020) 7404 6609 <br/> whistle@pcaw.co.uk <br/> www.pcaw.co.uk |                                      |
 | DVELP London Office                                         | Telephone: +44(0)7565956061                                             |                                      |
 
 ### Teams
 
-| Team                                 | Members                                                                               |
-| ------------------------------------ | ------------------------------------------------------------------------------------- |
+| Team                                 | Members                                                                                               |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | Information Security Management Team | James King <br/> Ilya Lozer <br/> Ruby Williams <br/> Tom Mullen <br/> Vitalii Prodan <br/> Dave Grix |
