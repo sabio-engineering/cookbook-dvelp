@@ -54,5 +54,5 @@ checklist](../hr/off-boarding.md) in Charlie HR.
 
 ### Ownership
 
-Louisa Crowder is the owner of this document. You can contact her on
-<louisa@dvelp.co.uk>.
+Ruby Williams is the owner of this document. You can contact her on
+<ruby@dvelp.co.uk>.
