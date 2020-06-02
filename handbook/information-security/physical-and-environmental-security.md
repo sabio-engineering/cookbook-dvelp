@@ -13,7 +13,7 @@ There are two security perimeters that affect our operations:
 
 Our London office requires the use of swipe cards in order to access the
 building, our floor and our corridor. More information is available
-[here](https://help.wework.com/hc/en-us/articles/212962043-What-security-measures-does-WeWork-have-in-place-to-protect-members-and-their-property)
+[here](https://members.wework.com/guide)
 
 ### Securing offices, rooms and facilities
 
@@ -24,7 +24,7 @@ the room.
 
 In case of any office related emergencies, the WeWork emergency hotline can be
 found
-[here](https://help.wework.com/hc/en-us/articles/211496006-Does-WeWork-have-an-emergency-hotline-number-)
+[here](https://members.wework.com/guide)
 
 ### Working in secure areas
 
