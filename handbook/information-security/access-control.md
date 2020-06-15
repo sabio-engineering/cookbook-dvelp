@@ -39,13 +39,13 @@
 | Greenhouse     | Ruby Williams                                                            | Tom Mullen          |
 | Harvest        | James King                                                               | Annise Makki        |
 | Heroku         | Ilya Lozer                                                               | Vitalii Prodan      |
-| Hubspot        | David Backhouse                                                          | Louisa Crowder      |
-| Instagram      | Louisa Crowder                                                           | David Backhouse     |
+| Hubspot        | David Backhouse                                                          | (single admin)      |
+| Instagram      | Peter Sari                                                               | David Backhouse     |
 | Jira           | Annise Makki                                                             | James King          |
 | Jira (Billing) | Tom Mullen                                                               | (single admin)      |
-| LinkedIn       | Louisa Crowder                                                           | David Backhouse     |
+| LinkedIn       | Peter Sari                                                               | David Backhouse     |
 | Looker         | Vitalii Prodan                                                           | Tom Mullen          |
-| Mailchimp      | Louisa Crowder                                                           | David Backhouse     |
+| Mailchimp      | Peter Sari                                                               | David Backhouse     |
 | NPM            | Dave Grix                                                                | James King          |
 | Papertrail     | Ilya Lozer                                                               | Tom Mullen          |
 | Sentry         | Ilya Lozer                                                               | Tom Mullen          |
@@ -53,7 +53,8 @@
 | Stitch         | Ilya Lozer                                                               | Tom Mullen          |
 | Trello         | Annise Makki                                                             | James King          |
 | Twilio         | Varies on a project by project basis. Please contact the Project Manager |                     |
-| Twitter        | Louisa Crowder                                                           | David Backhouse     |
+| Twitter        | Peter Sari                                                               | David Backhouse     |
+| Youtube        | Peter Sari                                                               | David Backhouse     |
 
 ### Ownership
 
