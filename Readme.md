@@ -43,6 +43,8 @@ better.
     - [Ruby Client for Dialogflow API](/guides/dialogflow/ruby-client-for-dialogflow-api.md)
   - [Ruby gems](/guides/ruby-gems)
 
+- [Professional Services](/professional-services)
+
 - [Handbook](/handbook)
   - [Quick Reference Guide](/handbook/quick-reference.md)
   - [Information Security Policy](/handbook/information-security/README.md)
