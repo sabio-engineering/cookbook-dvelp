@@ -1,13 +1,12 @@
 # Product Team: Interfaces
 
-* [Finance](link)
-* [Marketing](link)
-* [Sales & Account Management](link)
-* [Professional Services](link)
-* [Support](link)
+* [Finance](#finance)
+* [Marketing](#marketing)
+* [Sales & Account Management](#sales-account-management)
+* [Professional Services](professional-services)
+* [Support](#support)
 
 ## Finance
-
 The Product team interfaces with Finance and is responsible for providing them
 with:
 
@@ -16,7 +15,6 @@ with:
 * Consumption reports for reconciliation
 
 ## Marketing
-
 The Product team interfaces with the Marketing team through dedicated Product
 Marketing Managers (PMM).
 
@@ -29,7 +27,6 @@ The Product team is responsible for providing the PMM with:
 The responsibilities of the PMM can be found [here]().
 
 ## Sales & Account Management
-
 The Product team interfaces with the Sales & Account Management organisation and
 is responsible for providing them with:
 
@@ -37,7 +34,6 @@ is responsible for providing them with:
 * Pricing tools and strategies
 
 ## Support
-
 The Product team interfaces with Support and is responsible for providing them
 with:
 

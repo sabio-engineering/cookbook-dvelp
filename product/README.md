@@ -45,7 +45,6 @@ features regularly to get early feedback and reduce risk.
 **We Are About Quality**
 At our core, we are about quality. We obsess over detail.
 
-
 ## Resources
 * [Product Strategy Sheet](https://docs.google.com/spreadsheets/d/16UzzS_aGoPzv1ThoknyqM4NJ3k09QN5M3B7DtxIKY2o)
 * [Product Estate](https://docs.google.com/spreadsheets/d/1YR6lM9HXHw2rkY1h2xiqOByDMlc0-1attTKJflA7A9w)
