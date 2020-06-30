@@ -3,7 +3,6 @@
 Our collection of guides, recipes and scripts for helping you get things done,
 better.
 
-<<<<<<< HEAD
 - [The Why?](#the-why)
 
   - [Our Vision](#our-vision)
@@ -48,7 +47,7 @@ better.
   - [Quick Reference Guide](/handbook/quick-reference.md)
   - [Information Security Policy](/handbook/information-security/README.md)
 
-- [Product](/product)
+- [Product](/product-org)
 
 - [Scripts](/scripts)
   - [Git Pull Requests](/scripts/git_merge_pull_request.sh)
