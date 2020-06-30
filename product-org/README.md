@@ -31,6 +31,8 @@ that have shown early success with existing customers.
 * Senior Vice President of Product: Damian Kellly
 * Vice President of Product Engineering: TBC
 
+A definition of key product roles can be found [here](roles)
+
 ## What We Believe In
 We believe, above all else, in the following principles, which act as guides to
 help us build incredible products:
