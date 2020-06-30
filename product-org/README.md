@@ -12,15 +12,16 @@ our customer base. Pick winners early and [scale up](#piggyback-on-partners)
 through strong vendor partner relationships.
 
 ### Get Close with Customers
-Through close relationships with customers we can deliver new features and
-prototypes to rapidly validate hypotheses.
+Through close relationships with customers we can recognise industry trends early
+and identify opportunities to add value through products
 
 ### Fill the White Space
-Leverage insight from customers to recognise industry trends early and identify
-opportunities to fill `White Space` left by
-[Partner Solutions](partner-solutions).
+Our proximity to customers coupled with deep expertise in our
+[Partner Solutions](partner-solutions) means we are uniquely positioned to
+identify and fill `White Space` in existing solutions and deliver new features
+and prototypes to our customer base to rapidly validate hypotheses.
 
-### Piggyback on Partners
+### Scale-Up
 Build a strong commercial and go-to-market framework with our
 [Partner Vendors](partner-solutions) through which we can scale-up products
 that have shown early success with existing customers.
