@@ -41,7 +41,7 @@ continual innovation.
 The Product Designer has two key stakeholder sets for communication:
 
 ### Internal
-* *Engineering:* Work closely with engineering teams to designer user journey's
+* *Engineering:* Work closely with engineering teams to design user journey's
   and provide clear and consistent feedback from customers
 * *Sales & Marketing:* Provide relevant product design packs to support Sales
   and Marketing initiatives
