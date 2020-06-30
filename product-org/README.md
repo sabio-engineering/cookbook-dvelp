@@ -8,7 +8,7 @@ their customers.
 ## Strategy
 To [identify White Space](#fill-the-white-space) in [Partner Solutions](/partner-solutions),
 [Prototype rapidly](#get-close-with-customers) and validate hypothesis amongst
-our customer base. Pick winners early and [scale up](#piggyback-on-partners)
+our customer base. Pick winners early and [scale up](#scale-up)
 through strong vendor partner relationships.
 
 ### Get Close with Customers
