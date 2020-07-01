@@ -30,7 +30,7 @@ The responsibilities of the PMM can be found
 The Product team interfaces with the Sales & Account Management organisation and
 is responsible for providing them with:
 
-* [Battlecards](link to battlecards)
+* Battlecards
 * Pricing tools and strategies
 
 ## Support
