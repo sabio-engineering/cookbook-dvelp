@@ -1,5 +1,4 @@
 # Product Team: Interfaces
-
 * [Finance](#finance)
 * [Marketing](#marketing)
 * [Sales & Account Management](#sales-account-management)
@@ -20,11 +19,12 @@ Marketing Managers (PMM).
 
 The Product team is responsible for providing the PMM with:
 
-* [Product Canvas](Link to product canvas)
+* [Product Canvas](https://sabioltd.sharepoint.com/:p:/s/Execution-CloudFocus/ESaOBYOz-W5PnT0krqU6U_kBEGDEk_4qdBmjvt-7mY1KKw?e=BnEetd)
 * Roadmap
 * Feature Releases
 
-The responsibilities of the PMM can be found [here]().
+The responsibilities of the PMM can be found
+[here](../roles/product-marketing-manager).
 
 ## Sales & Account Management
 The Product team interfaces with the Sales & Account Management organisation and

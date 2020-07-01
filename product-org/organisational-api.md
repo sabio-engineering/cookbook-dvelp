@@ -1,7 +1,0 @@
-## Product
-
-## 
-
-## Marketing
-### Product
-### Sales
