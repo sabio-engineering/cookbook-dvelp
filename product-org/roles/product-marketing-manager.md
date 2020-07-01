@@ -30,5 +30,4 @@ The Product Owner has two key stakeholder sets for communication:
 updates, roadmap and broader educational material
 
 ## Reporting
-All Product Marketing Managers report directly into the [Product Owner](product-owner).
-
+All Product Marketing Managers report directly into the [Product Owner](../product-owner).

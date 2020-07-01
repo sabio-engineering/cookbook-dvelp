@@ -15,7 +15,7 @@ from their Product Engineering Team.
 
 ### Engineering First
 Our Lead Product Engineers are always Engineering first. There is a duty of care
-to the [Product Owner](product-owner) to deliver against roadmap items and
+to the [Product Owner](../product-owner) to deliver against roadmap items and
 critical features, but this always done with engineering best-practice in mind.
 
 ### Set The Standard
@@ -33,8 +33,8 @@ The Lead Product Engineer has two key stakeholder sets for communication:
 
 ### Internal
 * *Engineering:* Set standards for, motivate and mentor [Product
-  Engineers](product-engineer)
-* *Product Owner:* Collaborate with the [Product Owner](product-owner) to
+  Engineers](../product-engineer)
+* *Product Owner:* Collaborate with the [Product Owner](../product-owner) to
   deliver the roadmap
 * *VP of Product Engineering:* Work closely with the VP of Product Engineering
   to improve platform and developer toolsets
@@ -44,5 +44,5 @@ The Lead Product Engineer has two key stakeholder sets for communication:
   feedback
 
 ## Reporting
-Our Lead Product Engineers work alongside the [Product Owner](product-owner) and
-report directly in to the VP of Product Engineering.
+Our Lead Product Engineers work alongside the [Product Owner](../product-owner)
+and report directly in to the VP of Product Engineering.

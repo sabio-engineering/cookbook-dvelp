@@ -55,4 +55,4 @@ The Product Designer has two key stakeholder sets for communication:
 ## Reporting
 Our Product Designers may work on a single product or across an array of smaller
 products. In each case, they report directly in to the
-[Product Owner](product-owner).
+[Product Owner](../product-owner).

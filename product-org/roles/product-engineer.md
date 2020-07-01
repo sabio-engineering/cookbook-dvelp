@@ -36,6 +36,6 @@ The Product Engineer has two key stakeholder sets for communication:
 
 ## Reporting
 Our Product Engineers will typically be dedicated to a single product and will
-report to both the [Lead Product Engineer](lead-product-engineer) for technical
-decisions and guidance and to the [Product Owner](product-owner) for task
+report to both the [Lead Product Engineer](../lead-product-engineer) for technical
+decisions and guidance and to the [Product Owner](../product-owner) for task
 prioritisation and strategic direction.

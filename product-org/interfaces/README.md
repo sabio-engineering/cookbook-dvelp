@@ -26,6 +26,19 @@ The Product team is responsible for providing the PMM with:
 The responsibilities of the PMM can be found
 [here](../roles/product-marketing-manager).
 
+## Professional Services
+The Product Team is responsible for providing the Professional Services and
+delivery teams with the relevant material and support help facilitate client
+implementation. As follows:
+
+* Changelogs
+* Feature updates
+* Technical Documentation
+* Training courses
+* Proposed commercial packages
+* Pricing calculators
+* Cheatsheets
+
 ## Sales & Account Management
 The Product team interfaces with the Sales & Account Management organisation and
 is responsible for providing them with:

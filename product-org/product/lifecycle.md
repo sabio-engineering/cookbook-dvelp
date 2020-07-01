@@ -18,7 +18,7 @@ The new feature pipeline is reviewed every 6 weeks and the inbox is reviewed by
 the product team and any accepted features are prioritised for future delivery.
 
 The details on how to contribute to products can be found
-[here](../README#contributing).
+[here](../#contributing).
 
 ## 2) Build
 Our approach to building products is closely aligned with the Agile
@@ -50,7 +50,7 @@ through the following stages:
 * Beta
 * General Availability
 
-The details of each of these phases can be found [here](/release-phases)
+The details of each of these phases can be found [here](../release-phases)
 
 ## 4) Feedback
 Collecting feedback from our customers, our team mates and end users is

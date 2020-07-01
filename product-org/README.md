@@ -6,7 +6,7 @@ To create solutions that help businesses revolutionise how they speak with
 their customers.
 
 ## Strategy
-To [identify White Space](#fill-the-white-space) in [Partner Solutions](/partner-solutions),
+To [identify White Space](#fill-the-white-space) in [Partner Solutions](partner-solutions),
 [Prototype rapidly](#get-close-with-customers) and validate hypothesis amongst
 our customer base. Pick winners early and [scale up](#scale-up)
 through strong vendor partner relationships.
@@ -23,7 +23,7 @@ and prototypes to our customer base to rapidly validate hypotheses.
 
 ### Scale-Up
 Build a strong commercial and go-to-market framework with our
-[Partner Vendors](partner-solutions) through which we can scale-up products
+[Partner Vendors](partner-solutions#propositions) through which we can scale-up products
 that have shown early success with existing customers.
 
 ## Product Team
@@ -31,7 +31,7 @@ that have shown early success with existing customers.
 * Senior Vice President of Product: Damian Kellly
 * Vice President of Product Engineering: TBC
 
-A definition of key product roles can be found [here](roles)
+A definition of key product roles can be found [here](roles).
 
 ## What We Believe In
 We believe, above all else, in the following principles, which act as guides to
@@ -49,11 +49,8 @@ features regularly to get early feedback and reduce risk.
 At our core, we are about quality. We obsess over detail.
 
 ## Resources
-* [Product Strategy Sheet](https://docs.google.com/spreadsheets/d/16UzzS_aGoPzv1ThoknyqM4NJ3k09QN5M3B7DtxIKY2o)
-* [Product Estate](https://docs.google.com/spreadsheets/d/1YR6lM9HXHw2rkY1h2xiqOByDMlc0-1attTKJflA7A9w)
-
-### Org Structure
-![alt text](https://raw.githubusercontent.com/DVELP/cookbook/product/assets/product-org-structure.png "DVELP Product Org")
+* [Product Estate](https://docs.google.com/spreadsheets/d/16UzzS_aGoPzv1ThoknyqM4NJ3k09QN5M3B7DtxIKY2o)
+* [Product Strategy Sheet](https://docs.google.com/spreadsheets/d/1YR6lM9HXHw2rkY1h2xiqOByDMlc0-1attTKJflA7A9w)
 
 ## Scope of Ownership
 The product team is responsible for both home-grown `Product` and `Partner
@@ -72,5 +69,5 @@ You can see the event calendar, along with outlines of each event
 ## Contributing
 **We value your input.** Find out how to contribute to the Product
 Organisation, either through features, bugs or net new products and
-propositions [here](product/contributing).
+propositions [here](contributing).
 

@@ -8,17 +8,17 @@ but the Intellectual Property (IP) to the complete solution must be owned by the
 business.
 
 ## Estate
-* [Airline](products#airline)
-* [Autopilot](products#autopilot)
-* [Flex Answer](products#flex-answer)
-* [MaaS](products#maas)
-* [Navigator](products#navigator)
-* [Peformance Testing](products#performance-testing)
-* [RaaS](products#raas)
-* [Rapport](products#rapport)
-* [SoftPhone](products#softphone)
-* [SuperChannel](products#supperchannel)
-* [VQMaaS](products#vqmraas)
+* [Airline](../products#airline)
+* [Autopilot](../products#autopilot)
+* [Flex Answer](../products#flex-answer)
+* [MaaS](../products#maas)
+* [Navigator](../products#navigator)
+* [Peformance Testing](../products#performance-testing)
+* [RaaS](../products#raas)
+* [Rapport](../products#rapport)
+* [SoftPhone](../products#softphone)
+* [SuperChannel](../products#supperchannel)
+* [VQMaaS](../products#vqmraas)
 
 ## Responsibility
 The Product Team is responsible for:
@@ -30,6 +30,9 @@ The Product Team is responsible for:
 * Product engineering & delivery
 * Go To Market Strategy
 * Product Support
+
+### Org Structure
+![alt text](https://raw.githubusercontent.com/DVELP/cookbook/master/assets/product-org-structure.png "DVELP Product Org")
 
 ## Interfaces
 The Product Team interfaces with a number of other departments in the business,
@@ -52,4 +55,4 @@ To help consistency and retain transparency, We identify and build features and
 products to a pre-defined product lifcycle.
 
 The details of a typical product lifecycle can be found
-[here](lifecycle).
+[here](../lifecycle).

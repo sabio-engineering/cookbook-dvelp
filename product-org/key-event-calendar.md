@@ -83,5 +83,5 @@ The QBR will encapsulate, but is not limited to the following:
 - Celebrate key wins
 - Guest speakers
 
-As part of the QBR, we will also run a [Product Forum](#product-forum) for new
+As part of the QBR, we will also run a [Product Forum](#product-forums) for new
 ideas.
