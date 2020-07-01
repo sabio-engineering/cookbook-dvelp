@@ -22,7 +22,7 @@ have identified an industry trend or repeated customer problem, we want to help
 you realise the solution.
 
 To share your insights and ideas with us, please take the time to complete a
-[canvas]().
+[canvas](https://sabioltd.sharepoint.com/:p:/s/Execution-CloudFocus/ESaOBYOz-W5PnT0krqU6U_kBEGDEk_4qdBmjvt-7mY1KKw?e=BnEetd).
 
 We will review canvases every 6 weeks where we will invite you to an open forum
 to elaborate on the canvas and discuss feasibility for delivery.

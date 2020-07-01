@@ -30,24 +30,16 @@ The following is an overview of the Partner Solutions we major in.
 ### CX Company
 **Partner Liasion:** TBC
 
-* [Canvas]()
-
 ### Nuance
 **Partner Liasion:** TBC
 
-* [Canvas]()
-
 ### Google
-**Partner Liasion:** TBC
-
-* [Canvas]()
+**Partner Liasion:** Stu Dorman
 
 ## Insights
 
 ### Verint
 **Partner Liasion:** TBC
-
-* [Canvas]()
 
 ## Solutions
 
@@ -55,32 +47,22 @@ The following is an overview of the Partner Solutions we major in.
 **Partner Liasion:** TBC
 **Status:** TBC
 
-* [Canvas]()
-
 ### Colt
 **Partner Liasion:** TBC
 
-* [Canvas]()
-
 ### Gamma
 **Partner Liasion:** TBC
-
-* [Canvas]()
 
 ### Genesys
 **Partner Liasion:** TBC
 **Status:** Gold
 
-* [Canvas]()
-
 ### Semaphone
 **Partner Liasion:** TBC
 
-* [Canvas]()
-
 ### Twilio
-**Partner Liasion:** TBC
+**Partner Liasion:** Stu Dorman
 **Status:** Gold
 
-* [Canvas]()
-
+## Canvases
+The associated canvas for each product can be found [here](https://sabioltd.sharepoint.com/:p:/s/Execution-CloudFocus/ESaOBYOz-W5PnT0krqU6U_kBEGDEk_4qdBmjvt-7mY1KKw?e=BnEetd).

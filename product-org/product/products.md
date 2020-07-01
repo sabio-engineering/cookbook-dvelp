@@ -5,17 +5,11 @@ The following are the products that make up the `Product Estate`.
 **State:** Active Development
 **Product Owner:** Damian Kelly
 
-* [Canvas]()
-* [Roadmap]()
-
 INSERT ELEVATOR PITCH
 
 ### Autopilot
 **State:** Active Development
 **Product Owner:** Jose Luis Zamorano
-
-* [Canvas]()
-* [Roadmap]()
 
 INSERT ELEVATOR PITCH
 
@@ -23,17 +17,11 @@ INSERT ELEVATOR PITCH
 **State:** Active Development
 **Product Owner:** Yemi
 
-* [Canvas]()
-* [Roadmap]()
-
 INSERT ELEVATOR PITCH
 
 ### MaaS
 **State:** Support
 **Product Owner:** TBC
-
-* [Canvas]()
-* [Roadmap]()
 
 INSERT ELEVATOR PITCH
 
@@ -41,28 +29,23 @@ INSERT ELEVATOR PITCH
 **State:** Support
 **Product Owner:** Richard Beard
 
-* [Canvas]()
-* [Roadmap]()
-
 INSERT ELEVATOR PITCH
 
 ### Performance Testing
 **State:** Support
 **Product Owner:** Jose-Luis Zamorano
 
-* [Canvas]()
-* [Roadmap]()
+INSERT ELEVATOR PITCH
 
 ### RaaS
 **State:** Support
 **Product Owner:** TBD
 
+INSERT ELEVATOR PITCH
+
 ### Rapport
 **State:** Support
 **Product Owner:** Richard Beard
-
-* [Canvas]()
-* [Roadmap]()
 
 INSERT ELEVATOR PITCH
 
@@ -70,17 +53,11 @@ INSERT ELEVATOR PITCH
 **State:** Support
 **Product Owner:** Jose-Luis Zamorano
 
-* [Canvas]()
-* [Roadmap]()
-
 INSERT ELEVATOR PITCH
 
 ### SuperChannel
 **State:** Active Development
 **Product Owner:** Jose-Luis Zamorano
-
-* [Canvas]()
-* [Roadmap]()
 
 INSERT ELEVATOR PITCH
 
@@ -88,15 +65,14 @@ INSERT ELEVATOR PITCH
 **State:** Support
 **Product Owner:** TBD
 
-* [Canvas]()
-* [Roadmap]()
-
 INSERT ELEVATOR PITCH
-
 
 ## Product States
 | State              | Description |
 |--------------------|-----------------------------------------------------------|
 | Active Development | Clearly defined roadmap, regular delivery cadence         |
 | Support            | No roadmap for new features                               |
+
+## Canvases
+The associated canvas for each product can be found [here](https://sabioltd.sharepoint.com/:p:/s/Execution-CloudFocus/ESaOBYOz-W5PnT0krqU6U_kBEGDEk_4qdBmjvt-7mY1KKw?e=BnEetd).
 
