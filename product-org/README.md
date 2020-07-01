@@ -37,15 +37,15 @@ A definition of key product roles can be found [here](roles).
 We believe, above all else, in the following principles, which act as guides to
 help us build incredible products:
 
-**Focus Above the Value Line**
+#### Focus Above the Value Line
 We spend as much time and focus as we can on things that will add value to our
 customers and to the end user.
 
-**Ship Early and Often**
+#### Ship Early and Often
 We don't like big bang releases. We break down complex tasks and ship small
 features regularly to get early feedback and reduce risk.
 
-**We Are About Quality**
+#### We Are About Quality
 At our core, we are about quality. We obsess over detail.
 
 ## Resources
