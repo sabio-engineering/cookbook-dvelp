@@ -21,8 +21,8 @@ critical features, but this always done with engineering best-practice in mind.
 ### Set The Standard
 Lead Product Engineers are not only responsible for continually redefining
 best-practice, but they are equally responsible for setting the bar for their
-engineering teams. Our Lead Engineers have extensive experience at the coal
-face and can lead highly successful teams through strategic thinking.
+engineering teams. Our Lead Engineers have extensive experience at the coalface
+and can lead highly successful teams through strategic thinking.
 
 ### Focus Above the Value Line
 Our Lead Product Engineers focus above the value line. They challenge themselves
