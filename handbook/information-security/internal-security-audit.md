@@ -26,5 +26,5 @@ Our performance in these internal audits will also be captured on our
 
 ### Ownership
 
-Louisa Crowder is the owner of this document. You can contact her on
-<louisa@dvelp.co.uk>.
+Ruby Williams is the owner of this document. You can contact her on
+<ruby@dvelp.co.uk>.
