@@ -1,7 +1,6 @@
 # Interfaces
 
 - [Finance](#finance)
-- [Marketing](#marketing)
 - [Sales & Account Management](#sales-&-account-management)
 - [Product](#product)
 - [Support](#support)
@@ -14,18 +13,6 @@ with:
 - Resource requirements
 - Annual Forecasts
 - Consumption reports for reconciliation
-
-## Marketing
-
-The Professional Services team interfaces with the Marketing team through dedicated Product
-Marketing Managers (PMM).
-
-The Professional Services team is responsible for providing the PMM with:
-
-- Understanding of possible solutions
-- Suitable candidates for case studies
-
-The responsibilities of the PMM can be found [here]().
 
 ## Sales & Account Management
 
