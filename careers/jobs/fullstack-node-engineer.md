@@ -42,7 +42,7 @@ We could list absolutely everything we use, but we don't want you falling asleep
 
 ## About You
 
-Please see our [Developer Proficiency](../../handbook/professional-development/developer-proficiency.md) for a full list of what we think makes a "Senior" developer, but some key call-outs are:
+Please see our [Developer Proficiency](../../handbook/professional-development/developer-proficiency.md) for a full list of what we think makes someone a Developer, but some key call-outs are:
 
 - Clearly able to identify and follow predefined patterns or approaches in an existing code base
 - Most comfortable working on clearly defined, well scoped features or problems
