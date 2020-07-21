@@ -1,6 +1,6 @@
 # Head of Engineering
 
-The Head of Engineering (HoE) oversees the engineering team that creates solutions within the Professional Services team. They are ultimately responsible for the output from the engineering team, and support them in their business as usual functions. They are the arbiters of engineering standards and interfacing with the rest of the business.
+The Head of Engineering (HoE) oversees the engineering team in the delivery of bespoke, Professional Services solutions. They are ultimately responsible for the output from the engineering team, and support them in their business as usual functions. They are the arbiters of engineering standards and interfacing with the rest of the business.
 
 ## Responsibilities
 
@@ -36,7 +36,7 @@ Our engineers must not only be security conscious, but have security front-of-mi
 
 ### Provide the right tools
 
-Good tool sets are an incredibly important part of allowing engineers to work at pace with minimal friction. The HoE will be responsible for ensuring the tools provided are relevant, and where one does not exist, to procure one or to lead a team in building them.
+Good tool sets are an incredibly important part of allowing engineers to work at pace with minimal friction. The HoE will be responsible for ensuring the tools provided are relevant, and where they do not exist, to procure them or to lead a team in building them.
 
 ### Create and document processes
 
@@ -44,7 +44,7 @@ The HoE will be responsible for enabling the engineering team to interface with 
 
 ## Communication
 
-The HoE will have communicate regularly with the following stakeholders.
+The HoE will communicate regularly with the following stakeholders:
 
 ### Professional Services Delivery Team
 
@@ -64,4 +64,4 @@ Interfacing directly with customers in order to provide support on whatever matt
 
 ## Reporting
 
-The HoE reports directly into the Chief Product Officer.
+The HoE reports directly into the VP of Solutions.

@@ -11,6 +11,7 @@ better.
 - [Careers](/careers)
 
 - [Guides](/guides)
+
   - [Acronyms](/guides/acronyms.md)
   - [Code Management](/guides/code-management)
     - [Git](/guides/code-management/git.md)
@@ -43,13 +44,14 @@ better.
     - [Ruby Client for Dialogflow API](/guides/dialogflow/ruby-client-for-dialogflow-api.md)
   - [Ruby gems](/guides/ruby-gems)
 
-- [Professional Services](/professional-services)
-
 - [Handbook](/handbook)
+
   - [Quick Reference Guide](/handbook/quick-reference.md)
   - [Information Security Policy](/handbook/information-security/README.md)
 
 - [Product](/product-org)
+
+- [Professional Services](/professional-services)
 
 - [Scripts](/scripts)
   - [Git Pull Requests](/scripts/git_merge_pull_request.sh)

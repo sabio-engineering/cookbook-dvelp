@@ -13,6 +13,7 @@ with:
 - Resource requirements
 - Annual Forecasts
 - Consumption reports for reconciliation
+- Weekly utilisation and contribution reports
 
 ## Sales & Account Management
 

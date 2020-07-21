@@ -11,5 +11,5 @@ Our playbook for building bespoke client-solutions at DVELP.
 
 The professional services team is responsible for delivering and maintaining bespoke client-solutions. There are two main areas of ownership that contribute to the whole approach:
 
-- [Delivery](delivery)
-- [Engineering](engineering)
+- Delivery
+- Engineering
