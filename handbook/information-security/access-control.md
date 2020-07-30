@@ -33,6 +33,7 @@
 | Cloudflare     | Vitalii Prodan                                                           | Ilya Lozer          |
 | DocuSign       | Ruby Williams                                                            | David Backhouse     |
 | Forecast       | James King                                                               | Annise Makki        |
+| GCP            | Vitalii Prodan                                                           | Tom Mullen          |
 | GSuite         | Ruby Williams                                                            | Tom Mullen          |
 | Github         | Ilya Lozer                                                               | Vitalii Prodan      |
 | Glassdoor      | Peter Sari                                                               | David Backhouse     |
