@@ -99,3 +99,9 @@ We are looking for someone to start as soon as possible, so applications will be
 To apply please apply [here](https://dvelp.co.uk/careers?gh_jid=4476417002) - we can't wait to hear from you!
 
 To learn more about what our hiring process entails, please see our [DVELP Careers Readme](../README.md#hiring-process). If you have any questions, please ask away.
+
+### The Small Print
+
+ - Strictly No Agencies; any submission of resumes without prior request from Sabio Group will not be deemed as an introduction and therefore will not warrant an introduction fee
+ - All applicants must have the right to work in the territory to which the role relates (UK & EU)
+ - Sabio Group are unable to offer sponsorship on any roles advertised
