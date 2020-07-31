@@ -94,7 +94,7 @@ As DVELP is a multi-national company with employees all over Europe, you'll have
 
 We are looking for someone to start as soon as possible, so applications will be considered as and when we receive them.
 
-To apply please apply [here](https://dvelp.co.uk/careers) - we can't wait to hear from you!
+To apply please apply [here](https://dvelp.co.uk/careers?gh_jid=4811086002) - we can't wait to hear from you!
 
 To learn more about what our hiring process entails, please see our [DVELP Careers Readme](../README.md#hiring-process). If you have any questions, please ask away.
 
