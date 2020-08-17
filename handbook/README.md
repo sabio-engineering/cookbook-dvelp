@@ -128,7 +128,7 @@ Directors.
 | Contact                                                     | Contact Details                                                         | Contact Deputy                       |
 | ----------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------ |
 | Data Protection Officer                                     | James King <br> james@dvelp.co.uk                                       | Ruby Williams <br/> ruby@dvelp.co.uk |
-| HR Manager                                                  | Ruby Williams <br/> james@dvelp.co.uk                                   | Tom Mullen <br/> ruby@dvelp.co.uk    |
+| HR Manager                                                  | Ruby Williams <br/> ruby@dvelp.co.uk                                   | George Dobbin <br/> george@dvelp.co.uk    |
 | Information Security Community Representative               | James King <br> james@dvelp.co.uk                                       | Ruby Williams <br/> ruby@dvelp.co.uk |
 | Information Security Officer                                | James King <br/> james@dvelp.co.uk                                      | Ruby Williams <br/> ruby@dvelp.co.uk |
 | Internal Security Auditor                                   | Ruby Williams <br/> ruby@dvelp.co.uk                                    | James King <br/> james@dvelp.co.uk   |
