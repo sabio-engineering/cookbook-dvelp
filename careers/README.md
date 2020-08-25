@@ -8,6 +8,7 @@ We're currently looking to recruit the following roles:
 
 - [Fullstack Node Engineer](jobs/fullstack-node-engineer.md)
 - [Senior Fullstack Node Engineer](jobs/senior-fullstack-node-engineer.md)
+- [Product Manager](jobs/product-manager.md)
 
 ## Hiring Process
 
