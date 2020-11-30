@@ -23,21 +23,21 @@ this data to commit fraud.
 Staff need to look out for any indications that a security incident has occurred
 or may be in progress, some of which are outlined below:
 
-* Suspicious or unusual activity on, or behaviour of, Web-facing systems.
-* Excessive or unusual log-in and system activity, in particular from
+- Suspicious or unusual activity on, or behaviour of, Web-facing systems.
+- Excessive or unusual log-in and system activity, in particular from
   any inactive user IDs (user accounts).
-* Excessive or unusual remote access activity into your business.
+- Excessive or unusual remote access activity into your business.
   This could be relating to DVELP staff or third party providers.
-* The occurrence of any new wireless (Wi-Fi) networks visible or accessible from
+- The occurrence of any new wireless (Wi-Fi) networks visible or accessible from
   the environment.
-* The presence of or unusual activity in relation to malware (malicious
+- The presence of or unusual activity in relation to malware (malicious
   software), suspicious files, or new/unapproved executables and programs. This
   could be on DVELP networks or systems and includes web-facing systems.
-* Hardware or software key-loggers found connected to or installed on systems.
-* Lost, stolen, or misplaced merchant copy receipts or any other records that
+- Hardware or software key-loggers found connected to or installed on systems.
+- Lost, stolen, or misplaced merchant copy receipts or any other records that
   display the full payment card number or card security code (the 3- or 4-digit
   number printed on the card).
-* Lost, stolen, or misplaced computers, laptops, hard drives, or other media
+- Lost, stolen, or misplaced computers, laptops, hard drives, or other media
   devices that contain payment card data or other sensitive data.
 
 ## Incident Management Process
@@ -84,7 +84,7 @@ inform all relevant parties.
 The [Incident Management](incident-response.md) will liaise with external
 parties, including the ICO, law enforcement, etc., to ensure appropriate
 incident investigation (which may include on-site forensic investigation) and
-gathering of evidence, as is required. The members of the 
+gathering of evidence, as is required. The members of the
 [Incident Management](incident-response.md) will take action to investigate and resolve
 the problem to the satisfaction of all parties and stakeholders involved. This
 will include confirmation that the required controls and security measures are
@@ -108,5 +108,5 @@ on reporting.
 
 ### Ownership
 
-James King is the owner of this document. You can contact him on
-<james@dvelp.co.uk>.
+Stephen Smith is the owner of this document. You can contact him on
+<ssmith@sabiogroup.com >.

@@ -4,9 +4,9 @@
 
 ### Physical security perimeter
 
-There are two security perimeters that affect our operations: 
+There are two security perimeters that affect our operations:
 
-1. Our London office 
+1. Our London office
 2. The locations of the Amazon Web Services data centres that run our remote servers
 
 ### Physical entry controls
@@ -29,11 +29,13 @@ found
 ### Working in secure areas
 
 Secure areas for us are:
-* Our employees' homes
-* Our London office
+
+- Our employees' homes
+- Our London office
 
 Whenever we are not in one of these secure areas we must:
-* respect the [off-premesis](#security-of-equipment-and-assets-off-premises)
+
+- respect the [off-premesis](#security-of-equipment-and-assets-off-premises)
   policy.
 
 ## Equipment
@@ -42,15 +44,16 @@ Whenever we are not in one of these secure areas we must:
 
 We often work in public places. This is because:
 
-* some members of our team work remotely from shared office spaces
-* we travel regularly to meet our clients and can work in transit
+- some members of our team work remotely from shared office spaces
+- we travel regularly to meet our clients and can work in transit
 
 In order to avoid any security breaches:
-* we never show and/or type passwords and access keys when others can see our
+
+- we never show and/or type passwords and access keys when others can see our
   screen
-* we never leave our devices unattended in public places
+- we never leave our devices unattended in public places
 
 ### Ownership
 
-James King is the owner of this document. You can contact him on
-<james@dvelp.co.uk>.
+Stephen Smith is the owner of this document. You can contact him on
+<ssmith@sabiogroup.com >.

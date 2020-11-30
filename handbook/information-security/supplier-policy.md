@@ -4,7 +4,7 @@ In providing our services we rely on a number of third party suppliers that have
 access to some of the sensitive information we handle. This policy sets out how
 we vet our suppliers to ensure that they use appropriate measures to protect this sensitive data.
 
-## Vetting Process 
+## Vetting Process
 
 We track all of our suppliers in our [Supplier
 List](https://docs.google.com/spreadsheets/d/14kog_nFut3v2t5mZNNatZ-oWb7tP3ImWdXjUP9EkZGc/edit?usp=sharing).
@@ -29,5 +29,5 @@ We review our supplier's information security policy on an annual basis to ensur
 
 ### Ownership
 
-James King is the owner of this document. You can contact him on
-<james@dvelp.co.uk>.
+Stephen Smith is the owner of this document. You can contact him on
+<ssmith@sabiogroup.com >.

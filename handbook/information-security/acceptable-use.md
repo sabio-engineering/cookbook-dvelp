@@ -173,5 +173,5 @@ Exceptions to this policy must be approved by the Information Security Officer.
 
 ### Ownership
 
-James King is the owner of this document. You can contact him on
-<james@dvelp.co.uk>.
+Stephen Smith is the owner of this document. You can contact him on
+<ssmith@sabiogroup.com >.

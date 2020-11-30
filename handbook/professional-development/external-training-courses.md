@@ -17,17 +17,17 @@ already have. If you believe you need more time to complete the course, please
 discuss this with your Project Manager(s).
 
 Once agreed with your Line Manager that it's appropriate and will help you
-achieve your goals, please contact James King with the details and cost of the
+achieve your goals, please contact Tom Mullen with the details and cost of the
 course. Once approved, you may purchase access to the course and submit an expense
 using the [DVELP Expenses Platform](https://dvelp-expenses.firebaseapp.com/expenses).
 
 _Note:_ Agreement with your Line Manager is not enough - you have to discuss it
-with James King before purchasing access to ensure your expense claim will be
+with Tom Mullen before purchasing access to ensure your expense claim will be
 approved!
 
 ## Upon Completion
 
-Once you attend a course that has been funded by DVELP, please let James King
+Once you attend a course that has been funded by DVELP, please let Tom Mullen
 know you have completed it. We would also like you to share what you've learned
 with the team. This can be in any format you wish, for example you could:
 
@@ -46,5 +46,5 @@ These follow the same process as courses you would like to attend.
 
 ### Ownership
 
-James King is the owner of this document. You can contact him on
-<james@dvelp.co.uk>.
+Tom Mullen is the owner of this document. You can contact him on
+<tom@dvelp.co.uk>.
