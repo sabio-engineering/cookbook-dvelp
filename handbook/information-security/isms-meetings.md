@@ -21,5 +21,5 @@ available
 
 ### Ownership
 
-James King is the owner of this document. You can contact him on
-<james@dvelp.co.uk>.
+Stephen Smith is the owner of this document. You can contact him on
+<ssmith@sabiogroup.com >.

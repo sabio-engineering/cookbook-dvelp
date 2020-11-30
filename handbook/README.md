@@ -125,19 +125,19 @@ Directors.
 
 ### Contacts
 
-| Contact                                                     | Contact Details                                                         | Contact Deputy                       |
-| ----------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------ |
-| Data Protection Officer                                     | James King <br> james@dvelp.co.uk                                       | Ruby Williams <br/> ruby@dvelp.co.uk |
-| HR Manager                                                  | Ruby Williams <br/> ruby@dvelp.co.uk                                   | George Dobbin <br/> george@dvelp.co.uk    |
-| Information Security Community Representative               | James King <br> james@dvelp.co.uk                                       | Ruby Williams <br/> ruby@dvelp.co.uk |
-| Information Security Officer                                | James King <br/> james@dvelp.co.uk                                      | Ruby Williams <br/> ruby@dvelp.co.uk |
-| Internal Security Auditor                                   | Ruby Williams <br/> ruby@dvelp.co.uk                                    | James King <br/> james@dvelp.co.uk   |
-| Principal Health and Safety Officer                         | Ruby Williams <br/> ruby@dvelp.co.uk                                    | James King <br/> james@dvelp.co.uk   |
-| Public Concern at Work (Independent whistleblowing charity) | Helpline: (020) 7404 6609 <br/> whistle@pcaw.co.uk <br/> www.pcaw.co.uk |                                      |
-| DVELP London Office                                         | Telephone: +44(0)7565956061                                             |                                      |
+| Contact                                                     | Contact Details                                                         | Contact Deputy                            |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------- |
+| Data Protection Officer                                     | Stephen Smith <br> ssmith@sabiogroup.com                                | Ruby Williams <br/> ruby@dvelp.co.uk      |
+| HR Manager                                                  | Ruby Williams <br/> ruby@dvelp.co.uk                                    | George Dobbin <br/> george@dvelp.co.uk    |
+| Information Security Community Representative               | Stephen Smith <br> ssmith@sabiogroup.com                                | Ruby Williams <br/> ruby@dvelp.co.uk      |
+| Information Security Officer                                | Stephen Smith <br/> ssmith@sabiogroup.com                               | Ruby Williams <br/> ruby@dvelp.co.uk      |
+| Internal Security Auditor                                   | Ruby Williams <br/> ruby@dvelp.co.uk                                    | Stephen Smith <br/> ssmith@sabiogroup.com |
+| Principal Health and Safety Officer                         | Ruby Williams <br/> ruby@dvelp.co.uk                                    | Stephen Smith <br/> ssmith@sabiogroup.com |
+| Public Concern at Work (Independent whistleblowing charity) | Helpline: (020) 7404 6609 <br/> whistle@pcaw.co.uk <br/> www.pcaw.co.uk |                                           |
+| DVELP London Office                                         | Telephone: +44(0)7565956061                                             |                                           |
 
 ### Teams
 
-| Team                                 | Members                                                                                               |
-| ------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| Information Security Management Team | James King <br/> Ilya Lozer <br/> Ruby Williams <br/> Tom Mullen <br/> Vitalii Prodan <br/> Dave Grix |
+| Team                                 | Members                                                                                                  |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| Information Security Management Team | Stephen Smith <br/> Ilya Lozer <br/> Ruby Williams <br/> Tom Mullen <br/> Vitalii Prodan <br/> Dave Grix |

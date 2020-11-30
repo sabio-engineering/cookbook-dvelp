@@ -25,39 +25,34 @@
   are absent. Deputy System Admins are not required to conduct the thorough
   monthly review.
 
-| System         | System Admin                                                             | Deputy System Admin |
-| -------------- | ------------------------------------------------------------------------ | ------------------- |
-| 1Password      | Ruby Williams                                                            | Tom Mullen          |
-| CharlieHR      | Ruby Williams                                                            | James King          |
-| CircleCI       | Tom Mullen                                                               | (single admin)      |
-| Cloudflare     | Vitalii Prodan                                                           | Ilya Lozer          |
-| DocuSign       | Ruby Williams                                                            | David Backhouse     |
-| Forecast       | James King                                                               | Annise Makki        |
-| GCP            | Vitalii Prodan                                                           | Tom Mullen          |
-| GSuite         | Ruby Williams                                                            | Tom Mullen          |
-| Github         | Ilya Lozer                                                               | Vitalii Prodan      |
-| Glassdoor      | Peter Sari                                                               | David Backhouse     |
-| Greenhouse     | Ruby Williams                                                            | Tom Mullen          |
-| Harvest        | James King                                                               | Annise Makki        |
-| Heroku         | Ilya Lozer                                                               | Vitalii Prodan      |
-| Hubspot        | David Backhouse                                                          | (single admin)      |
-| Instagram      | Peter Sari                                                               | David Backhouse     |
-| Jira           | Annise Makki                                                             | James King          |
-| Jira (Billing) | Tom Mullen                                                               | (single admin)      |
-| LinkedIn       | Peter Sari                                                               | David Backhouse     |
-| Looker         | Vitalii Prodan                                                           | Tom Mullen          |
-| Mailchimp      | Peter Sari                                                               | David Backhouse     |
-| NPM            | Dave Grix                                                                | James King          |
-| Papertrail     | Ilya Lozer                                                               | Tom Mullen          |
-| Sentry         | Ilya Lozer                                                               | Tom Mullen          |
-| Slack          | Ruby Williams                                                            | James King          |
-| Stitch         | Ilya Lozer                                                               | Tom Mullen          |
-| Trello         | Annise Makki                                                             | James King          |
-| Twilio         | Varies on a project by project basis. Please contact the Project Manager |                     |
-| Twitter        | Peter Sari                                                               | David Backhouse     |
-| Youtube        | Peter Sari                                                               | David Backhouse     |
+| System     | System Admin                                                             | Deputy System Admin |
+| ---------- | ------------------------------------------------------------------------ | ------------------- |
+| 1Password  | Ruby Williams                                                            | Tom Mullen          |
+| CircleCI   | Tom Mullen                                                               | (single admin)      |
+| Cloudflare | Vitalii Prodan                                                           | Ilya Lozer          |
+| DocuSign   | Ruby Williams                                                            | David Backhouse     |
+| GCP        | Vitalii Prodan                                                           | Tom Mullen          |
+| GSuite     | Ruby Williams                                                            | Tom Mullen          |
+| Github     | Ilya Lozer                                                               | Vitalii Prodan      |
+| Glassdoor  | Peter Sari                                                               | David Backhouse     |
+| Greenhouse | Ruby Williams                                                            | Tom Mullen          |
+| Heroku     | Ilya Lozer                                                               | Vitalii Prodan      |
+| Hubspot    | David Backhouse                                                          | (single admin)      |
+| Instagram  | Peter Sari                                                               | David Backhouse     |
+| LinkedIn   | Peter Sari                                                               | David Backhouse     |
+| Looker     | Vitalii Prodan                                                           | Tom Mullen          |
+| Mailchimp  | Peter Sari                                                               | David Backhouse     |
+| NPM        | Dave Grix                                                                | Tom Mullen          |
+| Papertrail | Ilya Lozer                                                               | Tom Mullen          |
+| Sentry     | Ilya Lozer                                                               | Tom Mullen          |
+| Slack      | Ruby Williams                                                            | Mark JL             |
+| Stitch     | Ilya Lozer                                                               | Tom Mullen          |
+| Trello     | Annise Makki                                                             | Mark JL             |
+| Twilio     | Varies on a project by project basis. Please contact the Project Manager |                     |
+| Twitter    | Peter Sari                                                               | David Backhouse     |
+| Youtube    | Peter Sari                                                               | David Backhouse     |
 
 ### Ownership
 
-James King is the owner of this document. You can contact him on
-<james@dvelp.co.uk>.
+Stephen Smith is the owner of this document. You can contact him on
+<ssmith@sabiogroup.com >.

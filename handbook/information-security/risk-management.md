@@ -19,17 +19,18 @@ Register](https://docs.google.com/spreadsheets/d/1gyK0zWSVlX-ZnXsN_c4-my86-hHjHE
 
 Risks are assessed by their:
 
-* Likelihood, on a scale from 1-5
-* Severity if they were to occur, on a scale from 1-5
+- Likelihood, on a scale from 1-5
+- Severity if they were to occur, on a scale from 1-5
 
 The product of these two figures results in the measure of their Impact.
 
 ![Risk Assessment Matrix](../../assets/risk-impact.png)
 
 The impact of a risk is then categorised as:
-*  **High**: Critical to the continued operation of DVELP, such as significant financial loss, major impact to reputation, loss of sensitive personal data
-*  **Medium**: Requiring quick resolution, significant impact on DVELP's operations, such as significant impact on reputation, damaging the trust with a client and/or partner
-*  **Low**: Can be accepted as normal business risk, mitigation plan not necessarily required
+
+- **High**: Critical to the continued operation of DVELP, such as significant financial loss, major impact to reputation, loss of sensitive personal data
+- **Medium**: Requiring quick resolution, significant impact on DVELP's operations, such as significant impact on reputation, damaging the trust with a client and/or partner
+- **Low**: Can be accepted as normal business risk, mitigation plan not necessarily required
 
 ### Risk Mitigation
 
@@ -39,5 +40,5 @@ impact to below this threshold.
 
 ### Ownership
 
-James King is the owner of this document. You can contact him on
-<james@dvelp.co.uk>.
+Stephen Smith is the owner of this document. You can contact him on
+<ssmith@sabiogroup.com >.

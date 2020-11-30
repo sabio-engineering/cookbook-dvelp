@@ -8,10 +8,12 @@ protection on the data we handle. The below table defines the categories of
 information we handle and how we should handle this information.
 
 Please speak with your line manager or project manager if:
-* There is any uncertainty around which of the below categories applies for the data you are working with
-* You are unsure on how to handle data
+
+- There is any uncertainty around which of the below categories applies for the data you are working with
+- You are unsure on how to handle data
 
 ## Categories
+
 |                                   | Public                                                                                           | Internal                                                                                                                      | Confidential                                                                                                                                                               |
 | --------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Considered sensitive information? | no                                                                                               | yes                                                                                                                           | yes                                                                                                                                                                        |
@@ -29,22 +31,24 @@ Data as defined below.
 ### Personal Identifiable Information
 
 Personal data is defined as biographical information, i.e. information by which an individual can be identified, including but not limited to:
-* their name
-* address
-* date of birth
+
+- their name
+- address
+- date of birth
 
 ### Sensitive Personal Data
 
 This includes data that relates to:
-* Race or ethnic origin
-* Political opinion
-* Religious belief
-* Health matters
-* Sexual orientation or preferences
-* Criminal convictions or security measures
-* Any other information relating to an individual held within corporate personnel files, i.e. salary, grievances, appraisals, etc.
+
+- Race or ethnic origin
+- Political opinion
+- Religious belief
+- Health matters
+- Sexual orientation or preferences
+- Criminal convictions or security measures
+- Any other information relating to an individual held within corporate personnel files, i.e. salary, grievances, appraisals, etc.
 
 ### Ownership
 
-James King is the owner of this document. You can contact him on
-<james@dvelp.co.uk>.
+Stephen Smith is the owner of this document. You can contact him on
+<ssmith@sabiogroup.com >.

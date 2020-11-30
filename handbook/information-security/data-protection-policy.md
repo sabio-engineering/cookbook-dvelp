@@ -176,8 +176,8 @@ Policy](./acceptable-use.md)
 #### Dealing with subject access requests
 
 A formal request from a data subject for information that we hold about them
-must be made in writing.  A fee is payable by the data subject for provision of
-this information.  Any member of staff who receives a written request should
+must be made in writing. A fee is payable by the data subject for provision of
+this information. Any member of staff who receives a written request should
 forward it to the [Data Protection Compliance Manager](../README.md#contacts)
 immediately.
 
@@ -209,5 +209,5 @@ data that is no longer needed to fulfil our customer's requirements.
 
 ### Ownership
 
-James King is the owner of this document. You can contact him on
-<james@dvelp.co.uk>.
+Stephen Smith is the owner of this document. You can contact him on
+<ssmith@sabiogroup.com >.
