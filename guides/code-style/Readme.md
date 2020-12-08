@@ -66,3 +66,7 @@ models, rather to act as a common starting point.
   * [Services](templates/services.md)
   * [Specs](templates/specs)
 
+## Security
+
+* On every change we need to check every relevant to the changes points from
+this list: [OWASP Web Application Security Testing Checklist](owasp-checklist.md).
