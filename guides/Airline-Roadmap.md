@@ -8,14 +8,6 @@ This section of the Cookbook defines our process for creating the roadmap for Ai
 
 This goal should be referred to throughout the roadmap process to make sure we prioritise and build the right features.
 
-## Airline Roadmap 
-
-You can find the Airline Roadmap here.
-
-[https://docs.google.com/spreadsheets/d/11aNJbQYyOEF2LWszwHLJzMIiCvry9gY46IfkrS67FKo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/11aNJbQYyOEF2LWszwHLJzMIiCvry9gY46IfkrS67FKo/edit?usp=sharing)
-
-All documentation related to Airline can be found in the [Airline Folder.](https://drive.google.com/drive/folders/17qbwCq6uampCZkJUk8_Xw5Vvvv48iJIL?usp=sharing)
-
 ## How is the Airline Roadmap Defined
 
 Goals are set on a quarterly basis by the Airline Product Manager based on the overall Airline Goal and discussion with the team.
@@ -32,4 +24,4 @@ We will give regular updates on the roadmap during monthly meetings and if you w
 |-----------------|-------------------|-----------------------------------------------------------------------------------------------------------------------|
 | Product Manager | Annise Makki      | Ensuring that Product Roadmap is defined based on key objectives and stakeholders input.                               |
 | Tech Lead       | Ilya Lozer        | Technical delivery of the project<br>Ensure excellence in code quality<br>Make sure DVELP technical standards are met |
-| Scrum Master    | Rotates regularly | Ensure scrum ceremonies occur and board hygiene is up to date.    
+| Scrum Master    | Rotates regularly | Ensure scrum ceremonies occur and board hygiene is up to date.
