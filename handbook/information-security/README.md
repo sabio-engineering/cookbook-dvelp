@@ -70,6 +70,10 @@ The legislation that DVELP has to comply with includes:
 - EU General Data Protection Regulation (2016/679) (“GDPR”)
 - EU Privacy and Electronic Communications Directive 2002/58/EC
 
+Additionally, DVELP has an obligation to some clients for Payment Card Industry
+Data Security Standard (PCI DSS) compliance. DVELP has created a PCI DSS Charter
+to manage this obligation.
+
 ## 4. Context of The Organisation
 
 ### Understanding the Organization and its Context
